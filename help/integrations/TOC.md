@@ -3,7 +3,7 @@ user-guide-title: Experience Cloud集成教程
 breadcrumb-title: Experience Cloud 集成
 user-guide-description: 集成学习。
 mini-toc-levels: 1
-source-git-commit: 510253b9fbf510ebdfb7e0cc51b854fa4c4bc07d
+source-git-commit: b11b179bfc87a44387cf4d331386e729f0ce8b71
 workflow-type: tm+mt
 source-wordcount: '92'
 ht-degree: 26%
@@ -23,7 +23,7 @@ ht-degree: 26%
    + [客户历程](./solution-categories/customer-journeys.md)
    + [数据洞察和激活](./solution-categories/data-insights.md)
    + [大规模个性化](./solution-categories/personalization.md)
-+ 应用程序集成{#integrations-between-applications}
++ 产品集成{#integrations-between-applications}
    + [概述](./integrations-between-applications/overview.md)
    + [!DNL Acrobat Sign]{#acrobat-sign}
       + [[!DNL Experience Manager]](./integrations-between-applications/acrobat-sign/acrobat-sign-experience-manager.md)
