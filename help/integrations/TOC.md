@@ -3,10 +3,10 @@ user-guide-title: Experience Cloud集成教程
 breadcrumb-title: Experience Cloud 集成
 user-guide-description: 集成学习。
 mini-toc-levels: 1
-source-git-commit: 97e310186bfbf3f6e3456006a4f8f233364e3453
+source-git-commit: 510253b9fbf510ebdfb7e0cc51b854fa4c4bc07d
 workflow-type: tm+mt
-source-wordcount: '91'
-ht-degree: 25%
+source-wordcount: '92'
+ht-degree: 26%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 25%
 + 解决方案类别{#solution-categories}
    + [概述](./solution-categories/overview.md)
    + [B2B营销](./solution-categories/b2b.md)
-   + [[!DNL Commerce]](./solution-categories/commerce.md)
+   + [Commerce](./solution-categories/commerce.md)
    + [内容管理](./solution-categories/content-management.md)
    + [内容供应链](./solution-categories/content-supply-chain.md)
    + [客户历程](./solution-categories/customer-journeys.md)
@@ -48,7 +48,7 @@ ht-degree: 25%
       + [[!DNL Experience Manager]](./integrations-between-applications/commerce/commerce-experience-manager.md)
    + [!DNL Creative Cloud]{#creative-cloud}
       + [[!DNL Workfront]](./integrations-between-applications/creative-cloud/creative-cloud-workfront.md)
-   + [!DNL Customer Journey [!DNL Analytics]]{#cja}
+   + [!DNL Customer Journey Analytics]{#cja}
       + [[!DNL Analytics]](./integrations-between-applications/cja/customer-journey-analytics-analytics.md)
       + [[!DNL Real-Time CDP]](./integrations-between-applications/cja/cja-rtcdp.md)
    + [!DNL Experience Manager]{#experience-manager}
