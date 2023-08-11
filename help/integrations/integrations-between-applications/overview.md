@@ -1,10 +1,10 @@
 ---
 title: Adobe Experience Cloud应用程序的集成配置 — 按产品
-description: 按产品组织的Adobe Experience Cloud应用程序的常见集成配置。
+description: 按产品组织的 Adobe Experience Cloud 应用程序的常见集成配置。
 source-git-commit: 594e0c2e79a401c872c8f9a4eafdda82572b37a3
 workflow-type: tm+mt
 source-wordcount: '119'
-ht-degree: 0%
+ht-degree: 9%
 
 ---
 

@@ -1,12 +1,12 @@
 ---
-user-guide-title: Experience Cloud集成教程
+user-guide-title: Experience Cloud 集成教程
 breadcrumb-title: Experience Cloud 集成
 user-guide-description: 集成学习。
 mini-toc-levels: 1
 source-git-commit: b11b179bfc87a44387cf4d331386e729f0ce8b71
 workflow-type: tm+mt
 source-wordcount: '92'
-ht-degree: 26%
+ht-degree: 32%
 
 ---
 
