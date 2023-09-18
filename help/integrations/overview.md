@@ -1,21 +1,19 @@
 ---
-title: Adobe Experience Cloud应用程序的集成配置
-description: Adobe Experience Cloud产品的常见集成配置。
-source-git-commit: 0dfb1462ea2b4c1dd1b3e83a2ffa39794f3b0246
+title: 应用程序集成
+description: 了解用于集成Experience Cloud应用程序的常见配置。 了解Adobe提供的同类最佳企业产品如何帮助您应对业务挑战。
+source-git-commit: e1655ab856d4623e4bbef0eb8099d94427cc3e62
 workflow-type: tm+mt
-source-wordcount: '168'
+source-wordcount: '161'
 ht-degree: 0%
 
 ---
 
 
-# Adobe Experience Cloud产品的集成配置
+# Experience Cloud应用程序的集成配置
 
-无论您是熟悉Adobe Experience Cloud产品，并且不确定集成它们的最佳方式，还是知道要努力实现的业务目标，但不确定应该使用哪些Adobe Experience Cloud产品，您找到了正确的位置。
+您是否熟悉Experience Cloud应用程序，但不确定如何最好地集成它们？ 您是否了解您的业务目标，但不确定要使用哪些应用程序？ 那你就来对地方了！
 
-您将找到按业务解决方案和Adobe产品划分的最常见的Adobe Experience Cloud产品集成。
-
-配置Adobe产品的方法多种多样，这在很大程度上取决于您的环境。  使用这些教程和视频作为指导，按原样部署或修改内容，以满足您的环境需求。
+这些Experience Cloud集成教程介绍了一些最常见的可用应用程序集成。 您的配置选项取决于您的环境，因此我们已按业务解决方案和应用程序组织了集成。 使用这些教程和视频作为按原样部署的指导，或者您可以修改它们以满足您的环境需求。
 
 <table>
 <tr>
@@ -28,15 +26,15 @@ ht-degree: 0%
 </tr>
 <tr>
    <td>
-      <div><strong><a href="./integrations-between-applications/overview.md">按产品</a></strong></div>
+      <div><strong><a href="./integrations-between-applications/overview.md">按应用程序</a></strong></div>
       <p>
-        您知道要使用哪种Adobe产品，并且想要了解如何集成它们。
+        您知道要使用哪些Adobe应用程序，并且希望了解如何集成它们。
       </p>
    </td>
    <td>
       <div><strong><a href="./solution-categories/overview.md">按业务解决方案</a></strong></div>
       <p>
-        您知道要寻找的业务解决方案，但不确定要使用哪种Adobe产品。
+        您知道要寻找的业务解决方案，但不确定要使用哪些Adobe应用程序。
       </p>
    </td>  
 </tr>   
