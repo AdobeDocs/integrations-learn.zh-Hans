@@ -1,17 +1,19 @@
 ---
-title: Adobe Experience Cloud应用程序的集成配置 — 按解决方案
-description: 按解决方案组织的 Adobe Experience Cloud 应用程序的常见集成配置。
-source-git-commit: 7ed617ac0ba6b340ff94cdee47914645e0ec6615
+title: 应用程序集成配置 — 按业务解决方案
+description: 了解按业务解决方案组织的Experience Cloud应用程序的常见集成配置。
+exl-id: eb460a4e-924f-4dcf-a2e2-5fa5a7bc9fdf
+source-git-commit: 8bcf161013259850165418dccd18ebd7f4ea3c93
 workflow-type: tm+mt
-source-wordcount: '177'
-ht-degree: 10%
+source-wordcount: '183'
+ht-degree: 2%
 
 ---
 
+# Experience Cloud的集成配置 — 按解决方案组织
 
-# Adobe Experience Cloud应用程序的集成配置 — 按解决方案
+本部分帮助任何有业务需求的人，但不确定要使用哪些Adobe应用程序以及如何集成它们。 以下是按解决方案（B2B营销、内容供应链、数据洞察和激活等）整理的许多最常见的集成配置。
 
-此部分将帮助任何有业务需求但不确定要使用哪些Adobe产品以及如何集成这些产品的人。  我们已按解决方案类别为Adobe企业产品组织了许多最常见的集成配置。  请记住，根据您的环境配置Adobe产品的方式有很多种。  本节旨在提供指导，以便您能够按原样部署或修改以满足您的环境需求。
+请记住，配置Adobe应用程序的方法多种多样，具体取决于您的环境。 本节旨在提供指导，以便您能够按原样部署或修改它们，以满足您的环境需求。
 
 <table>
 <tr>
@@ -24,7 +26,7 @@ ht-degree: 10%
     </td>
    <td>
       <a  href="./commerce.md"><img alt="商务" src="https://cdn.experienceleague.adobe.com/thumb/commerce.png"/></a>
-      <div><strong><a href="./commerce.md">[!DNL Commerce]</a></strong></div>
+      <div><strong><a href="./commerce.md">Commerce</a></strong></div>
       <p>
         B2B和B2C数字商务
       </p>
@@ -69,4 +71,3 @@ ht-degree: 10%
       </p>
    </td>
 </table>
-

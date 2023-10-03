@@ -1,17 +1,19 @@
 ---
-title: Adobe Experience Cloud应用程序的集成配置 — 按产品
-description: 按产品组织的 Adobe Experience Cloud 应用程序的常见集成配置。
-source-git-commit: 7ed617ac0ba6b340ff94cdee47914645e0ec6615
+title: 集成配置 — 按应用程序
+description: 了解按应用程序组织的Experience Cloud的常见集成配置。
+exl-id: 80c75142-aa73-4bac-8bed-22e0af50ec50
+source-git-commit: 8bcf161013259850165418dccd18ebd7f4ea3c93
 workflow-type: tm+mt
-source-wordcount: '119'
-ht-degree: 9%
+source-wordcount: '105'
+ht-degree: 0%
 
 ---
 
+# Experience Cloud的集成配置 — 按应用程序组织
 
-# Adobe Experience Cloud产品的集成配置 — 按产品
+此部分帮助那些熟悉Adobe应用程序并想要通过集成多个Adobe应用程序创造业务价值的人员。 我们为Adobe企业应用程序组织了许多常见的集成配置，并将它们映射到实际用例。
 
-此部分将帮助那些熟悉Adobe产品并想要通过集成多个Adobe产品而创造商业价值的任何人。  我们已为Adobe企业产品组织了许多常见的集成配置，并将它们映射到实际用例。  可通过多种方式根据您的环境配置Adobe产品。  本节旨在提供指导，以便您能够按原样部署或修改以满足您的环境需求。
+配置Adobe应用程序的方法多种多样，具体取决于您的环境。 此部分提供指导，帮助您按原样部署或修改它们，以满足您的环境需求。
 
 >[!NOTE]
 >
