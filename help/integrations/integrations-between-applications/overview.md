@@ -1,11 +1,11 @@
 ---
 title: 集成配置 — 按应用程序
-description: 了解按应用程序组织的Experience Cloud的常见集成配置。
+description: 了解按应用程序分类的 Experience Cloud 的常见集成配置。
 exl-id: 80c75142-aa73-4bac-8bed-22e0af50ec50
 source-git-commit: 8bcf161013259850165418dccd18ebd7f4ea3c93
 workflow-type: tm+mt
 source-wordcount: '105'
-ht-degree: 0%
+ht-degree: 10%
 
 ---
 

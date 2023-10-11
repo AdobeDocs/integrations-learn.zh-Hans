@@ -1,11 +1,11 @@
 ---
 title: 应用程序集成配置 — 按业务解决方案
-description: 了解按业务解决方案组织的Experience Cloud应用程序的常见集成配置。
+description: 了解按业务解决方案分类的 Experience Cloud 应用程序的常见集成配置。
 exl-id: eb460a4e-924f-4dcf-a2e2-5fa5a7bc9fdf
 source-git-commit: 8bcf161013259850165418dccd18ebd7f4ea3c93
 workflow-type: tm+mt
 source-wordcount: '183'
-ht-degree: 2%
+ht-degree: 9%
 
 ---
 
