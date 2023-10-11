@@ -1,17 +1,18 @@
 ---
-title: 内容供应链
+title: 内容供应链的应用程序集成
 description: 规划、创建、个性化和发布内容。
-source-git-commit: 94b074c17e976e4f4acbb1ff41aacfc9bf74744c
+exl-id: 00a15be9-612e-4210-8b2a-77274aa5713c
+source-git-commit: 509b227f360718e81fb19d3a4d30aebf9de49e5a
 workflow-type: tm+mt
-source-wordcount: '283'
+source-wordcount: '286'
 ht-degree: 3%
 
 ---
 
-
 # 内容供应链
 
 针对每位客户规划、创建、个性化和发布令人难忘的内容 — 以目前的速度进行。
+
 满足客户对个性化体验的实时期望需要比以往更多的数字内容。 利用Adobe的创意工作流程和资产管理解决方案，您的团队可以大规模规划、创建和提供个性化内容，支持客户在每个接触点的历程。
 
 <table>

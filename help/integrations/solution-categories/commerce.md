@@ -1,13 +1,13 @@
 ---
-title: Commerce
+title: Commerce的应用程序集成
 description: 使用我们灵活的AI支持的商业解决方案，在单个平台上构建多渠道商业体验。
-source-git-commit: 94b074c17e976e4f4acbb1ff41aacfc9bf74744c
+exl-id: ffd78652-e828-4a2c-97ce-0da777d9db2c
+source-git-commit: 509b227f360718e81fb19d3a4d30aebf9de49e5a
 workflow-type: tm+mt
-source-wordcount: '162'
-ht-degree: 4%
+source-wordcount: '165'
+ht-degree: 3%
 
 ---
-
 
 # [!DNL Commerce]
 

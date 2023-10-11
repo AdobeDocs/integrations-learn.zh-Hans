@@ -1,13 +1,13 @@
 ---
-title: 客户历程
+title: 客户历程的应用程序集成
 description: 通过从所有来源提取数据以创建个性化的跨渠道历程来开发实时客户档案。
-source-git-commit: 94b074c17e976e4f4acbb1ff41aacfc9bf74744c
+exl-id: eb653b89-db0f-433a-8641-bbeb32197096
+source-git-commit: 509b227f360718e81fb19d3a4d30aebf9de49e5a
 workflow-type: tm+mt
-source-wordcount: '282'
+source-wordcount: '286'
 ht-degree: 2%
 
 ---
-
 
 # 客户历程
 
@@ -118,4 +118,3 @@ ht-degree: 2%
 </tr>
 </tbody>
 </table>
-

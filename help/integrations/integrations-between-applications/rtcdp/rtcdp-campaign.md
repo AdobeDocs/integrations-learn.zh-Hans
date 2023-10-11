@@ -1,7 +1,7 @@
 ---
-title: 集成实时客户数据 [!DNL Platform] 替换为 [!DNL Campaign]
-description: 了解如何集成实时客户数据 [!DNL Platform] 替换为 [!DNL Campaign]
-solution: Real-Time Customer Data [!DNL Platform], [!DNL Campaign]
+title: 将Real-time Customer Data Platform与集成 [!DNL Campaign]
+description: 了解如何将Real-time Customer Data Platform与集成 [!DNL Campaign]
+solution: Real-Time Customer Data Platform, [!DNL Campaign]
 feature: Integrations
 topic: Integrations
 role: Leader, Architect, Admin, Developer
@@ -10,13 +10,13 @@ index: false
 thumbnail: campaign-rtcdp.png
 badgeIntegration: label="集成" type="positive"
 last-substantial-update: 2023-06-30T00:00:00Z
-source-git-commit: 7ed617ac0ba6b340ff94cdee47914645e0ec6615
+exl-id: 37d983a1-6ede-4a35-864b-9ad7c9868821
+source-git-commit: 509b227f360718e81fb19d3a4d30aebf9de49e5a
 workflow-type: tm+mt
-source-wordcount: '19'
-ht-degree: 5%
+source-wordcount: '21'
+ht-degree: 4%
 
 ---
-
 
 # 集成实时客户数据 [!DNL Platform] 替换为 [!DNL Campaign]
 

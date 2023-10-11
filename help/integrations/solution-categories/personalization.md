@@ -1,13 +1,13 @@
 ---
-title: 大规模个性化
+title: 大规模个性化的应用程序集成
 description: 让个性化的体验成为每个时刻的一部分。
-source-git-commit: 94b074c17e976e4f4acbb1ff41aacfc9bf74744c
+exl-id: 6d18813d-950c-40ae-8d5b-80bf389358fc
+source-git-commit: 509b227f360718e81fb19d3a4d30aebf9de49e5a
 workflow-type: tm+mt
-source-wordcount: '513'
+source-wordcount: '516'
 ht-degree: 1%
 
 ---
-
 
 # 大规模个性化
 

@@ -1,13 +1,13 @@
 ---
-title: 数据洞察和激活
+title: 数据洞察和激活的应用程序集成
 description: 使用您整个组织的在线和离线数据洞察，推动任何渠道的实时个性化。
-source-git-commit: 94b074c17e976e4f4acbb1ff41aacfc9bf74744c
+exl-id: 9f22085a-306e-48e8-9b86-6429d851df58
+source-git-commit: 509b227f360718e81fb19d3a4d30aebf9de49e5a
 workflow-type: tm+mt
-source-wordcount: '538'
+source-wordcount: '541'
 ht-degree: 1%
 
 ---
-
 
 # 数据洞察和激活
 
