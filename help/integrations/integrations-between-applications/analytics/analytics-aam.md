@@ -1,6 +1,6 @@
 ---
-title: 集成 [!DNL Analytics] 带有Audience Manager
-description: 了解如何集成 [!DNL Analytics] Audience Manager。
+title: 将 [!DNL Analytics] 与Audience Manager集成
+description: 了解如何将 [!DNL Analytics] 与Audience Manager集成。
 solution: Analytics, Audience Manager
 feature: Integrations
 topic: Integrations
@@ -11,14 +11,14 @@ thumbnail: aam-analytics.png
 index: false
 badgeIntegration: label="集成" type="positive"
 last-substantial-update: 2023-04-14T00:00:00Z
-source-git-commit: 7ed617ac0ba6b340ff94cdee47914645e0ec6615
+exl-id: cc08fb38-89d0-447b-8d95-2c7120fe3bcd
+source-git-commit: d35dc06c56c117cffe70542b6713f275877e4879
 workflow-type: tm+mt
 source-wordcount: '16'
 ht-degree: 6%
 
 ---
 
-
-# 集成 [!DNL Analytics] 带有Audience Manager
+# 将[!DNL Analytics]与Audience Manager集成
 
 {{$include /help/_includes/integrations-between-applications/analytics-aam.md}}

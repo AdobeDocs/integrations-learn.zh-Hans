@@ -26,7 +26,7 @@ ht-degree: 2%
   <tbody>
 <tr>
   <td><strong>使用品牌资产创建营销宣传资料</strong><br></td>
-  <td>使用AEM和Adobe构建和监督电子邮件营销内容和模板 [!DNL Campaign].</td>
+  <td>使用AEM和Adobe[!DNL Campaign]生成并监视电子邮件营销内容和模板。</td>
   <td>
     <ul style="margin-top: 0;">
       <li>发送使用AEM创建的营销电子邮件</li>
@@ -37,14 +37,14 @@ ht-degree: 2%
 
 <tr>
   <td><strong>捕获客户数据</strong><br></td>
- <td>增强本机 [!DNL Campaign] 用于捕获客户数据以进行营销活动定位和个性化的功能。</td>
+ <td>增强本机[!DNL Campaign]功能，以捕获客户数据用于营销活动的定位和个性化。</td>
   <td>
     <ul style="margin-top: 0;">
       <li>创建用户档案并收集其他信息。 </li>
       <li>订阅</li>
     </ul>
   </td>
-  <td><a href="../integrations-between-applications/experience-manager/experience-manager-campaign.md">AEM Forms和 [!DNL Campaign] 标准</a></td>
+  <td><a href="../integrations-between-applications/experience-manager/experience-manager-campaign.md">AEM Forms和[!DNL Campaign] Standard</a></td>
 </tr>
 
 <tr>
@@ -83,7 +83,7 @@ ht-degree: 2%
 
 <tr>
   <td><strong>个性化电子邮件投放</strong><br></td>
-  <td>利用Adobe功能，使用动态内容个性化电子邮件投放 [!DNL Target].</td>
+  <td>利用Adobe[!DNL Target]的功能，使用动态内容个性化电子邮件投放。</td>
   <td>
     <ul style="margin-top: 0;">
       <li>向客户电子邮件添加个性化优惠</li>
@@ -94,7 +94,7 @@ ht-degree: 2%
 
 <tr>
   <td><strong>个性化数字体验</strong><br></td>
-  <td>使用实时客户配置文件并集中管理 [!DNL Platform] 区段，用于在Web、移动和其他数字渠道间个性化消息传递。</td>
+  <td>使用实时客户配置文件和集中管理的[!DNL Platform]区段来个性化跨Web、移动和其他数字渠道的消息传递。</td>
   <td>
     <ul style="margin-top: 0;">
       <li>已知访客的内容个性化</li>
@@ -103,18 +103,18 @@ ht-degree: 2%
       <li>实时选件个性化</li>
     </ul>
   </td>
-  <td><a href="../integrations-between-applications/rtcdp/rtcdp-target.md">实时客户数据 [!DNL Platform] 和 [!DNL Target]</a></td>
+  <td><a href="../integrations-between-applications/rtcdp/rtcdp-target.md">实时客户数据[!DNL Platform]和 [!DNL Target]</a></td>
 </tr>
 
 <tr>
   <td><strong>增强商机拓展</strong><br></td>
-  <td>使用实时客户配置文件并集中管理 [!DNL Platform] 区段，用于在Web、移动和其他数字渠道之间个性化消息传递</td>
+  <td>使用实时客户配置文件和集中管理的[!DNL Platform]区段来个性化跨Web、移动和其他数字渠道的消息传递</td>
   <td>
     <ul style="margin-top: 0;">
       <li>已知访客的内容个性化</li>
     </ul>
   </td>
-  <td><a href="../integrations-between-applications/rtcdp/rtcdp-target.md">实时客户数据 [!DNL Platform] 和 [!DNL Target]</a></td>
+  <td><a href="../integrations-between-applications/rtcdp/rtcdp-target.md">实时客户数据[!DNL Platform]和 [!DNL Target]</a></td>
 </tr>
 </tbody>
 </table>

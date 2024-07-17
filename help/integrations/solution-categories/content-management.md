@@ -28,7 +28,8 @@ ht-degree: 1%
     <tr>
       <td><strong>使用品牌资产创建营销宣传资料</strong></td>
       <td>
-        使用AEM和Adobe构建和监督电子邮件营销内容和模板 [!DNL Campaign].
+        使用AEM和构建并监督电子邮件营销内容和模板
+        Adobe[!DNL Campaign]。
       </td>
       <td>
         <ul style="margin-top: 0;">
@@ -40,14 +41,15 @@ ht-degree: 1%
           href="../integrations-between-applications/campaign/campaign-experience-manager.md"
           target="_blank"
           rel="noopener noreferrer"
-          >[!DNL Campaign] 和AEM</a
+          >[!DNL Campaign]和AEM</a
         >
       </td>
     </tr>
     <tr>
       <td><strong>衡量营销图像使用情况和性能</strong></td>
       <td>
-        通过集成AEM Assets和Adobe来跟踪和分析营销图像的有效性 [!DNL Analytics].
+        通过集成跟踪和分析营销图像的有效性
+        AEM Assets和Adobe[!DNL Analytics]。
       </td>
       <td>
         <ul style="margin-top: 0;">
@@ -61,14 +63,15 @@ ht-degree: 1%
           href="../integrations-between-applications/experience-manager/experience-manager-analytics.md"
           target="_blank"
           rel="noopener noreferrer"
-          >AEM Assets和 [!DNL Analytics]</a
+          >AEM Assets和[!DNL Analytics]</a
         >
       </td>
     </tr>
     <tr>
       <td rowspan="3"><strong>管理资源创建</strong></td>
       <td>
-        通过集成AEM Assets和Workfront，协调和衡量企业中的资源创建。
+        协调和衡量企业中的资产创建
+        通过集成AEM Assets和Workfront。
       </td>
       <td>
         <ul style="margin-top: 0;">
@@ -89,7 +92,8 @@ ht-degree: 1%
     </tr>
     <tr>
       <td>
-        通过集成AEM Assets Essentials和Workfront，协调和衡量部门中资源的创建。
+        通过以下方式协调和衡量部门中资产的创建
+        集成AEM Assets Essentials和Workfront。
       </td>
       <td>
         <ul style="margin-top: 0;">
@@ -109,7 +113,8 @@ ht-degree: 1%
     </tr>
     <tr>
       <td>
-        跨Creative Cloud和Workfront应用程序创建和管理资源更新
+        跨Creative Cloud和Workfront创建和管理资源更新
+        应用程序
       </td>
       <td>
         <ul style="margin-top: 0;">
@@ -130,7 +135,8 @@ ht-degree: 1%
     <tr>
       <td><strong>捕获客户数据</strong></td>
       <td>
-        增强本机 [!DNL Campaign] 用于捕获客户数据以进行营销活动定位和个性化的功能。
+        增强用于捕获客户数据的本机[!DNL Campaign]功能
+        营销活动的定位和个性化。
       </td>
       <td>
         <ul style="margin-top: 0;">
@@ -143,19 +149,21 @@ ht-degree: 1%
           href="../integrations-between-applications/experience-manager/experience-manager-campaign.md"
           target="_blank"
           rel="noopener noreferrer"
-          >AEM Forms和 [!DNL Campaign] 标准</a
+          >AEM Forms和[!DNL Campaign] Standard</a
         >
       </td>
     </tr>
     <tr>
       <td><strong>创建个性化PDF文档</strong></td>
       <td>
-        根据用户选择/偏好设置生成要签名的通信文档。
+        根据用户生成要签名的通信文档
+        选择/首选项。
       </td>
       <td>
         <ul style="margin-top: 0;">
           <li>
-            根据AEM Forms提交以供签名的数据提供动态生成的NDA
+            基于来自AEM的数据呈现动态生成的NDA
+            提交Forms以进行签名
           </li>
         </ul>
       </td>
@@ -171,12 +179,14 @@ ht-degree: 1%
     <tr>
       <td><strong>生成潜在客户</strong></td>
       <td>
-        使用从表单提交中捕获的数据，用于潜在客户生成、客户细分和个性化营销活动。
+        使用从表单提交中捕获的数据生成商机，
+        客户细分和个性化营销活动。
       </td>
       <td>
         <ul style="margin-top: 0;">
           <li>
-            为Web和移动设备设计和发布动态和交互式表单，以便挖掘商机。
+            为Web和移动设计和发布动态和交互式表单
+            用于潜在客户生成的设备。
           </li>
         </ul>
       </td>
@@ -192,7 +202,8 @@ ht-degree: 1%
     <tr>
       <td><strong>个性化电子邮件投放</strong></td>
       <td>
-        利用Adobe功能，使用动态内容个性化电子邮件投放 [!DNL Target].
+        利用动态内容个性化电子邮件投放
+        Adobe[!DNL Target]的功能。
       </td>
       <td>
         <ul style="margin-top: 0;">
@@ -211,18 +222,22 @@ ht-degree: 1%
     <tr>
       <td rowspan="2"><strong>展开个性化和广告平台的受众</strong></td>
       <td>
-        在Real-Time CDP中使用Audience Manager区段创建受众，以用于个性化和再营销策略。
+        使用Audience Manager区段在Real-Time CDP中创建要使用的受众
+        个性化和再营销策略。
       </td>
       <td>
         <ul style="margin-top: 0;">
           <li>
-            在网站、移动应用程序或支持的广告渠道上执行匿名数字受众定位和个性化
+            对执行匿名数字受众定位和个性化
+            网站、移动应用程序或支持的广告渠道上的
           </li>
           <li>
-            根据已知设备和行为特征优化登陆页面和预身份验证体验
+            根据优化登陆页面和预身份验证体验
+            已知设备和行为特征
           </li>
           <li>
-            利用Audience Manager第三方数据网络，进一步优化和扩展您的受众以定位
+            利用Audience Manager第三方数据网络进一步实现
+            优化和扩展受众以进行定位
           </li>
           <li>将Audience Manager区段共享到RTCDP</li>
         </ul>
@@ -232,21 +247,24 @@ ht-degree: 1%
           href="../integrations-between-applications/aam/aam-rtcdp.md"
           target="_blank"
           rel="noopener noreferrer"
-          >Audience Manager和实时客户数据 [!DNL Platform]</a
+          >Audience Manager和实时客户数据[!DNL Platform]</a
         >
       </td>
     </tr>
     <tr>
       <td>
-        使用 [!DNL Analytics] 用于创建受众以用于个性化或再营销策略的数据。
+        使用[!DNL Analytics]数据创建受众以用于个性化或
+        再营销策略。
       </td>
       <td>
         <ul style="margin-top: 0;">
           <li>
-            在设备或支持的广告渠道上执行数字受众定位和个性化。
+            在设备上执行数字受众定位和个性化，或
+            支持的广告渠道。
           </li>
           <li>
-            根据设备和行为属性优化已知的客户登陆页面和匿名体验。
+            优化已知的客户登陆页面和匿名体验
+            基于设备和行为属性。
           </li>
           <li>将受众激活到已知渠道，如电子邮件和短信。</li>
         </ul>
@@ -256,14 +274,15 @@ ht-degree: 1%
           href="../integrations-between-applications/analytics/analytics-rtcdp.md"
           target="_blank"
           rel="noopener noreferrer"
-          >[!DNL Analytics] 和实时客户数据 [!DNL Platform]</a
+          >[!DNL Analytics]和实时客户数据[!DNL Platform]</a
         >
       </td>
     </tr>    
     <tr>
       <td rowspan="2"><strong>个性化Web体验</strong></td>
       <td>
-        通过有效地将SPA Headless与Adobe结合使用，自定义单页应用程序(AEM)体验 [!DNL Target].
+        通过有效地自定义单页应用程序(SPA)体验
+        将AEM Headless与Adobe[!DNL Target]结合使用。
       </td>
       <td>
         <ul style="margin-top: 0;">
@@ -277,13 +296,14 @@ ht-degree: 1%
           href="../integrations-between-applications/experience-manager/experience-manager-target.md"
           target="_blank"
           rel="noopener noreferrer"
-          >AEM无头和 [!DNL Target]</a
+          >AEM Headless和[!DNL Target]</a
         >
       </td>
     </tr>
     <tr>
       <td>
-        通过有效利用AEM Sites和Adobe提供量身定制的网站体验 [!DNL Target] 进行个性化。
+        通过有效利用AEM Sites提供量身定制的网站体验
+        和Adobe[!DNL Target]进行个性化。
       </td>
       <td>
         <ul style="margin-top: 0;">
@@ -297,14 +317,15 @@ ht-degree: 1%
           href="../integrations-between-applications/experience-manager/experience-manager-target.md"
           target="_blank"
           rel="noopener noreferrer"
-          >AEM Sites和 [!DNL Target]</a
+          >AEM Sites和[!DNL Target]</a
         >
       </td>
     </tr>
     <tr>
       <td><strong>个性化数字体验</strong></td>
       <td>
-        使用实时客户配置文件并集中管理 [!DNL Platform] 区段，用于在Web、移动和其他数字渠道之间个性化消息传递
+        使用实时客户配置文件和集中管理的[!DNL Platform]区段
+        个性化跨Web、移动和其他数字渠道的消息传递
       </td>
       <td>
         <ul style="margin-top: 0;">
@@ -319,14 +340,15 @@ ht-degree: 1%
           href="../integrations-between-applications/rtcdp/rtcdp-target.md"
           target="_blank"
           rel="noopener noreferrer"
-          >实时客户数据 [!DNL Platform] 和 [!DNL Target]</a
+          >实时客户数据[!DNL Platform]和[!DNL Target]</a
         >
       </td>
     </tr>     
     <tr>
       <td><strong>增强商机拓展</strong></td>
       <td>
-        使用实时客户配置文件并集中管理 [!DNL Platform] 区段，用于在Web、移动和其他数字渠道之间个性化消息传递
+        使用实时客户配置文件和集中管理的[!DNL Platform]区段
+        个性化跨Web、移动和其他数字渠道的消息传递
       </td>
       <td>
         <ul style="margin-top: 0;">
@@ -338,7 +360,7 @@ ht-degree: 1%
           href="../integrations-between-applications/rtcdp/rtcdp-target.md"
           target="_blank"
           rel="noopener noreferrer"
-          >实时客户数据 [!DNL Platform] 和 [!DNL Target]</a
+          >实时客户数据[!DNL Platform]和[!DNL Target]</a
         >
       </td>
     </tr>

@@ -4,8 +4,8 @@ description: 了解按业务解决方案分类的 Experience Cloud 应用程序�
 exl-id: eb460a4e-924f-4dcf-a2e2-5fa5a7bc9fdf
 source-git-commit: 8bcf161013259850165418dccd18ebd7f4ea3c93
 workflow-type: tm+mt
-source-wordcount: '183'
-ht-degree: 9%
+source-wordcount: '178'
+ht-degree: 11%
 
 ---
 
@@ -56,16 +56,16 @@ ht-degree: 9%
     </td>
    <td>
       <a  href="./data-insights.md"><img alt="数据洞察和激活" src="https://cdn.experienceleague.adobe.com/thumb/data-insights.png"/></a>
-      <div><strong><a href="./data-insights.md"> 数据洞察和激活</a></strong></div>
+      <div><strong><a href="./data-insights.md">数据洞察和激活</a></strong></div>
       <p>
-        [!DNL Analytics] 和受众管理
+        [!DNL Analytics]和受众管理
       </p>
    </td>  
 </tr>
 <tr>
    <td>
-      <a  href="./personalization.md"><img alt="大规模个性化" src="https://cdn.experienceleague.adobe.com/thumb/personalization.png"/></a>
-      <div><strong><a href="./personalization.md">大规模个性化</a></strong></div>
+      <a  href="./personalization.md"><img alt="大规模Personalization" src="https://cdn.experienceleague.adobe.com/thumb/personalization.png"/></a>
+      <div><strong><a href="./personalization.md">Personalization作为规模</a></strong></div>
       <p>
         如何使每个连接成为个人的
       </p>

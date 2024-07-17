@@ -1,6 +1,6 @@
 ---
-title: 集成 [!DNL Campaign] 替换为 [!DNL Real-Time Customer Data Platform]
-description: 了解如何集成 [!DNL Campaign] 替换为 [!DNL Real-Time Customer Data Platform].
+title: 将 [!DNL Campaign] 与 [!DNL Real-Time Customer Data Platform]集成
+description: 了解如何将 [!DNL Campaign] 与 [!DNL Real-Time Customer Data Platform]集成。
 solution: Campaign, Campaign v8 Client Console, Campaign v8 Web User Interface, Real-Time Customer Data Platform
 feature: Integrations
 topic: Integrations
@@ -17,6 +17,6 @@ ht-degree: 7%
 
 ---
 
-# 集成 [!DNL Campaign] 使用实时客户数据 [!DNL Platform]
+# 将[!DNL Campaign]与实时客户数据[!DNL Platform]集成
 
 {{$include /help/_includes/integrations-between-applications/campaign-rtcdp.md}}

@@ -1,23 +1,23 @@
 ---
 source-git-commit: 94b074c17e976e4f4acbb1ff41aacfc9bf74744c
 workflow-type: tm+mt
-source-wordcount: '111'
-ht-degree: 5%
+source-wordcount: '105'
+ht-degree: 2%
 
 ---
 
 
-# [!DNL Campaign] 和 [!DNL Target] 集成
+# [!DNL Campaign]和[!DNL Target]集成
 
 {{campaign-description}}
 
 {{target-description}}
 
-使用Adobe [!DNL Campaign] 带有Adobe [!DNL Target] 以个性化和优化电子邮件内容。 主要优势包括：
+使用带有Adobe[!DNL Target]的Adobe[!DNL Campaign]来个性化和优化电子邮件内容。 主要优势包括：
 
-+ **Adobe [!DNL Campaign] 数据**：增强Adobe中的定位功能 [!DNL Target] 带有Adobe [!DNL Campaign] 数据市场。
-+ **受众分段**：将区段链接到访客ID，以优化定位和个性化体验。
-+ **[!DNL Target]ing增强功能**：访问宝贵的数据（用户代理、IP地址、地理位置）以改进定位和营销活动。
++ **Adobe[!DNL Campaign]数据**：使用Adobe[!DNL Campaign]数据集市增强Adobe[!DNL Target]中的定位。
++ **受众分段**：将区段链接到访客ID，以实现优化的定位和个性化体验。
++ **[!DNL Target]增强功能**：访问有用的数据（用户代理、IP地址、地理位置）以改进定位和营销活动。
 
 ## 常见集成
 
@@ -25,7 +25,7 @@ ht-degree: 5%
     <thead>
         <tr>
             <th>Experience Cloud应用程序</th>
-            <th>使用场合</th>
+            <th>使用时间</th>
             <th>常见使用案例</th>
         </tr>
     </thead>

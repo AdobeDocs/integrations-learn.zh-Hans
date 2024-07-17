@@ -1,8 +1,8 @@
 ---
 source-git-commit: 838a4dc4cc89da5d9b3798dc62d518dac22e1d3a
 workflow-type: tm+mt
-source-wordcount: '220'
-ht-degree: 5%
+source-wordcount: '206'
+ht-degree: 1%
 
 ---
 
@@ -15,11 +15,11 @@ ht-degree: 5%
 
 AEM和Workfront可简化内容制作，允许将托管内容从Workfront无缝导入到AEM中，以实现高效的组织和访问，确保及时和高质量的数字资产交付。 主要优势包括：
 
-+ **简化了内容生产**：AEM和Adobe Workfront集成优化了端到端内容创建流程。
-+ **增强的协作**：团队可以在内容项目上无缝协作，促进更好的沟通和效率。
-+ **改进了资源管理**：Workfront的项目跟踪功能可实现更好的资源分配和利用率。
-+ **高效的批准和审查**：AEM和Workfront集成简化了内容审阅和批准工作流程。
-+ **更快的面市时间**：此组合式解决方案可加快内容交付，缩短营销活动和资源的上市时间。
++ **简化的内容生产**： AEM和Adobe Workfront集成优化了端到端内容创建过程。
++ **增强的协作**：团队可以在内容项目上无缝协作，从而促进更好的通信和效率。
++ **已改进资源管理**： Workfront的项目跟踪功能可实现更好的资源分配和利用率。
++ **高效的审批和审核**： AEM和Workfront集成可简化内容审核和审核工作流。
++ **加快上市时间**：组合解决方案加快了内容交付，缩短了营销活动和资产的上市时间。
 
 ## 常见集成
 
@@ -28,7 +28,7 @@ AEM和Workfront可简化内容制作，允许将托管内容从Workfront无缝�
         <tr>
             <th>Experience Cloud应用程序</th>
             <th>集成使用</th>
-            <th>使用场合</th>
+            <th>使用时间</th>
             <th>常见使用案例</th>
         </tr>
     </thead>

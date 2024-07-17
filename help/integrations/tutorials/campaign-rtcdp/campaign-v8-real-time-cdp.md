@@ -1,6 +1,6 @@
 ---
-title: 集成 [!DNL Campaign] 包含Real-Time CDP的v8教程
-description: 了解如何集成 [!DNL Campaign] v8与Real-Time CDP。
+title: 将 [!DNL Campaign] v8与Real-Time CDP集成
+description: 了解如何将 [!DNL Campaign] v8与Real-Time CDP集成。
 solution: Campaign, Campaign v8 Client Console, Campaign v8 Web User Interface, Real-Time Customer Data Platform
 feature: Integrations
 topic: Integrations
@@ -20,16 +20,16 @@ ht-degree: 1%
 
 ---
 
-# 集成 [!DNL Campaign] 使用Real-Time CDP的v8
+# 将[!DNL Campaign] v8与Real-Time CDP集成
 
-## 连接 [!DNL Campaign] 到Experience [!DNL Platform] 作为目标
+## 将[!DNL Campaign]连接到作为目标的体验[!DNL Platform]
 
-了解如何激活Adobe体验 [!DNL Platform] 使用Amazon S3连接类型分段到目标。
+了解如何使用Amazon S3连接类型将Adobe体验[!DNL Platform]区段激活到目标。
 
 >[!VIDEO](https://video.tv.adobe.com/v/336902?quality=12&learn=on)
 
-## 从Experience导入收件人数据 [!DNL Platform] 并发送电子邮件
+## 从Experience [!DNL Platform]导入收件人数据并发送电子邮件
 
-了解如何在Adobe中配置外部帐户 [!DNL Campaign] 从AdobeExperience导入收件人数据 [!DNL Platform] 到 [!DNL Campaign]. 了解如何创建工作流以上传和定位从体验接收的收件人 [!DNL Platform].
+了解如何在Adobe[!DNL Campaign]中配置外部帐户，以将收件人数据从AdobeExperience [!DNL Platform]导入[!DNL Campaign]。 了解如何创建工作流以上传和定位从体验[!DNL Platform]接收的收件人。
 
 >[!VIDEO](https://video.tv.adobe.com/v/336641?quality=12&learn=on)

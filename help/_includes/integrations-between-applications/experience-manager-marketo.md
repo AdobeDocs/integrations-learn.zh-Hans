@@ -1,8 +1,8 @@
 ---
 source-git-commit: 838a4dc4cc89da5d9b3798dc62d518dac22e1d3a
 workflow-type: tm+mt
-source-wordcount: '125'
-ht-degree: 4%
+source-wordcount: '118'
+ht-degree: 2%
 
 ---
 
@@ -15,9 +15,9 @@ ht-degree: 4%
 
 将Experience Manager与Marketo Engage集成提供了多种好处，包括：
 
-+ **表单创建和管理**：AEM Forms允许轻松创建交互式表单，并与Marketo Engage集成以生成商机。
-+ **数据同步**：AEM Forms将表单提交到Marketo Engage，确保高效的商机捕获和管理。
-+ **领导力培养和活动自动化**：将AEM Forms与Marketo Engage集成，以实现无缝商机转移、自动跟进、有针对性的电子邮件和商机跟踪。
++ **表单创建和管理**： AEM Forms允许轻松创建交互式表单，并与Marketo Engage集成以生成潜在客户。
++ **数据同步**： AEM Forms将表单提交同步到Marketo Engage，确保高效的潜在客户捕获和管理。
++ **潜在客户培养和营销活动自动化**：将AEM Forms与Marketo Engage集成，以实现无缝潜在客户转移、自动跟进、有针对性的电子邮件和潜在客户跟踪。
 
 ## 常见集成
 
@@ -25,7 +25,7 @@ ht-degree: 4%
     <thead>
         <tr>
             <th>Experience Cloud应用程序</th>
-            <th>使用场合</th>
+            <th>使用时间</th>
             <th>常见使用案例</th>
         </tr>
     </thead>

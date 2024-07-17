@@ -1,6 +1,6 @@
 ---
-title: 集成 [!DNL Campaign] v8与Experience Manager教程
-description: 了解如何连接Adobe [!DNL Campaign] 使用Adobe Experience Manager管理Experience Manager中的电子邮件投放模板、资源和表单。
+title: 将 [!DNL Campaign] v8与Experience Manager教程集成
+description: 了解如何将Adobe [!DNL Campaign] 与Adobe Experience Manager连接起来，以便在Experience Manager中管理电子邮件投放模板、资源和表单。
 solution: Campaign, Campaign v8 Client Console, Campaign v8 Web User Interface, Experience Manager
 feature: Integrations
 topic: Integrations
@@ -20,28 +20,28 @@ ht-degree: 0%
 
 ---
 
-# 集成 [!DNL Campaign] v8与Experience Manager教程
+# 将[!DNL Campaign] v8与Experience Manager教程集成
 
-了解如何连接Adobe [!DNL Campaign] 使用Adobe Experience Manager管理Experience Manager中的电子邮件投放模板、资源和表单。
+了解如何将Adobe[!DNL Campaign]与Adobe Experience Manager连接起来，以便在Experience Manager中管理电子邮件投放模板、资源和表单。
 
 以下视频介绍您学到的内容。
 
 >[!VIDEO](https://video.tv.adobe.com/v/340319?quality=12&learn=on)
 
-## 配置 [!DNL Campaign] 用于Experience Manager集成
+## 为Experience Manager集成配置[!DNL Campaign]
 
-了解如何设置Experience Manager与之间的集成 [!DNL Campaign]，包括要查找的重要设置以及要避免的潜在“陷阱”。
+了解如何设置Experience Manager与[!DNL Campaign]之间的集成，包括要查找的重要设置以及要避免的潜在“陷阱”。
 
 >[!VIDEO](https://video.tv.adobe.com/v/340121?quality=12&learn=on)
 
-## 批准Experience Manager页面并将其发布到 [!DNL Campaign]
+## 批准Experience Manager页并将其发布到[!DNL Campaign]
 
-了解如何在Experience Manager中创建新闻稿，以及如何批准新闻稿并将其发布到 [!DNL Campaign].
+了解如何在Experience Manager中创建新闻稿，以及如何批准新闻稿并将其发布到[!DNL Campaign]。
 
 >[!VIDEO](https://video.tv.adobe.com/v/340678?quality=12&learn=on)
 
-## 同步并发送Experience Manager电子邮件投放 [!DNL Campaign]
+## 在[!DNL Campaign]中同步并发送Experience Manager电子邮件投放
 
-了解如何测试和发送在Experience Manager中创建的新闻稿，在 [!DNL Campaign].
+了解如何在[!DNL Campaign]中测试和发送在Experience Manager中创建的新闻稿。
 
 >[!VIDEO](https://video.tv.adobe.com/v/340151?quality=12&learn=on)

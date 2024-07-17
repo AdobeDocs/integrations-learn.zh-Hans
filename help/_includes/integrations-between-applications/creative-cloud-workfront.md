@@ -1,8 +1,8 @@
 ---
 source-git-commit: 838a4dc4cc89da5d9b3798dc62d518dac22e1d3a
 workflow-type: tm+mt
-source-wordcount: '116'
-ht-degree: 5%
+source-wordcount: '109'
+ht-degree: 2%
 
 ---
 
@@ -15,8 +15,8 @@ ht-degree: 5%
 
 Adobe Workfront与Adobe Creative Cloud集成的主要优势包括：
 
-+ **创意工作流程**：集成可简化Creative Cloud应用程序中的任务、反馈和时间记录。
-+ **高效协作**：Workfront有助于进行创意工作审核、批准和团队协作。
++ **创意工作流程**：集成可简化Creative Cloud应用中的任务、反馈和时间记录。
++ **高效的协作**：Workfront有助于进行创意工作审核、审批和团队协作。
 + **提高工作效率**：无缝环境偏好设置可提高内容创建速度和质量。
 
 ## 常见集成
@@ -26,7 +26,7 @@ Adobe Workfront与Adobe Creative Cloud集成的主要优势包括：
         <tr>
             <th>Experience Cloud应用程序</th>
             <th>集成使用</th>
-            <th>使用场合</th>
+            <th>使用时间</th>
             <th>常见使用案例</th>
         </tr>
     </thead>

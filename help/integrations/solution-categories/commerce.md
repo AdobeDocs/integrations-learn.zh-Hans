@@ -40,7 +40,7 @@ ht-degree: 3%
           <li>实施复杂的多存储配置。</li>
           <li>跨站点无缝进行内容管理。</li>
           <li>高效的全球内容协调。</li>
-          <li>对Adobe的多环境支持 [!DNL Commerce].</li>
+          <li>Adobe[!DNL Commerce]的多环境支持。</li>
           <li>简化了商务内容的创建。</li>
           <li>一致而高效的店面管理。</li>
       </ul>
@@ -50,7 +50,7 @@ ht-degree: 3%
  <tr>
    <td><strong>数据分析和报告<strong></td>
    <td>评估Commerce商店转化漏斗、订单、收入以及访问和访客量度。</td>
-   <td><ul style="margin-top: 0;"><li>商业活动的数据洞察和报表。</li><li>全面了解Adobe [!DNL Commerce] 使用您选择的关键量度和维度存储性能。</li></ul></td>
+   <td><ul style="margin-top: 0;"><li>商业活动的数据洞察和报表。</li><li>使用您选择的关键指标和维度，全面了解Adobe[!DNL Commerce]存储性能。</li></ul></td>
    <td><a href="/help/integrations/integrations-between-applications/commerce/commerce-analytics.md">[!DNL Commerce] 和 [!DNL Analytics]</a></td>
  </tr>
  </tbody>

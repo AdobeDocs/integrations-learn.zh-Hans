@@ -1,6 +1,6 @@
 ---
-title: 将Real-time Customer Data Platform与集成 [!DNL Campaign]
-description: 了解如何将Real-time Customer Data Platform与集成 [!DNL Campaign]
+title: 将Real-time Customer Data Platform与 [!DNL Campaign]集成
+description: 了解如何将Real-time Customer Data Platform与 [!DNL Campaign]集成
 solution: Real-Time Customer Data Platform, [!DNL Campaign]
 feature: Integrations
 topic: Integrations
@@ -18,6 +18,6 @@ ht-degree: 4%
 
 ---
 
-# 集成实时客户数据 [!DNL Platform] 替换为 [!DNL Campaign]
+# 将实时客户数据[!DNL Platform]与[!DNL Campaign]集成
 
 {{$include /help/_includes/integrations-between-applications/campaign-rtcdp.md}}

@@ -9,7 +9,7 @@ ht-degree: 1%
 
 ---
 
-# 大规模个性化
+# 大规模Personalization
 
 在当今高度竞争和数字化驱动的格局中，客户期待着根据其独特偏好和需求定制的体验。 利用Adobe Experience Cloud的功能，我们可以收集和分析广泛的客户数据，为行为、兴趣和偏好提供宝贵的见解。 这种深入的了解有助于在各种接触点之间交付个性化体验，确保进行有意义、引人入胜的交互。 利用Adobe Experience Cloud的强大功能释放出个性化的全部潜力，建立更强大的客户关系，培养忠诚度，并驱动业务增长。
 
@@ -26,12 +26,14 @@ ht-degree: 1%
     <tr>
       <td><strong>创建个性化PDF文档</strong></td>
       <td>
-        根据用户选择/偏好设置生成要签名的通信文档。
+        根据用户生成要签名的通信文档
+        选择/首选项。
       </td>
       <td>
         <ul style="margin-top: 0;">
           <li>
-            根据AEM Forms提交以供签名的数据提供动态生成的NDA
+            基于来自AEM的数据呈现动态生成的NDA
+            提交Forms以进行签名
           </li>
         </ul>
       </td>
@@ -40,16 +42,16 @@ ht-degree: 1%
           href="../integrations-between-applications/experience-manager/experience-manager-acrobat-sign.md"
           target="_blank"
           rel="noopener noreferrer"
-          >AEM Forms and Sign</a
+          >AEM Forms和签名</a
         >
       </td>
     </tr>
     <tr>
       <td rowspan="2"><strong>数据分析和报告</strong></td>
       <td>
-        分析来自数字体验的行为数据 <br />使用Adobe
-        [!DNL Analytics] Analysis Workspace中的行为数据客户历程
-        [!DNL Analytics].
+        分析数字体验中的行为数据<br />使用Adobe
+        客户历程中Analysis Workspace的[!DNL Analytics]行为数据
+        [!DNL Analytics]。
       </td>
       <td>
         <ul style="margin-top: 0;">
@@ -67,13 +69,15 @@ ht-degree: 1%
           href="../integrations-between-applications/analytics/analytics-customer-journey-analytics.md"
           target="_blank"
           rel="noopener noreferrer"
-          >[!DNL Analytics] 和客户历程 [!DNL Analytics]</a
+          >[!DNL Analytics]和客户历程[!DNL Analytics]</a
         >
       </td>
     </tr>
     <tr>
       <td>
-        个性化活动报表<br />利用Adobe分析优化测试结果，包括A/B测试 [!DNL Target] 通过Adobe生成全面的报告 [!DNL Analytics].
+        个性化活动的报表<br />分析优化
+        利用Adobe[!DNL Target]和测试结果，包括A/B测试
+        通过Adobe[!DNL Analytics]生成综合报告。
       </td>
       <td>
         <ul style="margin-top: 0;">
@@ -92,7 +96,8 @@ ht-degree: 1%
     <tr>
       <td><strong>个性化电子邮件投放</strong></td>
       <td>
-        利用Adobe功能，使用动态内容个性化电子邮件投放 [!DNL Target].
+        利用动态内容个性化电子邮件投放
+        Adobe[!DNL Target]的功能。
       </td>
       <td>
         <ul style="margin-top: 0;">
@@ -113,18 +118,22 @@ ht-degree: 1%
         <strong>展开个性化和广告平台的受众</strong>
       </td>
       <td>
-        在Real-Time CDP中使用Audience Manager区段创建受众，以用于个性化和再营销策略。
+        使用Audience Manager区段在Real-Time CDP中创建受众，以
+        用于个性化和再营销策略。
       </td>
       <td>
         <ul style="margin-top: 0;">
           <li>
-            在网站、移动应用程序或支持的广告渠道上执行匿名数字受众定位和个性化
+            对执行匿名数字受众定位和个性化
+            网站、移动应用程序或支持的广告渠道上的
           </li>
           <li>
-            根据已知设备和行为特征优化登陆页面和预身份验证体验
+            根据优化登陆页面和预身份验证体验
+            已知设备和行为特征
           </li>
           <li>
-            利用Audience Manager的第三方数据网络，进一步细化和扩展用于定位的受众
+            利用Audience Manager第三方数据网络进一步实现
+            优化和扩展受众以进行定位
           </li>
           <li>将Audience Manager区段共享到RTCDP</li>
         </ul>
@@ -134,21 +143,24 @@ ht-degree: 1%
           href="../integrations-between-applications/aam/aam-rtcdp.md"
           target="_blank"
           rel="noopener noreferrer"
-          >Audience Manager和实时客户数据 [!DNL Platform]</a
+          >Audience Manager和实时客户数据[!DNL Platform]</a
         >
       </td>
     </tr>
     <tr>
       <td>
-        使用 [!DNL Analytics] 用于创建受众以用于个性化或再营销策略的数据。
+        使用[!DNL Analytics]数据创建受众以用于个性化或
+        再营销策略。
       </td>
       <td>
         <ul style="margin-top: 0;">
           <li>
-            在设备或支持的广告渠道上执行数字受众定位和个性化。
+            在设备上执行数字受众定位和个性化，或
+            支持的广告渠道。
           </li>
           <li>
-            根据设备和行为属性优化已知的客户登陆页面和匿名体验。
+            优化已知的客户登陆页面和匿名体验
+            基于设备和行为属性。
           </li>
           <li>将受众激活到已知渠道，如电子邮件和短信。</li>
         </ul>
@@ -158,14 +170,15 @@ ht-degree: 1%
           href="../integrations-between-applications/analytics/analytics-customer-journey-analytics.md"
           target="_blank"
           rel="noopener noreferrer"
-          >[!DNL Analytics] 和实时客户数据 [!DNL Platform]</a
+          >[!DNL Analytics]和实时客户数据[!DNL Platform]</a
         >
       </td>
     </tr>
     <tr>
       <td rowspan="2"><strong>个性化Web体验</strong></td>
       <td>
-        通过有效地将SPA Headless与Adobe结合使用，自定义单页应用程序(AEM)体验 [!DNL Target].
+        通过有效地自定义单页应用程序(SPA)体验
+        将AEM Headless与Adobe[!DNL Target]结合使用。
       </td>
       <td>
         <ul style="margin-top: 0;">
@@ -180,13 +193,14 @@ ht-degree: 1%
           href="../integrations-between-applications/experience-manager/experience-manager-target.md"
           target="_blank"
           rel="noopener noreferrer"
-          >AEM无头和 [!DNL Target]</a
+          >AEM Headless和[!DNL Target]</a
         >
       </td>
     </tr>
     <tr>
       <td>
-        通过有效利用AEM Sites和Adobe提供量身定制的网站体验 [!DNL Target] 进行个性化。
+        通过有效利用AEM Sites提供量身定制的网站体验
+        和Adobe[!DNL Target]进行个性化。
       </td>
       <td>
         <ul style="margin-top: 0;">
@@ -201,14 +215,15 @@ ht-degree: 1%
           href="../integrations-between-applications/experience-manager/experience-manager-target.md"
           target="_blank"
           rel="noopener noreferrer"
-          >AEM Sites和 [!DNL Target]</a
+          >AEM Sites和[!DNL Target]</a
         >
       </td>
     </tr>
     <tr>
       <td><strong>个性化数字体验</strong></td>
       <td>
-        使用实时客户配置文件并集中管理 [!DNL Platform] 区段，用于在Web、移动和其他数字渠道之间个性化消息传递
+        使用实时客户配置文件和集中管理的[!DNL Platform]区段
+        个性化跨Web、移动和其他数字渠道的消息传递
       </td>
       <td>
         <ul style="margin-top: 0;">
@@ -223,14 +238,15 @@ ht-degree: 1%
           href="../integrations-between-applications/rtcdp/rtcdp-target.md"
           target="_blank"
           rel="noopener noreferrer"
-          >实时客户数据 [!DNL Platform] 和 [!DNL Target]</a
+          >实时客户数据[!DNL Platform]和[!DNL Target]</a
         >
       </td>
     </tr>
     <tr>
       <td><strong>增强商机拓展</strong></td>
       <td>
-        使用实时客户配置文件并集中管理 [!DNL Platform] 区段，用于在Web、移动和其他数字渠道之间个性化消息传递
+        使用实时客户配置文件和集中管理的[!DNL Platform]区段
+        个性化跨Web、移动和其他数字渠道的消息传递
       </td>
       <td>
         <ul style="margin-top: 0;">
@@ -242,7 +258,7 @@ ht-degree: 1%
           href="../integrations-between-applications/rtcdp/rtcdp-target.md"
           target="_blank"
           rel="noopener noreferrer"
-          >实时客户数据 [!DNL Platform] 和 [!DNL Target]</a
+          >实时客户数据[!DNL Platform]和[!DNL Target]</a
         >
       </td>
     </tr>

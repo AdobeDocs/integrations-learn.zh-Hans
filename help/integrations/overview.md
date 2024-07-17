@@ -1,13 +1,13 @@
 ---
 title: 应用程序集成
 description: 了解用于集成Experience Cloud应用程序的常见配置。 了解Adobe提供的同类最佳企业产品如何帮助您应对业务挑战。
-source-git-commit: 7a525d1a1890b12bd5955ed8c80d0cbf7e855461
+exl-id: 3c0a75ec-2b4c-4984-bd42-0b5ddeb7c004
+source-git-commit: d35dc06c56c117cffe70542b6713f275877e4879
 workflow-type: tm+mt
 source-wordcount: '161'
 ht-degree: 0%
 
 ---
-
 
 # Experience Cloud应用程序的集成配置
 

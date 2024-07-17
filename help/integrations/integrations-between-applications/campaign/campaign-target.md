@@ -1,6 +1,6 @@
 ---
-title: 集成 [!DNL Campaign] 替换为 [!DNL Target]
-description: 了解如何集成 [!DNL Campaign] 替换为 [!DNL Target].
+title: 将 [!DNL Campaign] 与 [!DNL Target]集成
+description: 了解如何将 [!DNL Campaign] 与 [!DNL Target]集成。
 solution: Campaign, Campaign v8 Client Console, Campaign v8 Web User Interface, Campaign Classic v7, Target
 feature: Integrations
 topic: Integrations
@@ -18,6 +18,6 @@ ht-degree: 10%
 
 ---
 
-# 集成 [!DNL Campaign] 替换为 [!DNL Target]
+# 将[!DNL Campaign]与[!DNL Target]集成
 
 {{$include /help/_includes/integrations-between-applications/campaign-target.md}}

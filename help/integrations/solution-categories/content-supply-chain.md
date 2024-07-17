@@ -5,7 +5,7 @@ exl-id: 00a15be9-612e-4210-8b2a-77274aa5713c
 source-git-commit: 509b227f360718e81fb19d3a4d30aebf9de49e5a
 workflow-type: tm+mt
 source-wordcount: '286'
-ht-degree: 3%
+ht-degree: 2%
 
 ---
 
@@ -27,7 +27,7 @@ ht-degree: 3%
   <tbody>
 <tr>
   <td><strong>使用品牌资产创建营销宣传资料</strong><br/></td>
-  <td>使用AEM和Adobe构建和监督电子邮件营销内容和模板 [!DNL Campaign].</td>
+  <td>使用AEM和Adobe[!DNL Campaign]生成并监视电子邮件营销内容和模板。</td>
   <td>
     <ul>
       <li>发送使用AEM创建的营销电子邮件</li>
@@ -46,7 +46,7 @@ ht-degree: 3%
       <li>改进项目管理</li>
     </ul>    
   </td>
-  <td><a href="../integrations-between-applications/experience-manager/experience-manager-workfront.md">AEM Assets 和 Workfront</a></td>
+  <td><a href="../integrations-between-applications/experience-manager/experience-manager-workfront.md">AEM Assets和Workfront</a></td>
 </tr>
 <tr>
   <td>通过集成AEM Assets Essentials和Workfront，协调和衡量部门中资源的创建和使用。</td>
@@ -84,7 +84,7 @@ ht-degree: 3%
 </tr>
 <tr>
   <td><strong>捕获客户数据</strong><br/></td>
-  <td>增强本机 [!DNL Campaign] 用于捕获客户数据以进行营销活动定位和个性化的功能。
+  <td>增强本机[!DNL Campaign]功能，以捕获客户数据用于营销活动的定位和个性化。
   </td>
   <td>
     <ul>
@@ -92,7 +92,7 @@ ht-degree: 3%
       <li>订阅</li>
     </ul>
   </td>
-  <td><a href="../integrations-between-applications/experience-manager/experience-manager-campaign.md">AEM Forms和 [!DNL Campaign] 标准</a></td>
+  <td><a href="../integrations-between-applications/experience-manager/experience-manager-campaign.md">AEM Forms和[!DNL Campaign] Standard</a></td>
 </tr>
 </tbody>
 </table>

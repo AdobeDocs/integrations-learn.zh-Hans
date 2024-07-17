@@ -1,6 +1,6 @@
 ---
-title: 集成 [!DNL Audience Manager] 替换为 [!DNL Real-Time Customer Data Platform]
-description: 了解如何集成 [!DNL Audience Manager] 替换为 [!DNL Real-Time Customer Data Platform].
+title: 将 [!DNL Audience Manager] 与 [!DNL Real-Time Customer Data Platform]集成
+description: 了解如何将 [!DNL Audience Manager] 与 [!DNL Real-Time Customer Data Platform]集成。
 solution: Audience Manager, Real-Time Customer Data [!DNL Platform]
 feature: Integrations
 topic: Integrations
@@ -19,6 +19,6 @@ ht-degree: 10%
 
 ---
 
-# 集成 [!DNL Audience Manager] 替换为 [!DNL Real-Time Customer Data Platform]
+# 将[!DNL Audience Manager]与[!DNL Real-Time Customer Data Platform]集成
 
 {{$include /help/_includes/integrations-between-applications/aam-rtcdp.md}}

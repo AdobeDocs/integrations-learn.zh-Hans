@@ -1,22 +1,22 @@
 ---
 source-git-commit: 94b074c17e976e4f4acbb1ff41aacfc9bf74744c
 workflow-type: tm+mt
-source-wordcount: '131'
-ht-degree: 4%
+source-wordcount: '126'
+ht-degree: 2%
 
 ---
 
 
-# [!DNL Campaign] 和Experience Manager集成
+# [!DNL Campaign]与Experience Manager集成
 
 {{campaign-description}}
 
 {{experience-manager-description}}
 
-集成Adobe的主要优势 [!DNL Campaign] 和AEMExperience Manager为：
+集成Adobe[!DNL Campaign]和AEMExperience Manager的主要优势包括：
 
-+ **管理电子邮件投放的内容** 以及您的表单直接在Adobe Experience Manager中查找。
-+ **编辑电子邮件或登陆页面时使用品牌资产** 在Adobe中 [!DNL Campaign]，来自Adobe Experience Manager Assets。
++ **直接在Adobe Experience Manager中管理电子邮件投放的内容**&#x200B;和表单。
++ 从Adobe Experience Manager Assets编辑Adobe[!DNL Campaign]中的电子邮件或登录页&#x200B;**时**&#x200B;使用Brand Assets。
 
 ## 常见集成
 
@@ -25,7 +25,7 @@ ht-degree: 4%
         <tr>
             <th>Experience Cloud应用程序</th>
             <th>集成使用</th>
-            <th>使用场合</th>
+            <th>使用时间</th>
             <th>常见使用案例</th>
         </tr>
     </thead>

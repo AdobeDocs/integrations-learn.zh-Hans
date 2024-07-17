@@ -4,7 +4,7 @@ description: 根据统一的客户配置文件和数据，跨渠道大规模协�
 exl-id: ed4fb791-7883-4f42-80a0-12ab4e3c80ab
 source-git-commit: 509b227f360718e81fb19d3a4d30aebf9de49e5a
 workflow-type: tm+mt
-source-wordcount: '219'
+source-wordcount: '217'
 ht-degree: 2%
 
 ---
@@ -41,7 +41,7 @@ ht-degree: 2%
 
 <tr>
   <td rowspan="1"><strong>展开个性化和广告平台的受众</strong><br/></td> 
-  <td>使用 [!DNL Analytics] 用于创建受众以用于个性化或再营销策略的数据。</td>
+  <td>使用[!DNL Analytics]数据创建受众以用于个性化或再营销策略。</td>
   <td>
     <ul style="margin-top: 0;">
       <li>在设备或支持的广告渠道上执行数字受众定位和个性化。</li>
@@ -54,7 +54,7 @@ ht-degree: 2%
 
 <tr>
   <td><strong>个性化数字体验</strong><br/></td>
-  <td> 使用实时客户配置文件并集中管理 [!DNL Platform] 区段，用于在Web、移动和其他数字渠道间个性化消息传递。
+  <td> 使用实时客户配置文件和集中管理的[!DNL Platform]区段来个性化跨Web、移动和其他数字渠道的消息传递。
   </td>
   <td>
     <ul style="margin-top: 0;">
@@ -64,20 +64,20 @@ ht-degree: 2%
       <li>实时选件个性化</li>
     </ul>
   </td>
-  <td><a href="../integrations-between-applications/rtcdp/rtcdp-target.md">实时客户数据 [!DNL Platform] 和 [!DNL Target]</a></td>
+  <td><a href="../integrations-between-applications/rtcdp/rtcdp-target.md">实时客户数据[!DNL Platform]和 [!DNL Target]</a></td>
 </tr>
 
 <tr>
   <td><strong>增强商机拓展</strong><br/></td>
   <td>
-    使用实时客户配置文件并集中管理 [!DNL Platform] 区段，用于在Web、移动和其他数字渠道之间个性化消息传递
+    使用实时客户配置文件和集中管理的[!DNL Platform]区段来个性化跨Web、移动和其他数字渠道的消息传递
   </td>
   <td>
     <ul style="margin-top: 0;">
       <li>已知访客的内容个性化</li>
     </ul>
   </td>
-  <td><a href="../integrations-between-applications/rtcdp/rtcdp-target.md">实时客户数据 [!DNL Platform] 和 [!DNL Target]</a></td>
+  <td><a href="../integrations-between-applications/rtcdp/rtcdp-target.md">实时客户数据[!DNL Platform]和 [!DNL Target]</a></td>
 </tr>
 </tbody>
 </table>

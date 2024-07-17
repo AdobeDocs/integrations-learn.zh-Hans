@@ -1,6 +1,6 @@
 ---
-title: 集成 [!DNL Campaign] 带有Experience Manager
-description: 将Adobe Experience Manager (AEM)与集成 [!DNL Campaign] 创建和管理电子邮件营销活动。
+title: 将 [!DNL Campaign] 与Experience Manager集成
+description: 将Adobe Experience Manager (AEM)与 [!DNL Campaign] 集成以创建和管理电子邮件营销活动。
 solution: Campaign, Campaign v8 Client Console, Campaign v8 Web User Interface, Campaign Standard, Campaign Classic v7, Experience Manager, Experience Manager Forms
 feature: Integrations
 topic: Integrations
@@ -18,6 +18,6 @@ ht-degree: 4%
 
 ---
 
-# 集成 [!DNL Campaign] 带有Experience Manager
+# 将[!DNL Campaign]与Experience Manager集成
 
 {{$include /help/_includes/integrations-between-applications/campaign-experience-manager.md}}
