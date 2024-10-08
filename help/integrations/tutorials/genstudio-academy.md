@@ -3,9 +3,9 @@ title: GenStudio Academy
 description: GenStudio学院登陆
 index: false
 hidefromtoc: true
-source-git-commit: e8ddb1ec28875a605cbbfe777313ea5f0f923949
+source-git-commit: 24dd275811764bd311007db1006714a5da299e3a
 workflow-type: tm+mt
-source-wordcount: '64'
+source-wordcount: '118'
 ht-degree: 0%
 
 ---
@@ -16,6 +16,36 @@ ht-degree: 0%
 <table>
  <tr style= "border: 0;">
   <td><img src="./assets/medium.png"></td>
-  <td> <strong>右对齐文本</strong><p> 培根咸菜多乐三尖水牛凯文·兰杰格排骨肉片，牛腩肉馅西冷汤。 水牛猪肠，李柏卡沙龙火腿肉球t骨嫩肉。 干脆的凯文·兰德杰格火腿，杯装卡皮可拉。 凯文磨圆的牛角塞球头，肩短肋肉腹链肘火鸡尾肉肉肉片。<p><a href="https://adobeevents.adobeconnect.com/ec77sm8a2tt2/event/registration.html?campaign-id=ExL" rel="noreferrer" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM"><span class="spectrum-Button-label has-no-wrap">注册</span></a></td>
+  <td align="center"> <strong>图像左侧/文本右侧</strong><p> 培根咸菜多乐三尖水牛凯文·兰杰格排骨肉片，牛腩肉馅西冷汤。 水牛猪肠，李柏卡沙龙火腿肉球t骨嫩肉。 干脆的凯文·兰德杰格火腿，杯装卡皮可拉。 <p><a href="https://business.adobe.com/products/genstudio.htmlL" rel="noreferrer" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM"><span class="spectrum-Button-label has-no-wrap">立即浏览</span></a></td>
  </tr>
 </table>
+
+<table>
+ <tr style= "border: 0;">
+  <td> <strong>Adobe GenStudio学院</strong><p> 成为创新型人工智能领导者。 掌握AI技能以转变工作流并引导行业前进。 <p><a href="https://business.adobe.com/products/genstudio.htmlL" rel="noreferrer" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM"><span class="spectrum-Button-label has-no-wrap">注册</span></a>          <a href="https://business.adobe.com/products/genstudio.htmlL" rel="noreferrer" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM"><span class="spectrum-Button-label has-no-wrap">登录</span></a></td>
+  <td><img src="./assets/medium.png"></td>
+ </tr>
+</table>
+
+**即将加入Genstudio Academy**
+<table>
+ <tr style= "border: 0;colspan: 2;">
+  <td> <strong>即将加入Genstudio Academy</strong></td>
+ </tr> 
+ <tr> 
+    <td align="left"><img src="./assets/small.png"></td>
+    <td align="center"><img src="./assets/small.png"></td>
+    <td align="right"><img src="./assets/small.png"></td>
+ </tr>
+</table>
+
+>[!BEGINSHADEBOX]
+
+<table>
+ <tr style= "border: 0;">
+  <td><img src="./assets/medium.png"></td>
+  <td align="center"> <strong>图像左侧/文本右侧</strong><p> 培根咸菜多乐三尖水牛凯文·兰杰格排骨肉片，牛腩肉馅西冷汤。 水牛猪肠，李柏卡沙龙火腿肉球t骨嫩肉。 干脆的凯文·兰德杰格火腿，杯装卡皮可拉。 <p><a href="https://business.adobe.com/products/genstudio.htmlL" rel="noreferrer" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM"><span class="spectrum-Button-label has-no-wrap">立即浏览</span></a></td>
+ </tr>
+</table>
+
+>[!ENDSHADEBOX]
