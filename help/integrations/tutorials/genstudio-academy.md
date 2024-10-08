@@ -3,10 +3,10 @@ title: GenStudio Academy
 description: GenStudio学院登陆
 index: false
 hidefromtoc: true
-source-git-commit: 3beec04de562b317561163d5570874593f7f1a7f
+source-git-commit: e9a35153024bdf107dcc3f189c3e6d39d43a5924
 workflow-type: tm+mt
-source-wordcount: '202'
-ht-degree: 1%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 1%
 
 <table>
  <tr style= "border: 0;">
-  <td> <H3>成为创新型人工智能领导者。</H3><p> 成为创新型人工智能领导者。 掌握AI技能以转变工作流并引导行业前进。 <p><a href="https://learningmanager.adobe.com/accountiplogin?ipId=16970&amp;accesskey=c4988oojirhb5" rel="noreferrer" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM"><span class="spectrum-Button-label has-no-wrap">注册</span></a>          <a href="https://genstudioacademy.adobelearningmanager.com/" rel="noreferrer" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM"><span class="spectrum-Button-label has-no-wrap">登录</span></a></td>
+  <td> <strong>成为创作AI领导者。</strong><p> 成为创新型人工智能领导者。 掌握AI技能以转变工作流并引导行业前进。 <p><a href="https://learningmanager.adobe.com/accountiplogin?ipId=16970&amp;accesskey=c4988oojirhb5" rel="noreferrer" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM"><span class="spectrum-Button-label has-no-wrap">注册</span></a>          <a href="https://genstudioacademy.adobelearningmanager.com/" rel="noreferrer" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM"><span class="spectrum-Button-label has-no-wrap">登录</span></a></td>
   <td><img src="./assets/medium.png"></td>
  </tr>
 </table>
@@ -22,7 +22,7 @@ ht-degree: 1%
 <table>
  <tr style= "border: 0;">
   <td align="center">
-    <h3> 主创新型人工智能。 转换您的工作流。</h3>
+    <strong>主生成人工智能。 转换您的工作流。</strong>
   </td>
  </tr>
  <tr style= "border: 0;">
@@ -37,7 +37,7 @@ ht-degree: 1%
 <table>
  <tr style= "border: 0;">
   <td><img src="./assets/medium.png"></td>
-  <td align="center"> <H3>随时掌握创造性人工智能技能。</h3><p> 掌握AI技能以转变工作流并引导行业前进。 掌握AI技能以转变工作流并引导行业前进。 掌握AI技能以转变工作流并引导行业前进。<p><a href="https://business.adobe.com/products/genstudio.htmlL" rel="noreferrer" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM"><span class="spectrum-Button-label has-no-wrap">立即浏览</span></a></td>
+  <td align="center"> <strong style= "font-size: 2em">随时都可以掌握创作AI技能。</strong><p> 掌握AI技能以转变工作流并引导行业前进。 掌握AI技能以转变工作流并引导行业前进。 掌握AI技能以转变工作流并引导行业前进。<p><a href="https://business.adobe.com/products/genstudio.htmlL" rel="noreferrer" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM"><span class="spectrum-Button-label has-no-wrap">立即浏览</span></a></td>
  </tr>
 </table>
 
@@ -45,7 +45,7 @@ ht-degree: 1%
 
 <table>
  <tr style= "border: 0;">
-  <td align="center"> <H3>提示变得轻而易举。</h3><p> 掌握AI技能以转变工作流并引导行业前进。 掌握AI技能以转变工作流并引导行业前进。 掌握AI技能以转变工作流并引导行业前进。</td>
+  <td align="center"> <strong>提示变得简单。</strong><p> 掌握AI技能以转变工作流并引导行业前进。 掌握AI技能以转变工作流并引导行业前进。 掌握AI技能以转变工作流并引导行业前进。</td>
   <td><img src="./assets/medium.png"></td>
  </tr>
 </table>
@@ -53,7 +53,7 @@ ht-degree: 1%
 <table>
  <tr style= "border: 0;">
   <td><img src="https://video.tv.adobe.com/v/3434938?format=jpeg"></td> 
-  <td> <H3>细分用于营销的创作AI。</H3><p> 成为创新型人工智能领导者。 掌握AI技能以转变工作流并引导行业前进。 <p><a href="https://learningmanager.adobe.com/accountiplogin?ipId=16970&amp;accesskey=c4988oojirhb5" rel="noreferrer" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM"><span class="spectrum-Button-label has-no-wrap">注册</span></a>          <a href="https://genstudioacademy.adobelearningmanager.com/" rel="noreferrer" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM"><span class="spectrum-Button-label has-no-wrap">登录</span></a><td>
+  <td> <strong>划分用于营销的创作AI。</strong><p> 成为创新型人工智能领导者。 掌握AI技能以转变工作流并引导行业前进。 <p><a href="https://learningmanager.adobe.com/accountiplogin?ipId=16970&amp;accesskey=c4988oojirhb5" rel="noreferrer" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM"><span class="spectrum-Button-label has-no-wrap">注册</span></a>          <a href="https://genstudioacademy.adobelearningmanager.com/" rel="noreferrer" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM"><span class="spectrum-Button-label has-no-wrap">登录</span></a><td>
  </tr>
 </table>
 
@@ -75,7 +75,7 @@ https://video.tv.adobe.com/v/26061?format=jpeg
 <table>
  <tr style= "border: 0;">
   <td><img src="https://video.tv.adobe.com/v/3434938?format=jpeg"></td> 
-  <td> <H3>把学到的知识付诸实践</H3><p> 成为创新型人工智能领导者。 掌握AI技能以转变工作流并引导行业前进。 <p><a href="https://learningmanager.adobe.com/accountiplogin?ipId=16970&amp;accesskey=c4988oojirhb5" rel="noreferrer" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM"><span class="spectrum-Button-label has-no-wrap">前去了解</span></a><td>
+  <td> <strong>实践您的学习</strong><p> 成为创新型人工智能领导者。 掌握AI技能以转变工作流并引导行业前进。 <p><a href="https://learningmanager.adobe.com/accountiplogin?ipId=16970&amp;accesskey=c4988oojirhb5" rel="noreferrer" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM"><span class="spectrum-Button-label has-no-wrap">前去了解</span></a><td>
  </tr>
 </table>
 
