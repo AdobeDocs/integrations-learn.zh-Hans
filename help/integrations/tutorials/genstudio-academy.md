@@ -3,7 +3,7 @@ title: GenStudio Academy
 description: GenStudio学院登陆
 index: false
 hidefromtoc: true
-source-git-commit: 56161e27aecff07b0d93bf85edb994c477d9e586
+source-git-commit: 969f6489b79a84079c542c008b8f7dd372afcd60
 workflow-type: tm+mt
 source-wordcount: '176'
 ht-degree: 1%
@@ -22,12 +22,7 @@ ht-degree: 1%
 <table>
  <tr style= "border: 0;">
   <td align="center">
-    <strong style= "font-size: 2em">主生成人工智能。 转换您的工作流。</strong>
-  </td>
- </tr>
- <tr style= "border: 0;">
-  <td align="center">
-    了解在营销工作流中使用创作AI的核心技能。 任何地方。 免费的。
+    <strong style= "font-size: 2em">主生成人工智能。 转换您的工作流。</strong><p>了解在营销工作流中使用创作AI的核心技能。 任何地方。 免费的。
   </td>
  </tr>
 </table>
