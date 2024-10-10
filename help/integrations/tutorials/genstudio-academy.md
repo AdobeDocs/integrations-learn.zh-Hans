@@ -3,10 +3,10 @@ title: GenStudio Academy
 description: GenStudio学院登陆
 index: false
 hidefromtoc: true
-source-git-commit: 743c51f9736576d0c0d41bd8d4924c1fc2ca320f
+source-git-commit: 58659803aa9611d28c8b31c3f879f0df4e10fe32
 workflow-type: tm+mt
-source-wordcount: '187'
-ht-degree: 1%
+source-wordcount: '194'
+ht-degree: 2%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 1%
 <table>
  <tr style= "border: 0;">
   <td> <strong style= "font-size: 2em">提升您的创作AI知识。 </strong><p>掌握创作AI技能，以转变您的创意和营销工作流程。 <p><a href="https://learningmanager.adobe.com/accountiplogin?ipId=16970&amp;accesskey=c4988oojirhb5" rel="noreferrer" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM"><span class="spectrum-Button-label has-no-wrap">注册</span></a>          <a href="https://genstudioacademy.adobelearningmanager.com/" rel="noreferrer" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM"><span class="spectrum-Button-label has-no-wrap">登录</span></a></td>
-  <td><img src="https://video.tv.adobe.com/v/3434938?format=jpeg"></td>
+  <td><img src="./assets/elevate-your-generative-ai-knowledge.png"></td>
  </tr>
 </table>
 
@@ -41,7 +41,7 @@ ht-degree: 1%
 <table>
  <tr style= "border: 0;">
   <td align="center"> <strong style= "font-size: 2em">学习级别。 无限机会已解锁。</strong><p>利用GenStudio Academy的精通水平，可以轻松找到可提升您创造性人工智能技能的内容 — 无论您是学习学习学习学习型人工智能、掌握提示创建还是查看正在运行的人工智能工具。 GenStudio Academy为每个人准备了一些东西。</td>
-  <td><img src="https://video.tv.adobe.com/v/3434938?format=jpeg"></td>
+  <td><img src="./assets/levels-of-learning.png"></td>
  </tr>
 </table>
 
@@ -51,8 +51,26 @@ ht-degree: 1%
   <td colspan=3> <strong style= "font-size: 2em;">Coming soon to Genstudio Academy</strong></td>
  </tr> --> 
  <tr style= "border: 0;colspan: 3;"> 
-    <td align="left"><img src="https://video.tv.adobe.com/v/3434938?format=jpeg"><p>以最有效的方式使用GenStudio for Performance Marketing的提示和技巧。 </td>
-    <td align="right"><img src="https://video.tv.adobe.com/v/3434938?format=jpeg"><p>解锁营销专家级人工智能技能的高级课程。 </td>
+   <td>
+      <img src="https://video.tv.adobe.com/v/3434938?format=jpeg">
+      <div>
+      <a href="https://www.adobe.com/cn"><strong>提示和技巧</strong>
+      </a>
+      </div>
+      <p>
+      以最有效的方式使用GenStudio for Performance Marketing的提示和技巧。
+      </p>
+   </td>
+   <td>
+      <img src="https://video.tv.adobe.com/v/3434938?format=jpeg">
+      <div>
+      <a href="https://www.adobe.com/cn"><strong>专家课程</strong>
+      </a>
+      </div>
+      <p>
+      解锁营销专家级人工智能技能的高级课程。
+      </p>
+   </td>
  </tr>
 </table>
 
