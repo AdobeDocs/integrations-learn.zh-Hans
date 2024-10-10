@@ -3,9 +3,9 @@ title: GenStudio Academy
 description: GenStudio学院登陆
 index: false
 hidefromtoc: true
-source-git-commit: 54f15c2af2f720ae353f168caf2a066697a8c895
+source-git-commit: 743c51f9736576d0c0d41bd8d4924c1fc2ca320f
 workflow-type: tm+mt
-source-wordcount: '176'
+source-wordcount: '187'
 ht-degree: 1%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 1%
 
 <table>
  <tr style= "border: 0;">
-  <td> <strong style= "font-size: 2em">成为创作AI领导者。</strong><p> 成为创新型人工智能领导者。 掌握AI技能以转变工作流并引导行业前进。 <p><a href="https://learningmanager.adobe.com/accountiplogin?ipId=16970&amp;accesskey=c4988oojirhb5" rel="noreferrer" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM"><span class="spectrum-Button-label has-no-wrap">注册</span></a>          <a href="https://genstudioacademy.adobelearningmanager.com/" rel="noreferrer" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM"><span class="spectrum-Button-label has-no-wrap">登录</span></a></td>
+  <td> <strong style= "font-size: 2em">提升您的创作AI知识。 </strong><p>掌握创作AI技能，以转变您的创意和营销工作流程。 <p><a href="https://learningmanager.adobe.com/accountiplogin?ipId=16970&amp;accesskey=c4988oojirhb5" rel="noreferrer" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM"><span class="spectrum-Button-label has-no-wrap">注册</span></a>          <a href="https://genstudioacademy.adobelearningmanager.com/" rel="noreferrer" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM"><span class="spectrum-Button-label has-no-wrap">登录</span></a></td>
   <td><img src="https://video.tv.adobe.com/v/3434938?format=jpeg"></td>
  </tr>
 </table>
@@ -22,7 +22,7 @@ ht-degree: 1%
 <table>
  <tr style= "border: 0;">
   <td align="center">
-    <strong style= "font-size: 2em">主生成人工智能。 转换您的工作流。</strong><p>了解在营销工作流中使用创作AI的核心技能。 任何地方。 免费的。
+    <strong style= "font-size: 2em">GenStudio Academy主创作AI。</strong><p>磨练基本技能，随时随地完全免费地将创意AI集成到您的创意和营销工作流中。
   </td>
  </tr>
 </table>
@@ -31,8 +31,8 @@ ht-degree: 1%
 
 <table>
  <tr style= "border: 0;">
-  <td><img src="https://video.tv.adobe.com/v/3434938?format=jpeg"></td>
-  <td align="center"> <strong style= "font-size: 2em">随时都可以掌握创作AI技能。</strong><p> 掌握AI技能以转变工作流并引导行业前进。 掌握AI技能以转变工作流并引导行业前进。 掌握AI技能以转变工作流并引导行业前进。<p><a href="https://business.adobe.com/products/genstudio.htmlL" rel="noreferrer" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM"><span class="spectrum-Button-label has-no-wrap">立即浏览</span></a></td>
+  <td><img src="./assets/generative-ai-for-marketing-simplified.png"></td>
+  <td align="center"> <strong style= "font-size: 2em">用于营销的创作AI。 已简化。</strong><p> GenStudio Academy将复杂的创作AI任务转换为易于遵循的课程，例如转换品牌指南。 通过可下载的指南和视频，学习者可以掌握创新型人工智能，一次一个概念。<p><a href="https://learningmanager.adobe.com/accountiplogin?ipId=16970&amp;accesskey=c4988oojirhb5" rel="noreferrer" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM"><span class="spectrum-Button-label has-no-wrap">立即浏览</span></a></td>
  </tr>
 </table>
 
@@ -40,20 +40,19 @@ ht-degree: 1%
 
 <table>
  <tr style= "border: 0;">
-  <td align="center"> <strong style= "font-size: 2em">划分用于营销的创作AI。</strong><p> 掌握AI技能以转变工作流并引导行业前进。 掌握AI技能以转变工作流并引导行业前进。 掌握AI技能以转变工作流并引导行业前进。</td>
+  <td align="center"> <strong style= "font-size: 2em">学习级别。 无限机会已解锁。</strong><p>利用GenStudio Academy的精通水平，可以轻松找到可提升您创造性人工智能技能的内容 — 无论您是学习学习学习学习型人工智能、掌握提示创建还是查看正在运行的人工智能工具。 GenStudio Academy为每个人准备了一些东西。</td>
   <td><img src="https://video.tv.adobe.com/v/3434938?format=jpeg"></td>
  </tr>
 </table>
 
 
 <table>
- <tr style= "border: 0;colspan: 3;">
-  <td colspan="3"> <strong style= "font-size: 2em;">即将加入Genstudio Academy</strong></td>
- </tr> 
+ <!-- <tr style= "border: 0;colspan: 3;">
+  <td colspan=3> <strong style= "font-size: 2em;">Coming soon to Genstudio Academy</strong></td>
+ </tr> --> 
  <tr style= "border: 0;colspan: 3;"> 
-    <td align="left"><img src="https://video.tv.adobe.com/v/3434938?format=jpeg"></td>
-    <td align="center"><img src="https://video.tv.adobe.com/v/3434938?format=jpeg"></td>
-    <td align="right"><img src="https://video.tv.adobe.com/v/3434938?format=jpeg"></td>
+    <td align="left"><img src="https://video.tv.adobe.com/v/3434938?format=jpeg"><p>以最有效的方式使用GenStudio for Performance Marketing的提示和技巧。 </td>
+    <td align="right"><img src="https://video.tv.adobe.com/v/3434938?format=jpeg"><p>解锁营销专家级人工智能技能的高级课程。 </td>
  </tr>
 </table>
 
@@ -62,15 +61,13 @@ ht-degree: 1%
 <table>
     <tr></tr>
  <tr style= "border: 0;">
- <td><img src="https://video.tv.adobe.com/v/3434938?format=jpeg"></td>
-  <td> <strong style= "font-size: 2em">实践您的学习</strong><p> 成为创新型人工智能领导者。 掌握AI技能以转变工作流并引导行业前进。 <p><a href="https://learningmanager.adobe.com/accountiplogin?ipId=16970&amp;accesskey=c4988oojirhb5" rel="noreferrer" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM"><span class="spectrum-Button-label has-no-wrap">前去了解</span></a></td>
+ <td><img src="./assets/put-your-learnings-into-practice.png"></td>
+  <td> <strong style= "font-size: 2em">实践您的学习</strong><p>探索GenStudio for Performance Marketing这一人工智能优先的创新型应用程序，它允许营销团队创建自己的广告和电子邮件，以推动有影响力的个性化营销活动。<p><a href="https://learningmanager.adobe.com/accountiplogin?ipId=16970&amp;accesskey=c4988oojirhb5" rel="noreferrer" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM"><span class="spectrum-Button-label has-no-wrap">前去了解</span></a></td>
  </tr>
     <tr></tr>
 </table>
 
 >[!ENDSHADEBOX]
-
->[!VIDEO](https://video.tv.adobe.com/v/3434938?autoplay=true&end=replay)
 
 <!--
 ## Heading 2 SHADEBOXES
