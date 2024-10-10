@@ -3,7 +3,7 @@ title: GenStudio Academy
 description: GenStudio学院登陆
 index: false
 hidefromtoc: true
-source-git-commit: c9395bb9f75f00a816757fc76cb137de1a7bbc63
+source-git-commit: e14b1f5e7a01a9e55aee6be31f9d4d262efe9140
 workflow-type: tm+mt
 source-wordcount: '194'
 ht-degree: 1%
@@ -78,7 +78,7 @@ ht-degree: 1%
     <tr></tr>
  <tr style= "border: 0;">
  <td><img src="./assets/put-your-learnings-into-practice.png"></td>
-  <td> <strong style= "font-size: 2em">实践您的学习</strong><p>探索GenStudio for Performance Marketing这一人工智能优先的创新型应用程序，它允许营销团队创建自己的广告和电子邮件，以推动有影响力的个性化营销活动。<p><a href="https://business.adobe.com" rel="noreferrer" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM"><span class="spectrum-Button-label has-no-wrap">前去了解</span></a></td>
+  <td> <strong style= "font-size: 2em">实践您的学习</strong><p>探索GenStudio for Performance Marketing这一人工智能优先的创新型应用程序，它允许营销团队创建自己的广告和电子邮件，以推动有影响力的个性化营销活动。<p><a href="https://business.adobe.com/products/genstudio-for-performance-marketing.html" rel="noreferrer" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM"><span class="spectrum-Button-label has-no-wrap">前去了解</span></a></td>
  </tr>
     <tr></tr>
 </table>
