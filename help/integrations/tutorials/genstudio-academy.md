@@ -3,10 +3,10 @@ title: GenStudio Academy
 description: GenStudio学院登陆
 index: false
 hidefromtoc: true
-source-git-commit: 58659803aa9611d28c8b31c3f879f0df4e10fe32
+source-git-commit: e8126729c5ebc92999d09be07c8a359f96236ed3
 workflow-type: tm+mt
-source-wordcount: '194'
-ht-degree: 2%
+source-wordcount: '197'
+ht-degree: 1%
 
 ---
 
@@ -47,15 +47,14 @@ ht-degree: 2%
 
 
 <table>
- <!-- <tr style= "border: 0;colspan: 3;">
-  <td colspan=3> <strong style= "font-size: 2em;">Coming soon to Genstudio Academy</strong></td>
- </tr> --> 
+ <tr style= "border: 0;colspan: 3;">
+  <td colspan="3"> <strong style= "font-size: 2em;">即将加入Genstudio Academy</strong></td>
+ </tr> 
  <tr style= "border: 0;colspan: 3;"> 
    <td>
       <img src="https://video.tv.adobe.com/v/3434938?format=jpeg">
       <div>
-      <a href="https://www.adobe.com/cn"><strong>提示和技巧</strong>
-      </a>
+      <strong>提示和技巧</strong>
       </div>
       <p>
       以最有效的方式使用GenStudio for Performance Marketing的提示和技巧。
@@ -64,8 +63,7 @@ ht-degree: 2%
    <td>
       <img src="https://video.tv.adobe.com/v/3434938?format=jpeg">
       <div>
-      <a href="https://www.adobe.com/cn"><strong>专家课程</strong>
-      </a>
+      <strong>专家课程</strong>
       </div>
       <p>
       解锁营销专家级人工智能技能的高级课程。
@@ -80,7 +78,7 @@ ht-degree: 2%
     <tr></tr>
  <tr style= "border: 0;">
  <td><img src="./assets/put-your-learnings-into-practice.png"></td>
-  <td> <strong style= "font-size: 2em">实践您的学习</strong><p>探索GenStudio for Performance Marketing这一人工智能优先的创新型应用程序，它允许营销团队创建自己的广告和电子邮件，以推动有影响力的个性化营销活动。<p><a href="https://learningmanager.adobe.com/accountiplogin?ipId=16970&amp;accesskey=c4988oojirhb5" rel="noreferrer" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM"><span class="spectrum-Button-label has-no-wrap">前去了解</span></a></td>
+  <td> <strong style= "font-size: 2em">实践您的学习</strong><p>探索GenStudio for Performance Marketing这一人工智能优先的创新型应用程序，它允许营销团队创建自己的广告和电子邮件，以推动有影响力的个性化营销活动。<p><a href="https://business.adobe.com" rel="noreferrer" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM"><span class="spectrum-Button-label has-no-wrap">前去了解</span></a></td>
  </tr>
     <tr></tr>
 </table>
