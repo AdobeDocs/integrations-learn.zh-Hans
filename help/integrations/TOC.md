@@ -3,9 +3,9 @@ user-guide-title: Experience Cloud 集成教程
 breadcrumb-title: Experience Cloud 集成
 user-guide-description: 集成学习。
 mini-toc-levels: 1
-source-git-commit: 055180c634e028a208d1def883288441e76f87c3
+source-git-commit: bb2658916a519c651ebcd350dcc72e3a8593180f
 workflow-type: tm+mt
-source-wordcount: '93'
+source-wordcount: '91'
 ht-degree: 17%
 
 ---
@@ -23,7 +23,6 @@ ht-degree: 17%
    + [客户历程](./solution-categories/customer-journeys.md)
    + [数据洞察和激活](./solution-categories/data-insights.md)
    + [大规模Personalization](./solution-categories/personalization.md)
-   + [GenStudio Academy](./tutorials/genstudio-academy.md)
 + 产品集成{#integrations-between-applications}
    + [概述](./integrations-between-applications/overview.md)
    + [!DNL Acrobat Sign]{#acrobat-sign}
