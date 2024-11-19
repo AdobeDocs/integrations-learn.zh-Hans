@@ -1,7 +1,7 @@
 ---
-source-git-commit: f3dfc96926bbff3fec05435a4d6f6783ae42ad6a
+source-git-commit: 954b4bd9b36496d3a5992316a985bf88d129baf5
 workflow-type: tm+mt
-source-wordcount: '130'
+source-wordcount: '116'
 ht-degree: 2%
 
 ---
@@ -42,11 +42,7 @@ ht-degree: 2%
             <td>
                 <ul style="margin-top: 0;">
                     <li>上传、审核和批准品牌资产。</li>
-&lt;&lt;&lt;&lt;&lt;&lt;&lt;HEAD
                     <li>创建已批准品牌资产的图像变体以用于营销体验。</li>
-=======
-                    <li>创建已批准品牌资产的图像变体以用于营销体验。</li>&lt;
-&gt;&gt;&gt;&gt;&gt;&gt; edde4b8b98a1e8b7eaff592f458cfaa9aa53b346
                 </ul>
             </td>
         </tr>        
