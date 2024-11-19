@@ -11,7 +11,7 @@ doc-type: Value Video
 duration: 133
 last-substantial-update: 2024-11-19T00:00:00Z
 jira: KT-16480
-source-git-commit: d19a0e6c311f167a8102d90317f9292657d2e94b
+source-git-commit: 07d927509468090fc560c85167c61bc089b3d4a2
 workflow-type: tm+mt
 source-wordcount: '385'
 ht-degree: 2%
@@ -67,8 +67,8 @@ ht-degree: 2%
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/integrations-learn/experience-cloud/tutorials/genstudio-for-performance-marketing-experience-manager/integration-walk-through" title="集成演练" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3439264/?format=jpeg&nocache=1732043985386" alt="集成演练"
+                    <a href="https://experienceleague.adobe.com/en/docs/integrations-learn/experience-cloud/tutorials/genstudio-for-performance-marketing-experience-manager/integration-walkthrough" title="集成演练" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3439264/?format=jpeg&nocache=1732052905955" alt="集成演练"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -76,11 +76,11 @@ ht-degree: 2%
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/integrations-learn/experience-cloud/tutorials/genstudio-for-performance-marketing-experience-manager/integration-walk-through" target="_blank" rel="referrer" title="集成演练">集成演练</a>
+                        <a href="https://experienceleague.adobe.com/en/docs/integrations-learn/experience-cloud/tutorials/genstudio-for-performance-marketing-experience-manager/integration-walkthrough" target="_blank" rel="referrer" title="集成演练">集成演练</a>
                     </p>
                     <p class="is-size-6">了解有关使用AEM Assets和GenStudio for Performance Marketing集成、将资源上传到AEM Assets、在AEM Assets中审批资源以及在GenStudio for Performance Marketing中使用已批准资源的基础知识。</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/en/docs/integrations-learn/experience-cloud/tutorials/genstudio-for-performance-marketing-experience-manager/integration-walk-through" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/en/docs/integrations-learn/experience-cloud/tutorials/genstudio-for-performance-marketing-experience-manager/integration-walkthrough" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">观看</span>
                 </a>
             </div>
@@ -107,7 +107,7 @@ ht-degree: 2%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/en/docs/integrations-learn/experience-cloud/tutorials/genstudio-for-performance-marketing-experience-manager/use-case-1" title="Adobe GenStudio中的轻量级审核和批准" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3439265/?format=jpeg&nocache=1732043985703" alt="Adobe GenStudio中的轻量级审核和批准"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3439265/?format=jpeg&nocache=1732052906135" alt="Adobe GenStudio中的轻量级审核和批准"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -130,7 +130,7 @@ ht-degree: 2%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/en/docs/integrations-learn/experience-cloud/tutorials/genstudio-for-performance-marketing-experience-manager/use-case-2" title="使用Adobe GenStudio创建变体" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3439266/?format=jpeg&nocache=1732043985624" alt="使用Adobe GenStudio创建变体"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3439266/?format=jpeg&nocache=1732052906136" alt="使用Adobe GenStudio创建变体"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
