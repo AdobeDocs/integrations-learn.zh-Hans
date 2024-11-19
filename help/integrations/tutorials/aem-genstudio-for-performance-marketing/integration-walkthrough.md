@@ -11,15 +11,17 @@ doc-type: Feature Video
 duration: 296
 last-substantial-update: 2024-11-19T00:00:00Z
 jira: KT-16482
-source-git-commit: a542f8a0f230b2a2fb3eaedf503e2b801f26aa9b
+source-git-commit: 3a3d2542604a870efbe84fe3b7f1012483df3232
 workflow-type: tm+mt
-source-wordcount: '83'
+source-wordcount: '87'
 ht-degree: 0%
 
 ---
 
 
 # 集成演练
+
+[&#39;返回集成概述](./overview.md)
 
 了解有关使用AEM Assetsas a Cloud Service和GenStudio for Performance Marketing集成、将资源上传到AEM Assets、在AEM Assets中审批资源以及在GenStudio for Performance Marketing中使用已批准资源的基础知识。
 
