@@ -11,7 +11,7 @@ doc-type: Feature Video
 duration: 295
 last-substantial-update: 2024-11-19T00:00:00Z
 jira: KT-16483
-source-git-commit: 7d07f37f6267eda106f895cb367d42669f0d5c65
+source-git-commit: 911be1d339181609a94770b070f9187916fe7fe4
 workflow-type: tm+mt
 source-wordcount: '82'
 ht-degree: 0%
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 # Adobe GenStudio中的轻量级审核和批准
 
-[返回集成概述](./overview.md)
+[&#39;返回集成概述](./overview.md)
 
 了解如何在AEM Assetsas a Cloud Service中上传、审阅和批准资源以简化内容工作流程。 这些资产在获得批准后，可无缝集成到GenStudio for Performance Marketing中，从而确保您的营销活动可轻松访问品牌批准的资料。
 
