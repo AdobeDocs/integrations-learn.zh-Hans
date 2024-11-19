@@ -1,7 +1,7 @@
 ---
-source-git-commit: 94b074c17e976e4f4acbb1ff41aacfc9bf74744c
+source-git-commit: edde4b8b98a1e8b7eaff592f458cfaa9aa53b346
 workflow-type: tm+mt
-source-wordcount: '901'
+source-wordcount: '941'
 ht-degree: 3%
 
 ---
@@ -37,7 +37,7 @@ Adobe客户历程[!DNL Analytics] (CJA)是Adobe提供的分析平台，它允许
 
 ## Experience Manager描述 {#experience-manager-description}
 
-Adobe Experience Manager (AEM)是一种内容管理系统(CMS)，允许组织跨多个渠道（如网站、移动应用程序和社交媒体）创建、管理和交付数字内容。 AEM使公司能够个性化内容、优化客户体验并衡量其数字策略的有效性。
+Adobe Experience Manager (AEM)是一个内容管理系统(CMS)，它允许组织跨多个渠道（如网站、移动应用程序和社交媒体）创建、管理和交付数字内容。 AEM使公司能够个性化内容、优化客户体验并衡量其数字策略的有效性。
 
 ## Experience Manager Forms描述 {#experience-manager-forms-description}
 
@@ -46,6 +46,11 @@ Adobe Experience Manager Forms是Adobe Experience Manager的一个组件，用�
 ## 体验[!DNL Platform]描述 {#experience-platform-description}
 
 Adobe体验[!DNL Platform]是市场上功能最强大、最灵活、最开放的系统，可用于构建和管理可改善客户体验的完整解决方案。 体验[!DNL Platform]使组织能够集中和标准化来自任何系统的客户数据和内容，并应用数据科学和机器学习来显着改进丰富个性化体验的设计和交付。
+
+
+## GenStudio for Performance Marketing描述 {#genstudio-for-performance-marketing-description}
+
+Adobe GenStudio for Performance Marketing是一款功能强大的应用程序，通过集成品牌批准的资产，可简化内容创建和管理，使营销人员能够大规模跨所有渠道提供个性化、一致的内容，从而提高营销活动效果。
 
 ## Journey Optimizer描述 {#journey-optimizer-description}
 

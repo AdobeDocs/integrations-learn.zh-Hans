@@ -2,10 +2,10 @@
 title: 内容供应链的应用程序集成
 description: 规划、创建、个性化和发布内容。
 exl-id: 00a15be9-612e-4210-8b2a-77274aa5713c
-source-git-commit: 509b227f360718e81fb19d3a4d30aebf9de49e5a
+source-git-commit: edde4b8b98a1e8b7eaff592f458cfaa9aa53b346
 workflow-type: tm+mt
-source-wordcount: '286'
-ht-degree: 2%
+source-wordcount: '327'
+ht-degree: 1%
 
 ---
 
@@ -26,7 +26,7 @@ ht-degree: 2%
   </thead>
   <tbody>
 <tr>
-  <td><strong>使用品牌资产创建营销宣传资料</strong><br/></td>
+  <td rowspan="2"><strong>使用品牌资产创建营销宣传资料</strong><br/></td>
   <td>使用AEM和Adobe[!DNL Campaign]生成并监视电子邮件营销内容和模板。</td>
   <td>
     <ul>
@@ -34,6 +34,16 @@ ht-degree: 2%
     </ul>    
   </td>
   <td><a href="../integrations-between-applications/experience-manager/experience-manager-campaign.md">[!DNL Campaign] 和AEM</a></td>
+</tr>
+<tr>
+  <td>创建品牌上个性化的营销体验。</td>
+  <td>
+    <ul>
+      <li>发送在GenStudio for Performance Marketing中创建的营销电子邮件，其中包含AEM Assets中的品牌上图像。</li>
+      <li>使用AEM Assets中的品牌上图像在GenStudio for Performance Marketing中创建品牌上元广告。</li>
+    </ul>    
+  </td>
+  <td><a href="../integrations-between-applications/experience-manager/experience-manager-genstudio-for-performance-marketing.md">GenStudio for Performance Marketing和AEM</a></td>
 </tr>
 <tr>
   <td rowspan="3"><strong>管理资源创建</strong><br/></td>
