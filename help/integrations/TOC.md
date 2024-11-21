@@ -3,10 +3,10 @@ user-guide-title: Experience Cloud 集成教程
 breadcrumb-title: Experience Cloud 集成
 user-guide-description: 集成学习。
 mini-toc-levels: 1
-source-git-commit: 1ef94353ffe1be605df8e575edac3e2a9ef69afb
+source-git-commit: 6c6adc31c2c556373528841250c5c91ac42388a6
 workflow-type: tm+mt
-source-wordcount: '113'
-ht-degree: 20%
+source-wordcount: '118'
+ht-degree: 19%
 
 ---
 
@@ -106,5 +106,5 @@ ht-degree: 20%
       + [概述](./tutorials/aem-genstudio-for-performance-marketing/overview.md)
       + [设置](./tutorials/aem-genstudio-for-performance-marketing/setup.md)
       + [集成演练](./tutorials/aem-genstudio-for-performance-marketing/integration-walkthrough.md)
-      + [用例#1](./tutorials/aem-genstudio-for-performance-marketing/use-case-1.md)
-      + [用例#2](./tutorials/aem-genstudio-for-performance-marketing/use-case-2.md)
+      + [Adobe GenStudio中的审阅和批准](./tutorials/aem-genstudio-for-performance-marketing/use-case-1.md)
+      + [使用Adobe GenStudio创建变体](./tutorials/aem-genstudio-for-performance-marketing/use-case-2.md)
