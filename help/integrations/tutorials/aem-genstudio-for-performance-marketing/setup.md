@@ -12,16 +12,16 @@ duration: 416
 last-substantial-update: 2024-11-19T00:00:00Z
 jira: KT-16484
 exl-id: b63cfe6e-a530-4ca4-9e8e-16c54478054f
-source-git-commit: 4400dfd33821ef15e134f272fa9834b6302b61b1
+source-git-commit: 0943e1198e542a4357e19708b7bd6f0d79c2aafc
 workflow-type: tm+mt
-source-wordcount: '265'
+source-wordcount: '270'
 ht-degree: 7%
 
 ---
 
 # 设置GenStudio for Performance Marketing和AEM Assets
 
-[&#39;返回集成概述](./overview.md)
+[&#39;返回AEM Asset和GenStudio for Performance Marketing概述](./overview.md)
 
 要开始将Adobe GenStudio与AEM Assetsas a Cloud Service和GenStudio for Performance Marketing结合使用，请确保已配置、启用和配置必要的产品。 具体来说，您需要访问：
 
