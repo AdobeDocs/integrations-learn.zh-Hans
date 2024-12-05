@@ -1,5 +1,5 @@
 ---
-title: 使用AEM Assets和GenStudio for Performance Marketing设置Adobe GenStudio
+title: 使用GenStudio for Performance Marketing和AEM Assets设置Adobe GenStudio
 description: 了解如何设置AEM Assets与GenStudio for Performance Marketing之间的集成。
 solution: Experience Manager, GenStudio for Performance Marketing
 version: Cloud Service
@@ -11,29 +11,34 @@ doc-type: Article
 duration: 416
 last-substantial-update: 2024-11-19T00:00:00Z
 jira: KT-16484
-index: true
-hidefromtoc: true
-badgeIntegration: label="AEM Asset和GenStudio for Performance Marketing" type="positive"
 exl-id: b63cfe6e-a530-4ca4-9e8e-16c54478054f
-source-git-commit: ed6dd016008f48eab117f2b1597c0a1b42590c82
+source-git-commit: 4400dfd33821ef15e134f272fa9834b6302b61b1
 workflow-type: tm+mt
-source-wordcount: '264'
-ht-degree: 6%
+source-wordcount: '265'
+ht-degree: 7%
 
 ---
 
-# AEM Asset和GenStudio for Performance Marketing设置
+# 设置GenStudio for Performance Marketing和AEM Assets
 
-[&#39;返回AEM Asset和GenStudio for Performance Marketing概述](./overview.md)
+[&#39;返回集成概述](./overview.md)
 
-要开始使用AEM Assets as a Cloud Service和GenStudio for Performance Marketing进行Adobe GenStudio，需要正确配置这两个应用程序。 设置过程涉及几个必须完成的步骤，之后您才能将Adobe GenStudio与AEM Assets和GenStudio for Performance Marketing完全集成。
+要开始将Adobe GenStudio与AEM Assetsas a Cloud Service和GenStudio for Performance Marketing结合使用，请确保已配置、启用和配置必要的产品。 具体来说，您需要访问：
 
-这些任务需要与具有管理这两个系统的相应权限的管理员协作。
+* AEM Assetsas a Cloud Service
+* AEM Assets Content Hub
+* GenStudio 性能营销
+
+集成这些产品不需要进行额外的设置，只是要确保它们可用，并且设置可供您的用户访问。
+
+## 设置指南
+
+如果尚未设置并启用这些Adobe产品，请查阅以下指南以了解详细的配置步骤：
 
 <!-- CARDS 
 
 * https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/video-playlists/assets-view
-   {title=Set up AEM Assets with Assets view}
+   {title=Set up AEM Assets}
 * https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/content-hub/set-up
    {title=Enable AEM Assets Content Hub}
 * https://experienceleague.adobe.com/en/docs/genstudio-for-performance-marketing/user-guide/get-started
@@ -43,12 +48,12 @@ ht-degree: 6%
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
 <div class="columns">
-    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Set up AEM Assets with Assets view">
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Set up AEM Assets">
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/video-playlists/assets-view" title="使用Assets视图设置AEM Assets" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/video-playlists/assets-view./media_1e4b209baa6169af9b0aefff8a2f1f39816aa6b42.png?width=400&format=png&optimize=medium" alt="使用Assets视图设置AEM Assets"
+                    <a href="https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/video-playlists/assets-view" title="设置AEM Assets" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/video-playlists/assets-view./media_1e4b209baa6169af9b0aefff8a2f1f39816aa6b42.png?width=400&format=png&optimize=medium" alt="设置AEM Assets"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -56,9 +61,9 @@ ht-degree: 6%
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/video-playlists/assets-view" target="_blank" rel="referrer" title="使用Assets视图设置AEM Assets">使用Assets视图设置AEM Assets</a>
+                        <a href="https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/video-playlists/assets-view" target="_blank" rel="referrer" title="设置AEM Assets">设置AEM Assets</a>
                     </p>
-                    <p class="is-size-6">了解如何在Assets视图中使用AEM Assetsas a Cloud Service播放此视频播放列表集合以提高您的产品专业知识。</p>
+                    <p class="is-size-6">通过精选的视频播放列表（旨在提升您的产品知识），了解如何在Assets视图中导航AEM Assetsas a Cloud Service。</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/video-playlists/assets-view" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">了解详情</span>
@@ -71,7 +76,7 @@ ht-degree: 6%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/content-hub/set-up" title="启用AEM Assets Content Hub" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3433513/?format=jpeg&nocache=1732112018062" alt="启用AEM Assets Content Hub"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3433513/?format=jpeg&nocache=1733417775065" alt="启用AEM Assets Content Hub"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
