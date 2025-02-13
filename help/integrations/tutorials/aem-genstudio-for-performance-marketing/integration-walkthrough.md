@@ -1,6 +1,6 @@
 ---
 title: AEM Assets与GenStudio for Performance Marketing集成演练
-description: 了解有关使用AEM Assets和GenStudio for Performance Marketing集成、将资源上传到AEM Assets、在AEM Assets中审批资源以及在GenStudio for Performance Marketing中使用已批准资源的基础知识。
+description: 了解如何使用AEM Assets和GenStudio for Performance Marketing，包括在AEM中上传和批准资源以及在GenStudio for Performance Marketing中使用资源。
 solution: Experience Manager, GenStudio for Performance Marketing
 version: Cloud Service
 feature-set: Experience Manager Assets, GenStudio for Performance Marketing
@@ -15,17 +15,17 @@ index: true
 hidefromtoc: true
 badgeIntegration: label="AEM Asset和GenStudio for Performance Marketing" type="positive"
 exl-id: 42185429-16ee-42df-bce4-d6d97f13b166
-source-git-commit: 7764aca295510187e45b448d39f23514915a6517
+source-git-commit: 1eb538915a3c53ce478eac8d5462648b1477a3a4
 workflow-type: tm+mt
-source-wordcount: '106'
+source-wordcount: '98'
 ht-degree: 0%
 
 ---
 
-# AEM Asset和GenStudio for Performance Marketing演练
+# AEM Assets和GenStudio for Performance Marketing演练
 
-[&#39;返回AEM Asset和GenStudio for Performance Marketing概述](./overview.md)
+[&#39;返回AEM Assets和GenStudio for Performance Marketing概述](./overview.md)
 
-了解有关使用AEM Assetsas a Cloud Service和GenStudio for Performance Marketing集成、将资源上传到AEM Assets、在AEM Assets中审批资源以及在GenStudio for Performance Marketing中使用已批准资源的基础知识。
+了解有关使用AEM Assets as a Cloud Service和GenStudio for Performance Marketing集成、将资源上传到AEM Assets、在AEM Assets中审批资源以及在GenStudio for Performance Marketing中使用已批准资源的基础知识。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3439264/?learn=on&enablevpops)
