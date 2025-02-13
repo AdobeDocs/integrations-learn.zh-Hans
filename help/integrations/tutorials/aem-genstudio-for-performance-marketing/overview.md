@@ -1,6 +1,6 @@
 ---
-title: 使用GenStudio for Performance Marketing和AEM Assets的Adobe GenStudio
-description: 此视频介绍如何将AEM Assets与GenStudio for Performance Marketing集成，让团队能够访问品牌批准资源的集中存储库，确保所有渠道和营销活动中的内容一致。
+title: 使用Adobe GenStudio for Performance Marketing和AEM Assets
+description: 解锁Adobe GenStudio以简化营销。 访问品牌批准的资产并跨渠道创建一致、高质量的内容。
 solution: Experience Manager, GenStudio for Performance Marketing
 version: Cloud Service
 feature-set: Experience Manager Assets, GenStudio for Performance Marketing
@@ -15,9 +15,9 @@ index: true
 hidefromtoc: true
 badgeIntegration: label="AEM Asset和GenStudio for Performance Marketing" type="positive"
 exl-id: 091852ef-cce4-40dd-97bf-f0deee2c99c3
-source-git-commit: ad3d8d090434b1c1a2cbcf024223db9fb6bb9fef
+source-git-commit: 7ffb3102086df5d7ca7b6593fd94bec9518d227e
 workflow-type: tm+mt
-source-wordcount: '512'
+source-wordcount: '498'
 ht-degree: 0%
 
 ---
@@ -26,20 +26,20 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3439263/?learn=on)
 
-充分发挥Adobe GenStudio和AEM Assetsas a Cloud Service的强大功能，转变您的绩效营销工作流程。 通过无缝集成，可从集中式存储库中访问品牌批准的资产，从而为每个活动和渠道创建一致、高质量的内容。 了解这些工具如何简化您的内容供应链并提高您的营销影响。
+充分发挥Adobe GenStudio和AEM Assets as a Cloud Service的强大功能，转变您的性能营销工作流程。 通过无缝集成，可从集中式存储库中访问品牌批准的资产，从而为每个活动和渠道创建一致、高质量的内容。 了解这些工具如何简化您的内容供应链并提高您的营销影响。
 
 ## 先决条件
 
 AEM Assets与GenStudio for Performance Marketing之间的集成要求对以下内容有基本的了解：
 
-* Adobe GenStudio for Performance Marketing
-* AEM Assetsas a Cloud Service
+* [Adobe GenStudio for Performance Marketing](https://experienceleague.adobe.com/en/browse/genstudio-for-performance-marketing)
+* [AEM Assets as a Cloud Service](https://experienceleague.adobe.com/zh-hans/docs/experience-manager-cloud-service/content/assets/overview)
 
 在深入研究设置和工作流程之前，请确保您具有AEM Assets和GenStudio for Performance Marketing的必要访问权限。
 
 ## 快速入门
 
-探索两个专为对AEM Assets和GenStudio for Performance Marketing具有基础知识的用户设计的全面演练。 第一个演练将指导您完成设置过程，包括Adobe GenStudio与AEM Assetsas a Cloud Service无缝集成所需的一切。 第二个深入探讨关键工作流，展示利用集成有效创建、管理和分发绩效营销内容的主要动作。
+探索两个专为对AEM Assets和GenStudio for Performance Marketing具有基础知识的用户设计的全面演练。 第一个演练将指导您完成设置过程，其中包括将Adobe GenStudio与AEM Assets as a Cloud Service无缝集成所需的一切。 第二个深入探讨关键工作流，展示利用集成有效创建、管理和分发绩效营销内容的主要动作。
 
 <!-- CARDS 
 
@@ -128,7 +128,7 @@ AEM Assets与GenStudio for Performance Marketing之间的集成要求对以下�
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/integrations-learn/experience-cloud/tutorials/genstudio-for-performance-marketing-experience-manager/use-cases/use-case-1" target="_blank" rel="referrer" title="Adobe GenStudio中的轻量级审核和批准">Adobe GenStudio中的轻量级审核和批准</a>
+                        在Adobe GenStudio中<a href="https://experienceleague.adobe.com/en/docs/integrations-learn/experience-cloud/tutorials/genstudio-for-performance-marketing-experience-manager/use-cases/use-case-1" target="_blank" rel="referrer" title="Adobe GenStudio中的轻量级审核和批准">轻量级审核和批准</a>
                     </p>
                     <p class="is-size-6">探索在AEM Assets中上传、审核和批准资源以供在GenStudio for Performance Marketing中使用的用例。</p>
                 </div>
@@ -151,7 +151,7 @@ AEM Assets与GenStudio for Performance Marketing之间的集成要求对以下�
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/integrations-learn/experience-cloud/tutorials/genstudio-for-performance-marketing-experience-manager/use-cases/use-case-2" target="_blank" rel="referrer" title="使用Adobe GenStudio创建变体">创建具有Adobe GenStudio</a>的变体
+                        <a href="https://experienceleague.adobe.com/en/docs/integrations-learn/experience-cloud/tutorials/genstudio-for-performance-marketing-experience-manager/use-cases/use-case-2" target="_blank" rel="referrer" title="使用Adobe GenStudio创建变体">使用Adobe GenStudio创建变体</a>
                     </p>
                     <p class="is-size-6">探索使用AEM Assets和Adobe Express创建资源变体的用例，用于电子邮件和元广告中，以推广相同的营销体验。</p>
                 </div>
