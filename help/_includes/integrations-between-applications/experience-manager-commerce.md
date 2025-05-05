@@ -34,7 +34,7 @@ ht-degree: 2%
     <tbody>
         <tr>
             <td rowspan="3">AEM Sites作为Cloud Service和 [!DNL Commerce]</td>
-            <td><a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/content-and-commerce/storefront/getting-started.html" target="_blank" rel="noreferrer">使用[!DNL Commerce] Integration Framework (CIF)创建单个店面</a></td>
+            <td><a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/content-and-commerce/storefront/getting-started.html?lang=zh-Hans" target="_blank" rel="noreferrer">使用[!DNL Commerce] Integration Framework (CIF)创建单个店面</a></td>
             <td>
                 <ul style="margin-top: 0;">
                     <li>当你想要一个店面在AEM的时候。</li>
@@ -50,7 +50,7 @@ ht-degree: 2%
             </td>
         </tr>
         <tr>
-            <td><a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/content-and-commerce/storefront/administering/multi-store-setup.html" target="_blank" rel="noreferrer">使用[!DNL Commerce] Integration Framework (CIF)创建多个店面</a></td>
+            <td><a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/content-and-commerce/storefront/administering/multi-store-setup.html?lang=zh-Hans" target="_blank" rel="noreferrer">使用[!DNL Commerce] Integration Framework (CIF)创建多个店面</a></td>
             <td>
                 <ul style="margin-top: 0;">
                     <li>当您想要在AEM中使用多个店面时。</li>
@@ -64,7 +64,7 @@ ht-degree: 2%
             </td>
         </tr>
         <tr>
-            <td><a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/content-and-commerce/storefront/administering/multiple-commerce-systems-setup.html" target="_blank" rel="noreferrer">使用[!DNL Commerce]集成框架(CIF)的多个商务系统</a></td>
+            <td><a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/content-and-commerce/storefront/administering/multiple-commerce-systems-setup.html?lang=zh-Hans" target="_blank" rel="noreferrer">使用[!DNL Commerce]集成框架(CIF)的多个商务系统</a></td>
             <td>
                 <ul style="margin-top: 0;"><li>当您希望使用许多商务系统的多区域或多品牌店面时。</li></ul>
             </td>

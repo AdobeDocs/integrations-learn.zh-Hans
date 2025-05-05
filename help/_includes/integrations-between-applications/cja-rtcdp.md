@@ -36,7 +36,7 @@ ht-degree: 1%
     </thead>
     <tbody>
         <tr>
-            <td><a href="https://experienceleague.adobe.com/docs/customer-journey-analytics-learn/tutorials/components/audiences/audience-publishing-for-cja.html" target="_blank" rel="noreferrer">客户历程[!DNL Analytics]和Real-Time CDP</a></td>
+            <td><a href="https://experienceleague.adobe.com/docs/customer-journey-analytics-learn/tutorials/components/audiences/audience-publishing-for-cja.html?lang=zh-Hans" target="_blank" rel="noreferrer">客户历程[!DNL Analytics]和Real-Time CDP</a></td>
             <td>Adobe体验 [!DNL Platform]</td>
             <td>
                 <ul style="margin-top: 0;">

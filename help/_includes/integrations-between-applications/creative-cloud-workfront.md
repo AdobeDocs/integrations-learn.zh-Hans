@@ -32,7 +32,7 @@ Adobe Workfront与Adobe Creative Cloud集成的主要优势包括：
     </thead>
     <tbody>
         <tr>
-            <td><a href="https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/integrations/adobe-creative-cloud/use-adobe-workfront-extensions-for-creative-cloud.html" target="_blank" rel="noreferrer">Creative Cloud和Workfront</a></td>
+            <td><a href="https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/integrations/adobe-creative-cloud/use-adobe-workfront-extensions-for-creative-cloud.html?lang=zh-Hans" target="_blank" rel="noreferrer">Creative Cloud和Workfront</a></td>
             <td>本机连接器</td>
             <td>
                 <ul style="margin-top: 0;">

@@ -47,7 +47,7 @@ ht-degree: 2%
             </td>
         </tr>      
         <tr>
-            <td><a href="https://experienceleague.adobe.com/docs/experience-manager-learn/forms/aem-forms-with-adobe-campaign/aem-forms-with-campaign-standard-getting-started-tutorial.html" target="_blank" rel="noreferrer">[!DNL Campaign] AEM Forms的标准</a></td>
+            <td><a href="https://experienceleague.adobe.com/docs/experience-manager-learn/forms/aem-forms-with-adobe-campaign/aem-forms-with-campaign-standard-getting-started-tutorial.html?lang=zh-Hans" target="_blank" rel="noreferrer">[!DNL Campaign] AEM Forms的标准</a></td>
             <td>Adobe IMS访问令牌</td>
             <td>
                 <ul style="margin-top: 0;">

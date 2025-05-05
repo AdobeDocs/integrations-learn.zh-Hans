@@ -34,7 +34,7 @@ AEM和Workfront可简化内容制作，允许将托管内容从Workfront无缝�
     </thead>
     <tbody>
         <tr>
-            <td><a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/configure.html" target="_blank" rel="noreferrer">Workfront和AEM Assets Essentials</a></td>
+            <td><a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/configure.html?lang=zh-Hans" target="_blank" rel="noreferrer">Workfront和AEM Assets Essentials</a></td>
             <td>本机连接器</td>
             <td>
               <ul style="margin-top: 0;">
@@ -50,7 +50,7 @@ AEM和Workfront可简化内容制作，允许将托管内容从Workfront无缝�
             </td>
         </tr>
         <tr>
-            <td><a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets/workfront/enhanced-connector/aem-experts-series/overview.html" target="_blank" rel="noreferrer">Workfront和AEM Assets</a></td>
+            <td><a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets/workfront/enhanced-connector/aem-experts-series/overview.html?lang=zh-Hans" target="_blank" rel="noreferrer">Workfront和AEM Assets</a></td>
             <td>增强型连接器</td>
             <td>
                 <ul style="margin-top: 0;">

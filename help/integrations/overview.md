@@ -18,10 +18,10 @@ ht-degree: 0%
 <table>
 <tr>
    <td style="vertical-align: middle; text-align: center;">
-      <a  href="./integrations-between-applications/overview.md"><img alt="按产品" src="https://cdn.experienceleague.adobe.com/thumb/by-product.png"/></a>
+      <a  href="./integrations-between-applications/overview.md"><img alt="按产品" src="https://cdn.experienceleague.adobe.com/thumb/by-product.png?lang=zh-Hans"/></a>
    </td>
    <td>
-      <a  href="./solution-categories/overview.md"><img alt="按业务解决方案" src="https://cdn.experienceleague.adobe.com/thumb/by-solution.png"/></a>
+      <a  href="./solution-categories/overview.md"><img alt="按业务解决方案" src="https://cdn.experienceleague.adobe.com/thumb/by-solution.png?lang=zh-Hans"/></a>
    </td>  
 </tr>
 <tr>

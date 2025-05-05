@@ -33,7 +33,7 @@ Adobe[!DNL Analytics]与Adobe[!DNL Campaign]的集成实现了无缝的数据共
     <tbody>
         <tr>
             <td rowspan="2">[!DNL Campaign] 标准with [!DNL Analytics]</td>
-            <td><a href="https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/integrations/track-the-success-of-your-deliveries-in-analytics.html" target="_blank" rel="noreferrer">外部[!DNL Campaign]帐户链接到Adobe[!DNL Analytics]和中的管理员配置 [!DNL Analytics]</a></td>
+            <td><a href="https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/integrations/track-the-success-of-your-deliveries-in-analytics.html?lang=zh-Hans" target="_blank" rel="noreferrer">外部[!DNL Campaign]帐户链接到Adobe[!DNL Analytics]和中的管理员配置 [!DNL Analytics]</a></td>
             <td>
                 <ul style="margin-top: 0;">
                     <li>希望直接在Adobe[!DNL Analytics]中跟踪从[!DNL Campaign]发送的电子邮件是否成功。</li>

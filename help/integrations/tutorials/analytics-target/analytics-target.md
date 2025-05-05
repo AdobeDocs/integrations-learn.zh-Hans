@@ -29,7 +29,7 @@ ht-degree: 1%
 
 >[!NOTE]
 >
->这些视频演示了[!DNL Target] at.js和[!DNL Analytics] appMeasurement.js的实施和验证。 有关这两个工具中所需的库版本，请参阅[文档](https://experienceleague.adobe.com/docs/target/using/integrate/a4t/a4timplementation.html)。
+>这些视频演示了[!DNL Target] at.js和[!DNL Analytics] appMeasurement.js的实施和验证。 有关这两个工具中所需的库版本，请参阅[文档](https://experienceleague.adobe.com/docs/target/using/integrate/a4t/a4timplementation.html?lang=zh-Hans)。
 
 ### 正在设置A4T （[!DNL Target]的[!DNL Analytics]）
 
@@ -73,7 +73,7 @@ ht-degree: 1%
 
 自动分配活动可在两个或更多体验中标识一个入选者，并在测试继续运行和学习期间，自动为入选者重新分配更多流量。 自动分配的[!DNL Target] (A4T)的[!DNL Analytics]集成允许您在Adobe[!DNL Analytics]中查看报表数据，甚至可以针对[!DNL Analytics]中定义的自定义事件或指标进行优化。
 
-<a href="https://experienceleague.adobe.com/docs/target-learn/tutorials/integrations/set-up-a4t-reports-in-analysis-workspace-for-auto-allocate-activities.html" class="spectrum-Button spectrum-Button--primary spectrum-Button--sizeM" target="_blank">
+<a href="https://experienceleague.adobe.com/docs/target-learn/tutorials/integrations/set-up-a4t-reports-in-analysis-workspace-for-auto-allocate-activities.html?lang=zh-Hans" class="spectrum-Button spectrum-Button--primary spectrum-Button--sizeM" target="_blank">
   <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">为自动分配活动设置A4T报表</span>
 </a>
 
@@ -83,6 +83,6 @@ ht-degree: 1%
 
 尽管Adobe[!DNL Analytics] Analysis Workspace中提供了丰富的分析功能，但由于实验活动（手动A/B测试和自动分配）和个性化活动（自动[!DNL Target]）之间存在差异，因此需要对[!DNL Target]面板的默认[!DNL Analytics]进行一些修改，才能正确解释自动[!DNL Target]活动。
 
-<a href="https://experienceleague.adobe.com/docs/target-learn/tutorials/integrations/set-up-a4t-reports-in-analysis-workspace-for-auto-target-activities.html" class="spectrum-Button spectrum-Button--primary spectrum-Button--sizeM" target="_blank">
+<a href="https://experienceleague.adobe.com/docs/target-learn/tutorials/integrations/set-up-a4t-reports-in-analysis-workspace-for-auto-target-activities.html?lang=zh-Hans" class="spectrum-Button spectrum-Button--primary spectrum-Button--sizeM" target="_blank">
   <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">为自动[!DNL Target]活动设置A4T报表</span>
 </a>

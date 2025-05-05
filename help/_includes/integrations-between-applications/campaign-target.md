@@ -31,7 +31,7 @@ ht-degree: 2%
     </thead>
     <tbody>
         <tr>
-            <td><a href="https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/integrating/target-integration.html" target="_blank" rel="noreferrer">[!DNL Campaign] v7/v8带 [!DNL Target]</a></td>
+            <td><a href="https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/integrating/target-integration.html?lang=zh-Hans" target="_blank" rel="noreferrer">[!DNL Campaign] v7/v8带 [!DNL Target]</a></td>
             <td>
                 <ul style="margin-top: 0;">
                     <li>当您想要个性化电子邮件内容时。</li>

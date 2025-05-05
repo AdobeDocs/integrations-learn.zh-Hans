@@ -31,7 +31,7 @@ ht-degree: 2%
     </thead>
     <tbody>
         <tr>
-            <td><a href="https://experienceleague.adobe.com/docs/experience-manager-learn/forms/aem-forms-with-marketo/part1.html" target="_blank" rel="noreferrer">Experience Manager Forms和Marketo Engage</a></td>
+            <td><a href="https://experienceleague.adobe.com/docs/experience-manager-learn/forms/aem-forms-with-marketo/part1.html?lang=zh-Hans" target="_blank" rel="noreferrer">Experience Manager Forms和Marketo Engage</a></td>
             <td>
                 <ul style="margin-top: 0;">
                     <li>适用于要根据用户的数字表单提交生成潜在客户的情况。</li>
