@@ -39,8 +39,10 @@ ht-degree: 0%
 
 1. 使用Adobe[!DNL Commerce]后台中的凭据配置该模块。
    * 首先是[!DNL Commerce]服务连接器配置，如下所示。
+
      ![[!DNL Commerce]服务连接器安装程序](./assets/analytics-commerce/commerce-services-connector-setup.png)
    * 然后是Experience [!DNL Platform]连接器设置，如下所示。
+
      ![体验[!DNL Platform]连接器](./assets/analytics-commerce/experience-platform-connector.png)
 
 有关载入流程的每个阶段和步骤的更多详细信息，请按照[Experience [!DNL Platform] 连接器概述](https://experienceleague.adobe.com/docs/commerce-merchant-services/experience-platform-connector/overview.html){target="_blank"}中的说明操作。 Experience [!DNL Platform]连接器教程深入涵盖了每个部分，并回答您可能遇到的任何问题。 使用本教程了解其余快速设置步骤。
@@ -61,7 +63,7 @@ ht-degree: 0%
       * 然后单击右上方的&#x200B;**添加字段组**&#x200B;以保存并继续
 
 1. （可选，并且仅当处于Experience [!DNL Platform]界面中时） — 创建新数据集
-   * 此步骤允许您将[!DNL Commerce]数据引入Experience [!DNL Platform](与将数据引入Adobe[!DNL Analytics]分开)。 如果您有权访问Experience [!DNL Platform]，并计划在支持Experience [!DNL Platform]的应用程序中使用[!DNL Commerce]数据，如实时客户数据[!DNL Platform]、客户历程[!DNL Analytics]或Journey Optimizer，请执行此步骤。
+   * 此步骤允许您将[!DNL Commerce]数据引入Experience [!DNL Platform] (与将数据引入Adobe[!DNL Analytics]分开)。 如果您有权访问Experience [!DNL Platform]，并计划在支持Experience [!DNL Platform]的应用程序中使用[!DNL Commerce]数据，如实时客户数据[!DNL Platform]、客户历程[!DNL Analytics]或Journey Optimizer，请执行此步骤。
    * 您将需要从下面数据流步骤中的选项中选择此数据集。
    * 在左侧导航的左列&#x200B;**数据管理**&#x200B;标题下，选择&#x200B;**数据集**。
    * 单击右上方的&#x200B;**创建数据集**。 选择&#x200B;**从架构创建数据集**&#x200B;选项。
