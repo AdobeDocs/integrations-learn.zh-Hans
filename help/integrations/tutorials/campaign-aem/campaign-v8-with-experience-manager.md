@@ -26,22 +26,22 @@ ht-degree: 0%
 
 以下视频介绍您学到的内容。
 
->[!VIDEO](https://video.tv.adobe.com/v/340319?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/344271?quality=12&learn=on&captions=chi_hans)
 
 ## 为Experience Manager集成配置[!DNL Campaign]
 
 了解如何设置Experience Manager与[!DNL Campaign]之间的集成，包括要查找的重要设置以及要避免的潜在“陷阱”。
 
->[!VIDEO](https://video.tv.adobe.com/v/340121?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3445906?quality=12&learn=on&captions=chi_hans)
 
 ## 批准Experience Manager页并将其发布到[!DNL Campaign]
 
 了解如何在Experience Manager中创建新闻稿，以及如何批准新闻稿并将其发布到[!DNL Campaign]。
 
->[!VIDEO](https://video.tv.adobe.com/v/340678?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3447581?quality=12&learn=on&captions=chi_hans)
 
 ## 在[!DNL Campaign]中同步并发送Experience Manager电子邮件投放
 
 了解如何在[!DNL Campaign]中测试和发送在Experience Manager中创建的新闻稿。
 
->[!VIDEO](https://video.tv.adobe.com/v/340151?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3444758?quality=12&learn=on&captions=chi_hans)

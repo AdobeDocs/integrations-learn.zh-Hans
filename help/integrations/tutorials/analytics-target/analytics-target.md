@@ -48,7 +48,7 @@ ht-degree: 1%
 * A4T如何工作？
 * 使用A4T的先决条件是什么？
 
->[!VIDEO](https://video.tv.adobe.com/v/17384/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3421723/?quality=12&learn=on&captions=chi_hans)
 
 
 ## 常见使用案例
@@ -59,13 +59,13 @@ ht-degree: 1%
 
 通过[!DNL Target] (A4T)面板的[!DNL Analytics]，您可以满怀信心地在Analysis Workspace中分析Adobe[!DNL Target]的活动和体验。
 
->[!VIDEO](https://video.tv.adobe.com/v/37247/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/326712/?quality=12&learn=on&captions=chi_hans)
 
 ### 使用A4T面板分析Auto-[!DNL Target]活动
 
 在本视频中，您将了解如何使用[!DNL Target]的[!DNL Analytics]面板可视化自动 — [!DNL Target]测试的结果。
 
->[!VIDEO](https://video.tv.adobe.com/v/333270/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3412966/?quality=12&learn=on&captions=chi_hans)
 
 我们还提供了两个分步教程，向您展示在Analysis Workspace中为“自动分配”和“自动定位”活动设置A4T报表的详细信息：
 

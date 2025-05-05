@@ -26,10 +26,10 @@ ht-degree: 1%
 
 了解如何使用Amazon S3连接类型将Adobe体验[!DNL Platform]区段激活到目标。
 
->[!VIDEO](https://video.tv.adobe.com/v/336902?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3453131?quality=12&learn=on&captions=chi_hans)
 
 ## 从Experience [!DNL Platform]导入收件人数据并发送电子邮件
 
 了解如何在Adobe[!DNL Campaign]中配置外部帐户，以将收件人数据从AdobeExperience [!DNL Platform]导入[!DNL Campaign]。 了解如何创建工作流以上传和定位从体验[!DNL Platform]接收的收件人。
 
->[!VIDEO](https://video.tv.adobe.com/v/336641?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3453487?quality=12&learn=on&captions=chi_hans)

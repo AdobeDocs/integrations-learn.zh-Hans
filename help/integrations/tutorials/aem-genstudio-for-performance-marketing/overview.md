@@ -24,7 +24,7 @@ ht-degree: 0%
 
 # 使用AEM Assets和GenStudio for Performance Marketing的Adobe GenStudio
 
->[!VIDEO](https://video.tv.adobe.com/v/3439263/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3439276/?learn=on&captions=chi_hans)
 
 充分发挥Adobe GenStudio和AEM Assets as a Cloud Service的强大功能，转变您的性能营销工作流程。 通过无缝集成，可从集中式存储库中访问品牌批准的资产，从而为每个活动和渠道创建一致、高质量的内容。 了解这些工具如何简化您的内容供应链并提高您的营销影响。
 
@@ -82,7 +82,7 @@ AEM Assets与GenStudio for Performance Marketing之间的集成要求对以下�
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/zh-hans/docs/integrations-learn/experience-cloud/tutorials/genstudio-for-performance-marketing-experience-manager/integration-walkthrough" title="GenStudio for Performance Marketing和AEM Assets快速入门" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3439264/?format=jpeg&nocache=1739560516243" alt="GenStudio for Performance Marketing和AEM Assets快速入门"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3439287/?format=jpeg&nocache=1739560516243&captions=chi_hans" alt="GenStudio for Performance Marketing和AEM Assets快速入门"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -120,7 +120,7 @@ AEM Assets与GenStudio for Performance Marketing之间的集成要求对以下�
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/zh-hans/docs/integrations-learn/experience-cloud/tutorials/genstudio-for-performance-marketing-experience-manager/use-cases/use-case-1" title="Adobe GenStudio中的轻量级审核和批准" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3439265/?format=jpeg&nocache=1739560516635" alt="Adobe GenStudio中的轻量级审核和批准"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3439298/?format=jpeg&nocache=1739560516635&captions=chi_hans" alt="Adobe GenStudio中的轻量级审核和批准"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -143,7 +143,7 @@ AEM Assets与GenStudio for Performance Marketing之间的集成要求对以下�
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/zh-hans/docs/integrations-learn/experience-cloud/tutorials/genstudio-for-performance-marketing-experience-manager/use-cases/use-case-2" title="使用Adobe GenStudio创建变体" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3439266/?format=jpeg&nocache=1739560516573" alt="使用Adobe GenStudio创建变体"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3439309/?format=jpeg&nocache=1739560516573&captions=chi_hans" alt="使用Adobe GenStudio创建变体"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>

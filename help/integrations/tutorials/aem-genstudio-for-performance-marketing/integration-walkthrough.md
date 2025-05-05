@@ -28,4 +28,4 @@ ht-degree: 0%
 
 了解有关使用AEM Assets as a Cloud Service和GenStudio for Performance Marketing集成、将资源上传到AEM Assets、在AEM Assets中审批资源以及在GenStudio for Performance Marketing中使用已批准资源的基础知识。
 
->[!VIDEO](https://video.tv.adobe.com/v/3439264/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3439287/?learn=on&enablevpops&captions=chi_hans)

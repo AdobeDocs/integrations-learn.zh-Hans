@@ -28,4 +28,4 @@ ht-degree: 0%
 
 了解AEM Assets as a Cloud Service和Adobe Express如何与GenStudio for Performance Marketing配合使用，快速创建量身定制的资源变体，以实现一致的营销活动。 轻松生成并调整电子邮件促销和元广告的可视化图表，确保一致性，同时针对同一营销体验定位不同的受众。
 
->[!VIDEO](https://video.tv.adobe.com/v/3439266/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3439309/?learn=on&enablevpops&captions=chi_hans)

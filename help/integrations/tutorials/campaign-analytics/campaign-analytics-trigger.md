@@ -32,22 +32,22 @@ ht-degree: 44%
 >
 > Launch现在是Adobe体验[!DNL Platform]的标记功能。 可在&#x200B;**Adobe体验[!DNL Platform]数据集合**&#x200B;下找到它。
 
->[!VIDEO](https://video.tv.adobe.com/v/332908?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3454026?quality=12&learn=on&captions=chi_hans)
 
 ## 在 Experience Cloud 中创建触发器
 
 了解如何在 Experience Cloud 中配置触发器。
 
->[!VIDEO](https://video.tv.adobe.com/v/332624?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3446148?quality=12&learn=on&captions=chi_hans)
 
 ## 在[!DNL Campaign] Standard中创建触发器
 
 了解如何在[!DNL Campaign] Standard中创建触发器事件。
 
->[!VIDEO](https://video.tv.adobe.com/v/332625?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3446419?quality=12&learn=on&captions=chi_hans)
 
 ## 使用实时事件数据配置事务性消息
 
 了解如何使用触发器产生的实时事件数据配置事务性消息。
 
->[!VIDEO](https://video.tv.adobe.com/v/332602?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3450212?quality=12&learn=on&captions=chi_hans)
