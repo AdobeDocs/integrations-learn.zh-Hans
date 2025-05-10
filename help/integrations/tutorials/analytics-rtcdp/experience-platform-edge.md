@@ -41,7 +41,7 @@ ht-degree: 2%
                 </ul></li>
             <li>Edge Network服务器API：</li>
                 <ul>
-                    <li><a href="https://experienceleague.adobe.com/docs/experience-platform/edge-network-server-api/interacting-other-adobe-solutions/interacting-adobe-analytics.html" _target="_blank" rel="noopener noreferrer">教程</a></li>
+                    <li><a href="https://experienceleague.adobe.com/docs/experience-platform/edge-network-server-api/interacting-other-adobe-solutions/interacting-adobe-analytics.html?lang=zh-Hans" _target="_blank" rel="noopener noreferrer">教程</a></li>
                 </ul>
        </ul>
     <li><a href="https://experienceleague.adobe.com/docs/platform-learn/tutorials/segments/create-segments.html?lang=zh-Hans" _target="_blank" rel="noopener noreferrer">在体验[!DNL Platform]中创建区段。</a>系统自动确定评估该区段是批处理（数据连接器）还是流式传输(Edge网络)。</li>
