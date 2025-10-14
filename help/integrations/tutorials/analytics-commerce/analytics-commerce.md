@@ -92,4 +92,4 @@ ht-degree: 0%
    * [在Analysis Workspace中使用表、可视化和面板](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/using-panels/using-tables-visualizations-and-panels.html?lang=zh-Hans)
    * [可视化使用案例](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/visualizations/visualization-use-cases.html?lang=zh-Hans)
 
-   此外，还提供免费的Experience League课程。 查看[此处](https://experienceleague.adobe.com/zh-hans?lang=en&amp;Solution=Analytics#courses)提供的[!DNL Analytics]课程。
+   此外，还提供免费的Experience League课程。 查看[此处](https://experienceleague.adobe.com/zh-hans?lang=en&Solution=Analytics#courses)提供的[!DNL Analytics]课程。
