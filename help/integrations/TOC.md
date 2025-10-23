@@ -3,10 +3,10 @@ user-guide-title: Experience Cloud 集成教程
 breadcrumb-title: Experience Cloud 集成
 user-guide-description: 集成学习。
 mini-toc-levels: 1
-source-git-commit: 2e76baa106c833668b7d966e4cfdbfaef8aabbd2
+source-git-commit: 132c892723d29d415d07093ef8514ff8c9b7b1db
 workflow-type: tm+mt
-source-wordcount: '120'
-ht-degree: 20%
+source-wordcount: '142'
+ht-degree: 26%
 
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 20%
    + [B2B营销](./solution-categories/b2b.md)
    + [Commerce](./solution-categories/commerce.md)
    + [内容管理](./solution-categories/content-management.md)
-   + [内容供应链](./solution-categories/content-supply-chain.md)
+   + [内容supply chain](./solution-categories/content-supply-chain.md)
    + [客户历程](./solution-categories/customer-journeys.md)
    + [数据洞察和激活](./solution-categories/data-insights.md)
    + [大规模Personalization](./solution-categories/personalization.md)
@@ -56,7 +56,7 @@ ht-degree: 20%
       + [[!DNL Analytics]](./integrations-between-applications/experience-manager/experience-manager-analytics.md)
       + [[!DNL Campaign]](./integrations-between-applications/experience-manager/experience-manager-campaign.md)
       + [[!DNL Commerce]](./integrations-between-applications/experience-manager/experience-manager-commerce.md)
-      + [GenStudio 性能营销](./integrations-between-applications/experience-manager/experience-manager-genstudio-for-performance-marketing.md)
+      + [GenStudio for Performance Marketing](./integrations-between-applications/experience-manager/experience-manager-genstudio-for-performance-marketing.md)
       + [[!DNL Journey Optimizer]](./integrations-between-applications/experience-manager/experience-manager-journey-optimizer.md)
       + [[!DNL Marketo Engage]](./integrations-between-applications/experience-manager/experience-manager-marketo.md)
       + [[!DNL Target]](./integrations-between-applications/experience-manager/experience-manager-target.md)
@@ -94,7 +94,7 @@ ht-degree: 20%
       + [[!DNL Analytics]和 [!DNL Target]](./tutorials/analytics-target/analytics-target.md)
    + [!DNL Campaign] 和 [!DNL Analytics]{#campaign-analytics}
       + [使用触发器教程将 [!DNL Campaign] Standard与 [!DNL Analytics] 集成](./tutorials/campaign-analytics/campaign-analytics-trigger.md)
-   + [!DNL Campaign]和Experience Manager{#campaign-experience-manager}
+   + [!DNL Campaign]和Experience Manager {#campaign-experience-manager}
       + [[!DNL Campaign] v8和Experience Manager](./tutorials/campaign-aem/campaign-v8-with-experience-manager.md)
    + [!DNL Campaign]和Real-Time CDP{#campaign-real-time-cdp}
       + [[!DNL Campaign] v8和Real-Time CDP](./tutorials/campaign-rtcdp/campaign-v8-real-time-cdp.md)
@@ -102,10 +102,17 @@ ht-degree: 20%
       + [Real-Time CDP和 [!DNL Target]](./tutorials/rtcdp-target/web-sdk-and-target-destination.md)
       + [Real-Time CDP和 [!DNL Target]](./tutorials/rtcdp-target/mobile-sdk-and-target-destination.md)
       + [Real-Time CDP和 [!DNL Target]](./tutorials/rtcdp-target/atjs-and-target-destination.md)
-   + GenStudio for Performance Marketing和Experience Manager{#genstudio-for-performance-marketing-experience-manager}
+   + GenStudio for Performance Marketing和Experience Manager {#genstudio-for-performance-marketing-experience-manager}
       + [概述](./tutorials/aem-genstudio-for-performance-marketing/overview.md)
       + [设置](./tutorials/aem-genstudio-for-performance-marketing/setup.md)
       + [集成演练](./tutorials/aem-genstudio-for-performance-marketing/integration-walkthrough.md)
       + 用例{#use-cases}
          + [Adobe GenStudio中的审阅和批准](./tutorials/aem-genstudio-for-performance-marketing/use-case-1.md)
          + [使用Adobe GenStudio创建变体](./tutorials/aem-genstudio-for-performance-marketing/use-case-2.md)
+   + Experience Manager和Target{#experience-manager-target}
+      + [概述](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/personalization/overview)
+      + [设置](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/personalization/setup/integrate-adobe-target)
+      + 用例{#use-cases}
+         + [试验（A/B测试）](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/personalization/use-cases/experimentation)
+         + [行为定向](https://experienceleague.adobe.com/zh-hans/docs/experience-manager-learn/cloud-service/personalization/use-cases/behavioral-targeting)
+         + [已知用户Personalization](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/personalization/use-cases/known-user-personalization)

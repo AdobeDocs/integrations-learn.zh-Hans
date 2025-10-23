@@ -2,9 +2,9 @@
 title: 大规模个性化的应用程序集成
 description: 让个性化的体验成为每个时刻的一部分。
 exl-id: 6d18813d-950c-40ae-8d5b-80bf389358fc
-source-git-commit: 509b227f360718e81fb19d3a4d30aebf9de49e5a
+source-git-commit: 132c892723d29d415d07093ef8514ff8c9b7b1db
 workflow-type: tm+mt
-source-wordcount: '516'
+source-wordcount: '533'
 ht-degree: 1%
 
 ---
@@ -24,7 +24,7 @@ ht-degree: 1%
   </thead>
   <tbody>
     <tr>
-      <td><strong>创建个性化PDF文档</strong></td>
+      <td><strong>创建个性化的PDF文档</strong></td>
       <td>
         根据用户生成要签名的通信文档
         选择/首选项。
@@ -32,7 +32,7 @@ ht-degree: 1%
       <td>
         <ul style="margin-top: 0;">
           <li>
-            基于来自AEM的数据呈现动态生成的NDA
+            基于来自AEM的数据提供动态生成的NDA
             提交Forms以进行签名
           </li>
         </ul>
@@ -76,8 +76,8 @@ ht-degree: 1%
     <tr>
       <td>
         个性化活动的报表<br />分析优化
-        利用Adobe[!DNL Target]和测试结果，包括A/B测试
-        通过Adobe[!DNL Analytics]生成综合报告。
+        利用Adobe [!DNL Target]和测试结果（包括A/B测试）
+        通过Adobe [!DNL Analytics]生成综合报告。
       </td>
       <td>
         <ul style="margin-top: 0;">
@@ -97,7 +97,7 @@ ht-degree: 1%
       <td><strong>个性化电子邮件投放</strong></td>
       <td>
         利用动态内容个性化电子邮件投放
-        Adobe[!DNL Target]的功能。
+        Adobe [!DNL Target]的功能。
       </td>
       <td>
         <ul style="margin-top: 0;">
@@ -178,7 +178,7 @@ ht-degree: 1%
       <td rowspan="2"><strong>个性化Web体验</strong></td>
       <td>
         通过有效地自定义单页应用程序(SPA)体验
-        将AEM Headless与Adobe[!DNL Target]结合使用。
+        将AEM Headless与Adobe [!DNL Target]结合使用。
       </td>
       <td>
         <ul style="margin-top: 0;">
@@ -200,14 +200,14 @@ ht-degree: 1%
     <tr>
       <td>
         通过有效利用AEM Sites提供量身定制的网站体验
-        和Adobe[!DNL Target]进行个性化。
+        和Adobe [!DNL Target]进行个性化。
       </td>
       <td>
         <ul style="margin-top: 0;">
           <li>AEM网站个性化。</li>
-          <li>个性化网站内容。</li>
-          <li>优化用户体验。</li>
           <li>A/B测试变体。</li>
+          <li>基于用户行为的行为定位。</li>
+          <li>通过拼接来自多个系统的用户数据，提供360度客户视图，实现已知用户个性化。</li>
         </ul>
       </td>
       <td>
