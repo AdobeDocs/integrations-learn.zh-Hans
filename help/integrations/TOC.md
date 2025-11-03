@@ -110,10 +110,10 @@ ht-degree: 25%
          + [Adobe GenStudio中的审阅和批准](./tutorials/aem-genstudio-for-performance-marketing/use-case-1.md)
          + [使用Adobe GenStudio创建变体](./tutorials/aem-genstudio-for-performance-marketing/use-case-2.md)
    + Experience Manager和Target{#experience-manager-target}
-      + [概述](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/personalization/overview)
-      + [实时演示](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/personalization/live-demo)
-      + [设置](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/personalization/setup/integrate-adobe-target)
+      + [概述](https://experienceleague.adobe.com/zh-hans/docs/experience-manager-learn/cloud-service/personalization/overview)
+      + [实时演示](https://experienceleague.adobe.com/zh-hans/docs/experience-manager-learn/cloud-service/personalization/live-demo)
+      + [设置](https://experienceleague.adobe.com/zh-hans/docs/experience-manager-learn/cloud-service/personalization/setup/integrate-adobe-target)
       + 用例{#use-cases}
-         + [试验（A/B测试）](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/personalization/use-cases/experimentation)
+         + [试验（A/B测试）](https://experienceleague.adobe.com/zh-hans/docs/experience-manager-learn/cloud-service/personalization/use-cases/experimentation)
          + [行为定向](https://experienceleague.adobe.com/zh-hans/docs/experience-manager-learn/cloud-service/personalization/use-cases/behavioral-targeting)
-         + [已知用户Personalization](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/personalization/use-cases/known-user-personalization)
+         + [已知用户Personalization](https://experienceleague.adobe.com/zh-hans/docs/experience-manager-learn/cloud-service/personalization/use-cases/known-user-personalization)
