@@ -2,9 +2,9 @@
 title: 大规模个性化的应用程序集成
 description: 让个性化的体验成为每个时刻的一部分。
 exl-id: 6d18813d-950c-40ae-8d5b-80bf389358fc
-source-git-commit: 132c892723d29d415d07093ef8514ff8c9b7b1db
+source-git-commit: fc60646e49dcd32f833669e05e82397386eb68d9
 workflow-type: tm+mt
-source-wordcount: '533'
+source-wordcount: '610'
 ht-degree: 1%
 
 ---
@@ -175,7 +175,7 @@ ht-degree: 1%
       </td>
     </tr>
     <tr>
-      <td rowspan="2"><strong>个性化Web体验</strong></td>
+      <td rowspan="3"><strong>个性化Web体验</strong></td>
       <td>
         通过有效地自定义单页应用程序(SPA)体验
         将AEM Headless与Adobe [!DNL Target]结合使用。
@@ -219,6 +219,29 @@ ht-degree: 1%
         >
       </td>
     </tr>
+    <tr>
+      <td>
+        AEM与Adobe [!DNL Target]集成的实际提示
+      </td>
+      <td>
+        <ul style="margin-top: 0;">
+          <li>将体验片段用于可缩放的Personalization</li>
+          <li>将ContextHub区段镜像到目标受众</li>
+          <li>使体验片段目标就绪</li>
+          <li>将Target验证构建到Launch工作流中</li>
+          <li>将Dynamic Media与Target结合使用，以便用于Visual Personalization</li>
+          <li>Edge Delivery作者</li>
+        </ul>
+      </td>
+      <td>
+        <a
+          href="https://experienceleague.adobe.com/en/perspectives/personalization-that-scales-practical-tips-for-aem-adobe-target-integration"
+          target="_blank"
+          rel="noopener noreferrer"
+          >AEM Sites和[!DNL Target]</a
+        >
+      </td>
+    </tr>    
     <tr>
       <td><strong>个性化数字体验</strong></td>
       <td>
