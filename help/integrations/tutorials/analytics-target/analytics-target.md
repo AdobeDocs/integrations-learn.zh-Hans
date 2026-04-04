@@ -7,13 +7,12 @@ topic: Integrations
 role: Leader, Admin, Developer
 level: Beginner
 index: true
-hidefromtoc: true
 kt: null
 thumbnail: null
 last-substantial-update: 2023-04-11T00:00:00Z
 badgeIntegration: label="集成" type="positive"
 exl-id: 4ab6c61f-f14e-408a-a700-53f7b3d0600a
-source-git-commit: 7fffc0b887164645ab16fe94d2f82a657fcc9d64
+source-git-commit: ae78e4a9f706ce315a87715302f561ccedc858e9
 workflow-type: tm+mt
 source-wordcount: '437'
 ht-degree: 9%
@@ -29,7 +28,7 @@ ht-degree: 9%
 
 >[!NOTE]
 >
->这些视频演示了[!DNL Target] at.js和[!DNL Analytics] appMeasurement.js的实施和验证。 有关这两个工具中所需的库版本，请参阅[文档](https://experienceleague.adobe.com/docs/target/using/integrate/a4t/a4timplementation.html?lang=zh-Hans)。
+>这些视频演示了[!DNL Target] at.js和[!DNL Analytics] appMeasurement.js的实施和验证。 有关这两个工具中所需的库版本，请参阅[文档](https://experienceleague.adobe.com/docs/target/using/integrate/a4t/a4timplementation.html)。
 
 ### 正在设置A4T （[!DNL Target]的[!DNL Analytics]）
 
@@ -48,7 +47,7 @@ ht-degree: 9%
 * A4T如何工作？
 * 使用A4T的先决条件是什么？
 
->[!VIDEO](https://video.tv.adobe.com/v/3421723/?captions=chi_hans&quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/17384/?quality=12&learn=on)
 
 
 ## 常见使用案例
@@ -59,13 +58,13 @@ ht-degree: 9%
 
 借助[!DNL Target] (A4T)面板的[!DNL Analytics]，您可以满怀信心地在Analysis Workspace中分析Adobe [!DNL Target]活动和体验。
 
->[!VIDEO](https://video.tv.adobe.com/v/326712/?captions=chi_hans&quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/37247/?quality=12&learn=on)
 
 ### 使用A4T面板分析Auto-[!DNL Target]活动
 
 在本视频中，您将了解如何使用[!DNL Target]的[!DNL Analytics]面板可视化自动 — [!DNL Target]测试的结果。
 
->[!VIDEO](https://video.tv.adobe.com/v/3412966/?captions=chi_hans&quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/333270/?quality=12&learn=on)
 
 我们还提供了两个分步教程，向您展示在Analysis Workspace中为“自动分配”和“自动定位”活动设置A4T报表的详细信息：
 

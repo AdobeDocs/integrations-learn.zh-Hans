@@ -12,10 +12,9 @@ duration: 295
 last-substantial-update: 2024-11-20T00:00:00Z
 jira: KT-16483
 index: true
-hidefromtoc: false
 badgeIntegration: label="AEM Asset和GenStudio for Performance Marketing" type="positive"
 exl-id: 635c1a73-4abe-4e22-8755-f3fbc8f0b46e
-source-git-commit: 7fffc0b887164645ab16fe94d2f82a657fcc9d64
+source-git-commit: ae78e4a9f706ce315a87715302f561ccedc858e9
 workflow-type: tm+mt
 source-wordcount: '92'
 ht-degree: 0%
@@ -28,4 +27,4 @@ ht-degree: 0%
 
 了解如何在AEM Assets as a Cloud Service中上传、审阅和批准资源以简化内容工作流程。 这些资产在获得批准后，可无缝集成到GenStudio for Performance Marketing中，从而确保您的营销活动可轻松访问品牌批准的资料。
 
->[!VIDEO](https://video.tv.adobe.com/v/3439298/?captions=chi_hans&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3439265/?learn=on&enablevpops)

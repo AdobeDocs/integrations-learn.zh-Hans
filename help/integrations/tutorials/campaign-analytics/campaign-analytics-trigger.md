@@ -7,13 +7,12 @@ topic: Integrations
 role: Admin
 level: Experienced
 index: true
-hidefromtoc: true
 kt: null
 thumbnail: null
 last-substantial-update: 2023-07-26T00:00:00Z
 badgeIntegration: label="集成" type="positive"
 exl-id: dbbaeeff-2c31-45c2-85af-ad1b80ba6c9c
-source-git-commit: 7fffc0b887164645ab16fe94d2f82a657fcc9d64
+source-git-commit: ae78e4a9f706ce315a87715302f561ccedc858e9
 workflow-type: tm+mt
 source-wordcount: '126'
 ht-degree: 46%
@@ -32,22 +31,22 @@ ht-degree: 46%
 >
 > Launch现在是Adobe Experience [!DNL Platform]的标记功能。 可在&#x200B;**Adobe Experience [!DNL Platform]数据集合**&#x200B;下找到它。
 
->[!VIDEO](https://video.tv.adobe.com/v/3454026?captions=chi_hans&quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/332908?quality=12&learn=on)
 
 ## 在 Experience Cloud 中创建触发器
 
 了解如何在 Experience Cloud 中配置触发器。
 
->[!VIDEO](https://video.tv.adobe.com/v/3446148?captions=chi_hans&quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/332624?quality=12&learn=on)
 
 ## 在[!DNL Campaign] Standard中创建触发器
 
 了解如何在[!DNL Campaign] Standard中创建触发器事件。
 
->[!VIDEO](https://video.tv.adobe.com/v/3446419?captions=chi_hans&quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/332625?quality=12&learn=on)
 
 ## 使用实时事件数据配置事务性消息
 
 了解如何使用触发器产生的实时事件数据配置事务性消息。
 
->[!VIDEO](https://video.tv.adobe.com/v/3450212?captions=chi_hans&quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/332602?quality=12&learn=on)

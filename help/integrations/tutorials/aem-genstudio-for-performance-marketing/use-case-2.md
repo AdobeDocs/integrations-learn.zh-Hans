@@ -12,10 +12,9 @@ duration: 416
 last-substantial-update: 2024-11-20T00:00:00Z
 jira: KT-16484
 index: true
-hidefromtoc: false
 badgeIntegration: label="AEM Asset和GenStudio for Performance Marketing" type="positive"
 exl-id: 338762f2-179a-47ab-8ca8-d22921a0354d
-source-git-commit: 7fffc0b887164645ab16fe94d2f82a657fcc9d64
+source-git-commit: ae78e4a9f706ce315a87715302f561ccedc858e9
 workflow-type: tm+mt
 source-wordcount: '100'
 ht-degree: 0%
@@ -28,4 +27,4 @@ ht-degree: 0%
 
 了解AEM Assets as a Cloud Service和Adobe Express如何与GenStudio for Performance Marketing配合使用，快速创建量身定制的资源变体，以实现一致的营销活动。 轻松生成并调整电子邮件促销活动和Meta广告的可视化图表，确保一致性，同时针对同一营销体验定位不同的受众。
 
->[!VIDEO](https://video.tv.adobe.com/v/3439309/?captions=chi_hans&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3439266/?learn=on&enablevpops)

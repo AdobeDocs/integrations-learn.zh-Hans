@@ -12,10 +12,9 @@ duration: 296
 last-substantial-update: 2024-11-19T00:00:00Z
 jira: KT-16482
 index: true
-hidefromtoc: false
 badgeIntegration: label="AEM Asset和GenStudio for Performance Marketing" type="positive"
 exl-id: 42185429-16ee-42df-bce4-d6d97f13b166
-source-git-commit: 7fffc0b887164645ab16fe94d2f82a657fcc9d64
+source-git-commit: ae78e4a9f706ce315a87715302f561ccedc858e9
 workflow-type: tm+mt
 source-wordcount: '98'
 ht-degree: 0%
@@ -28,4 +27,4 @@ ht-degree: 0%
 
 了解有关使用AEM Assets as a Cloud Service和GenStudio for Performance Marketing集成、将资源上传到AEM Assets、在AEM Assets中审批资源以及在GenStudio for Performance Marketing中使用已批准资源的基础知识。
 
->[!VIDEO](https://video.tv.adobe.com/v/3439287/?captions=chi_hans&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3439264/?learn=on&enablevpops)
