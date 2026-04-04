@@ -11,13 +11,12 @@ doc-type: Article
 duration: 416
 last-substantial-update: 2024-11-19T00:00:00Z
 index: true
-hidefromtoc: false
 jira: KT-16484
 exl-id: b63cfe6e-a530-4ca4-9e8e-16c54478054f
-source-git-commit: 2d898df7e49f6a14c162973145592f0d3fdd1646
+source-git-commit: ae78e4a9f706ce315a87715302f561ccedc858e9
 workflow-type: tm+mt
 source-wordcount: '372'
-ht-degree: 16%
+ht-degree: 15%
 
 ---
 
