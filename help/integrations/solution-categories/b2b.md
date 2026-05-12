@@ -3,9 +3,13 @@ title: B2B营销的应用程序集成
 description: 根据统一的客户配置文件和数据，跨渠道大规模协调商机管理、ABM和归因。
 exl-id: ed4fb791-7883-4f42-80a0-12ab4e3c80ab
 TQID: https://experienceleague.adobe.com/QzQkgpR9mqA5QUIa4pZiBBXnWYCafxne6bGosQhyeGA
-product_v2: id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
-feature_v2: id: fc7979f3-56c3-43ca-9784-f1ea3dc69c4b
-topic_v2: id: e0eb8757-182f-49f3-94a4-1587d16f5094id: fd2e3797-f2ea-4b36-a9af-52acf5e90513
+product_v2:
+  - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+feature_v2:
+  - id: fc7979f3-56c3-43ca-9784-f1ea3dc69c4b
+topic_v2:
+  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+  - id: fd2e3797-f2ea-4b36-a9af-52acf5e90513
 source-git-commit: 2a324011b3d235db3d4642c2797c4fa107267e6a
 workflow-type: tm+mt
 source-wordcount: 226
