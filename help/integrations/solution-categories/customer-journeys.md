@@ -2,9 +2,20 @@
 title: 客户历程的应用程序集成
 description: 通过从所有来源提取数据以创建个性化的跨渠道历程来开发实时客户档案。
 exl-id: eb653b89-db0f-433a-8641-bbeb32197096
-source-git-commit: 509b227f360718e81fb19d3a4d30aebf9de49e5a
+TQID: https://experienceleague.adobe.com/XkEYtGUFWDMXc-qm4PMeRVNK8hduYOZ7sj2fkyWMCZM
+product_v2:
+  - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+feature_v2:
+  - id: fc7979f3-56c3-43ca-9784-f1ea3dc69c4b
+topic_v2:
+  - id: beb7a3c1-66ab-4786-b879-7621375b3c40
+  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+  - id: fd2e3797-f2ea-4b36-a9af-52acf5e90513
+  - id: ff2b9b37-92e0-45fc-b853-379d44c08c89
+source-git-commit: 2a324011b3d235db3d4642c2797c4fa107267e6a
 workflow-type: tm+mt
-source-wordcount: '286'
+source-wordcount: 298
 ht-degree: 2%
 
 ---
@@ -26,7 +37,7 @@ ht-degree: 2%
   <tbody>
 <tr>
   <td><strong>使用品牌资产创建营销宣传资料</strong><br></td>
-  <td>使用AEM和Adobe[!DNL Campaign]生成并监视电子邮件营销内容和模板。</td>
+  <td>使用AEM和Adobe [!DNL Campaign]生成并监视电子邮件营销内容和模板。</td>
   <td>
     <ul style="margin-top: 0;">
       <li>发送使用AEM创建的营销电子邮件</li>
@@ -83,7 +94,7 @@ ht-degree: 2%
 
 <tr>
   <td><strong>个性化电子邮件投放</strong><br></td>
-  <td>利用Adobe[!DNL Target]的功能，使用动态内容个性化电子邮件投放。</td>
+  <td>利用Adobe [!DNL Target]的功能，使用动态内容个性化电子邮件投放。</td>
   <td>
     <ul style="margin-top: 0;">
       <li>向客户电子邮件添加个性化优惠</li>

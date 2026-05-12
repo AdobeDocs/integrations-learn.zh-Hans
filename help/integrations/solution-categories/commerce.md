@@ -2,9 +2,17 @@
 title: Commerce的应用程序集成
 description: 使用我们灵活的AI支持的商业解决方案，在单个平台上构建多渠道商业体验。
 exl-id: ffd78652-e828-4a2c-97ce-0da777d9db2c
-source-git-commit: 509b227f360718e81fb19d3a4d30aebf9de49e5a
+TQID: https://experienceleague.adobe.com/apKwbItmCVvmkJ-gx580ymdP7M1FGNieIorzOSHo374
+product_v2:
+  - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+feature_v2:
+  - id: fc7979f3-56c3-43ca-9784-f1ea3dc69c4b
+topic_v2:
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+source-git-commit: 2a324011b3d235db3d4642c2797c4fa107267e6a
 workflow-type: tm+mt
-source-wordcount: '165'
+source-wordcount: 174
 ht-degree: 3%
 
 ---
@@ -40,7 +48,7 @@ ht-degree: 3%
           <li>实施复杂的多存储配置。</li>
           <li>跨站点无缝进行内容管理。</li>
           <li>高效的全球内容协调。</li>
-          <li>Adobe[!DNL Commerce]的多环境支持。</li>
+          <li>Adobe [!DNL Commerce]的多环境支持。</li>
           <li>简化了商务内容的创建。</li>
           <li>一致而高效的店面管理。</li>
       </ul>
@@ -49,8 +57,8 @@ ht-degree: 3%
  </tr> 
  <tr>
    <td><strong>数据分析和报告<strong></td>
-   <td>评估Commerce商店转化漏斗、订单、收入以及访问和访客量度。</td>
-   <td><ul style="margin-top: 0;"><li>商业活动的数据洞察和报表。</li><li>使用您选择的关键指标和维度，全面了解Adobe[!DNL Commerce]存储性能。</li></ul></td>
+   <td>评估Commerce商店转化funnel、订单、收入以及访问和访客量度。</td>
+   <td><ul style="margin-top: 0;"><li>商业活动的数据洞察和报表。</li><li>使用您选择的关键量度和维度，全面了解Adobe [!DNL Commerce]存储性能。</li></ul></td>
    <td><a href="/help/integrations/integrations-between-applications/commerce/commerce-analytics.md">[!DNL Commerce] 和 [!DNL Analytics]</a></td>
  </tr>
  </tbody>

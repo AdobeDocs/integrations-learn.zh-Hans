@@ -1,19 +1,28 @@
 ---
-title: 内容供应链的应用程序集成
+title: 内容supply chain的应用程序集成
 description: 规划、创建、个性化和发布内容。
 exl-id: 00a15be9-612e-4210-8b2a-77274aa5713c
-source-git-commit: 03f958e6a2754b23a4a7d21ee87107a777f10406
+TQID: https://experienceleague.adobe.com/1OyoS3OaD8POo-SLGbdX2fApV4MokuigC3sM9xv2ea0
+product_v2:
+  - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+feature_v2:
+  - id: fc7979f3-56c3-43ca-9784-f1ea3dc69c4b
+topic_v2:
+  - id: beb7a3c1-66ab-4786-b879-7621375b3c40
+  - id: d00e9f03-e50b-4162-b143-0c0817c937c2
+  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+source-git-commit: 2a324011b3d235db3d4642c2797c4fa107267e6a
 workflow-type: tm+mt
-source-wordcount: '327'
+source-wordcount: 332
 ht-degree: 1%
 
 ---
 
-# 内容供应链
+# 内容supply chain
 
 针对每位客户规划、创建、个性化和发布令人难忘的内容 — 以目前的速度进行。
 
-满足客户对个性化体验的实时期望需要比以往更多的数字内容。 利用Adobe的创意工作流程和资产管理解决方案，您的团队可以大规模规划、创建和提供个性化内容，支持客户在每个接触点的历程。
+满足客户对个性化体验的实时期望需要比以往更多的数字内容。 借助Adobe的创意工作流程和资产管理解决方案，您的团队可以大规模规划、创建和提供个性化内容，支持客户在每个接触点的历程。
 
 <table>
  <thead>
@@ -27,7 +36,7 @@ ht-degree: 1%
   <tbody>
 <tr>
   <td rowspan="2"><strong>使用品牌资产创建营销宣传资料</strong><br/></td>
-  <td>使用AEM和Adobe[!DNL Campaign]生成并监视电子邮件营销内容和模板。</td>
+  <td>使用AEM和Adobe [!DNL Campaign]生成并监视电子邮件营销内容和模板。</td>
   <td>
     <ul>
       <li>发送使用AEM创建的营销电子邮件</li>
@@ -40,7 +49,7 @@ ht-degree: 1%
   <td>
     <ul>
       <li>发送在GenStudio for Performance Marketing中创建的营销电子邮件，其中包含AEM Assets中的品牌上图像。</li>
-      <li>使用AEM Assets中的品牌上图像在GenStudio for Performance Marketing中创建品牌上元广告。</li>
+      <li>使用AEM Assets中的品牌上图像在GenStudio for Performance Marketing中创建品牌上Meta广告。</li>
     </ul>    
   </td>
   <td><a href="../integrations-between-applications/experience-manager/experience-manager-genstudio-for-performance-marketing.md">GenStudio for Performance Marketing和AEM</a></td>
