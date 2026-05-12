@@ -66,7 +66,7 @@ ht-degree: 9%
 
 >[!NOTE]
 >
->这些视频演示了[!DNL Target] at.js和[!DNL Analytics] appMeasurement.js的实施和验证。 有关这两个工具中所需的库版本，请参阅[文档](https://experienceleague.adobe.com/docs/target/using/integrate/a4t/a4timplementation.html)。
+>这些视频演示了[!DNL Target] at.js和[!DNL Analytics] appMeasurement.js的实施和验证。 有关这两个工具中所需的库版本，请参阅[文档](https://experienceleague.adobe.com/docs/target/using/integrate/a4t/a4timplementation.html?lang=zh-Hans)。
 
 ### 正在设置A4T （[!DNL Target]的[!DNL Analytics]）
 
