@@ -1,10 +1,13 @@
 ---
 title: 应用程序集成
-description: 了解用于集成Experience Cloud应用程序的常见配置。 了解Adobe提供的同类最佳企业产品如何帮助您应对业务挑战。
+description: 了解集成Experience Cloud应用程序的常见配置。 了解Adobe提供的同类最佳企业产品如何帮助您应对业务挑战。
 exl-id: 3c0a75ec-2b4c-4984-bd42-0b5ddeb7c004
-source-git-commit: d35dc06c56c117cffe70542b6713f275877e4879
+TQID: https://experienceleague.adobe.com/TQeDwtLluKJYg-j7LUqXGkb6aluY4UqYAfpyzWZ5sKQ
+product_v2: id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+feature_v2: id: fc7979f3-56c3-43ca-9784-f1ea3dc69c4b
+source-git-commit: 2a324011b3d235db3d4642c2797c4fa107267e6a
 workflow-type: tm+mt
-source-wordcount: '161'
+source-wordcount: 164
 ht-degree: 0%
 
 ---
@@ -18,10 +21,10 @@ ht-degree: 0%
 <table>
 <tr>
    <td style="vertical-align: middle; text-align: center;">
-      <a  href="./integrations-between-applications/overview.md"><img alt="按产品" src="https://cdn.experienceleague.adobe.com/thumb/by-product.png?lang=zh-Hans"/></a>
+      <a  href="./integrations-between-applications/overview.md"><img alt="按产品" src="https://cdn.experienceleague.adobe.com/thumb/by-product.png"/></a>
    </td>
    <td>
-      <a  href="./solution-categories/overview.md"><img alt="按业务解决方案" src="https://cdn.experienceleague.adobe.com/thumb/by-solution.png?lang=zh-Hans"/></a>
+      <a  href="./solution-categories/overview.md"><img alt="按业务解决方案" src="https://cdn.experienceleague.adobe.com/thumb/by-solution.png"/></a>
    </td>  
 </tr>
 <tr>
@@ -34,7 +37,7 @@ ht-degree: 0%
    <td>
       <div><strong><a href="./solution-categories/overview.md">按业务解决方案</a></strong></div>
       <p>
-        您知道要寻找的业务解决方案，但不确定要使用哪种Adobe产品。
+        您知道自己正在寻找的业务解决方案，但不确定要使用哪种Adobe产品。
       </p>
    </td>  
 </tr>   

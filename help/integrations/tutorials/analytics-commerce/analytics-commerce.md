@@ -9,12 +9,19 @@ level: Beginner
 index: true
 kt: null
 thumbnail: null
-last-substantial-update: 2023-04-11T00:00:00Z
+last-substantial-update: 2023-04-11T00:00:00.000Z
 badgeIntegration: label="集成" type="positive"
 exl-id: ef50b6b3-1e2b-4fe9-98d5-555bc14ae8d6
-source-git-commit: ae78e4a9f706ce315a87715302f561ccedc858e9
+TQID: https://experienceleague.adobe.com/yG4EZoiPmm3-HnjD6lZCyBDpaeseNuGb5wRhnCWqRuk
+product_v2: id: e55547f1-a1ff-40c6-8978-026e40ab7fa4id: eadea719-cf89-469b-a6fd-a236a7138047
+feature_v2: id: c153fd90-23e1-4614-81d3-3cc7571227f7id: c32adafa-ed01-4b31-997e-2413013911b0id: dac87252-6066-4d6e-a9d2-f6d84c323de7id: eb9732ab-8232-4b21-bc4c-89de86dbe4d7
+subfeature_v2: id: dcae653e-62c6-4cc8-84e6-ee110b848296id: e318d41c-1d01-4c1e-9b18-1f61d435ceeeid: e38cbddc-1633-4cd5-bed5-9f289f2a6029id: e6c28e30-8689-4bf4-8fa8-561343d308a9id: ef60b66e-5984-4336-ba72-6d978b1b6f87id: f236e2a1-90d4-477d-92e1-5996b5e92bff
+role_v2: id: c66ffd68-0f65-42bb-aa23-b4020f12e0bdid: f8a45b24-4be7-4f1b-909b-60d06b483a20id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2: id: d3cdead0-685a-4489-9250-4bb709942f66id: ebde5b41-29c9-4f5e-9ef6-1197e85409e3
+source-git-commit: 2a324011b3d235db3d4642c2797c4fa107267e6a
 workflow-type: tm+mt
-source-wordcount: '932'
+source-wordcount: 932
 ht-degree: 2%
 
 ---
@@ -28,7 +35,7 @@ ht-degree: 2%
 1. 在本地环境中查看代码
 1. 使用编辑器和安装模块
 1. 请按照此处的各个说明进行操作，并在完成后返回以完成剩余步骤
-   [安装和配置Experience [!DNL Platform] 连接器](https://experienceleague.adobe.com/docs/commerce-merchant-services/experience-platform-connector/fundamentals/install.html?lang=zh-Hans){target="_blank"}
+   [安装和配置Experience [!DNL Platform] 连接器](https://experienceleague.adobe.com/docs/commerce-merchant-services/experience-platform-connector/fundamentals/install.html){target="_blank"}
 
 
 1. 提交composer.json，如果在云中，则提交composer.lock文件
@@ -42,17 +49,17 @@ ht-degree: 2%
    * 然后是Experience [!DNL Platform]连接器设置，如下所示。
      ![体验[!DNL Platform]连接器](./assets/analytics-commerce/experience-platform-connector.png)
 
-有关载入流程的每个阶段和步骤的更多详细信息，请按照[Experience [!DNL Platform] 连接器概述](https://experienceleague.adobe.com/docs/commerce-merchant-services/experience-platform-connector/overview.html?lang=zh-Hans){target="_blank"}中的说明操作。 Experience [!DNL Platform]连接器教程深入涵盖了每个部分，并回答您可能遇到的任何问题。 使用本教程了解其余快速设置步骤。
+有关载入流程的每个阶段和步骤的更多详细信息，请按照[Experience [!DNL Platform] 连接器概述](https://experienceleague.adobe.com/docs/commerce-merchant-services/experience-platform-connector/overview.html){target="_blank"}中的说明操作。 Experience [!DNL Platform]连接器教程深入涵盖了每个部分，并回答您可能遇到的任何问题。 使用本教程了解其余快速设置步骤。
 
 ## Experience Edge和Adobe [!DNL Analytics]的配置
 
 1. 验证您的组织是否拥有（并且您拥有）Adobe [!DNL Analytics]的访问权限。 可以通过转到[Adobe Experience Cloud主页](https://experience.adobe.com/)并单击顶部导航中的应用程序切换器（9个点）来确认这一点。
 
-1. 在Adobe [!DNL Analytics]中创建新报表包，或识别您将[!DNL Commerce]数据推送到的报表包的ID。 有关详细信息，请观看有关[创建新报表包](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/analytics-basics/understanding-and-creating-report-suites.html?lang=zh-Hans)的教程。 您在下面的数据流步骤中需要此报表包ID。
+1. 在Adobe [!DNL Analytics]中创建新报表包，或识别您将[!DNL Commerce]数据推送到的报表包的ID。 有关详细信息，请观看有关[创建新报表包](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/analytics-basics/understanding-and-creating-report-suites.html)的教程。 您在下面的数据流步骤中需要此报表包ID。
 
 1. 如果您有权访问Experience [!DNL Platform]，请导航到[Adobe Experience [!DNL Platform] 界面](https://platform.adobe.com)。 如果您无权访问该界面，则可以在Adobe Experience [!DNL Platform] [数据收集界面](https://experience.adobe.com/#/data-collection)中执行下面列出的所有必要步骤。
 
-1. 使用特定于[!DNL Commerce]的字段组创建或更新您的XDM架构。 有关如何创建架构的更多信息，请参阅[“创建架构”](https://experienceleague.adobe.com/docs/platform-learn/tutorials/schemas/create-schemas.html?lang=zh-Hans)教程。
+1. 使用特定于[!DNL Commerce]的字段组创建或更新您的XDM架构。 有关如何创建架构的更多信息，请参阅[“创建架构”](https://experienceleague.adobe.com/docs/platform-learn/tutorials/schemas/create-schemas.html)教程。
    * 您将需要从下面数据流步骤中的选项中选择此架构。 要创建架构，请在&#x200B;**数据管理**&#x200B;下的左列中查找&#x200B;**架构**。 现在，在界面的右上角，单击&#x200B;**创建架构**。 选择XDM ExperienceEvent。
    * 创建新架构后，您将添加[!DNL Commerce]字段组。 在UI的左侧，查找字段组，然后单击&#x200B;**添加**
       * 在搜索中，您可以通过输入`ExperienceEvent Commerce`进行筛选
@@ -71,7 +78,7 @@ ht-degree: 2%
    * 单击界面右上角的&#x200B;**新建数据流**。
    * 提供名称、说明和可选说明。
    * 查找并选择您在上一步中创建/标识的架构。
-   * 添加任何所需的高级选项。 有关高级选项的详细信息，请访问[文档](https://experienceleague.adobe.com/docs/experience-platform/datastreams/configure.html?lang=zh-Hans#)。
+   * 添加任何所需的高级选项。 有关高级选项的详细信息，请访问[文档](https://experienceleague.adobe.com/docs/experience-platform/datastreams/configure.html#)。
    * 单击&#x200B;**保存**&#x200B;以继续。
    * 单击&#x200B;**添加服务**，然后在下拉字段中选择&#x200B;**Adobe[!DNL Analytics]**。
    * 单击&#x200B;**添加报表包**，然后输入您在上一步中创建/识别的报表包ID。 如果希望数据流入多个报表包，您可以添加多个报表包。
@@ -84,9 +91,9 @@ ht-degree: 2%
 
    以下是帮助您在Analysis Workspace中工作的一些其他资源：
 
-   * [Analysis Workspace概述](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/analysis-workspace-basics/analysis-workspace-overview.html?lang=zh-Hans)
-   * [从头开始构建Workspace项目](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/analysis-workspace-basics/building-a-workspace-project-from-scratch.html?lang=zh-Hans)
-   * [使用Analysis Workspace中的表、可视化和面板](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/using-panels/using-tables-visualizations-and-panels.html?lang=zh-Hans)
-   * [可视化图表用例](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/visualizations/visualization-use-cases.html?lang=zh-Hans)
+   * [Analysis Workspace概述](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/analysis-workspace-basics/analysis-workspace-overview.html)
+   * [从头开始构建Workspace项目](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/analysis-workspace-basics/building-a-workspace-project-from-scratch.html)
+   * [使用Analysis Workspace中的表、可视化和面板](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/using-panels/using-tables-visualizations-and-panels.html)
+   * [可视化图表用例](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/visualizations/visualization-use-cases.html)
 
-   此外，还可在Experience League上免费参加课程。 查看[此处](https://experienceleague.adobe.com/zh-hans?lang=en&Solution=Analytics#courses)提供的[!DNL Analytics]课程。
+   此外，还可在Experience League上免费参加课程。 查看[此处](https://experienceleague.adobe.com/?lang=en&Solution=Analytics#courses)提供的[!DNL Analytics]课程。
