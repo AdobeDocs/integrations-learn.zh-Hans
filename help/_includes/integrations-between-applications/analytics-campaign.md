@@ -1,7 +1,7 @@
 ---
 source-git-commit: 94b074c17e976e4f4acbb1ff41aacfc9bf74744c
 workflow-type: tm+mt
-source-wordcount: '139'
+source-wordcount: '155'
 ht-degree: 2%
 
 ---
@@ -13,10 +13,10 @@ ht-degree: 2%
 
 {{campaign-description}}
 
-Adobe[!DNL Analytics]与Adobe[!DNL Campaign]的集成实现了无缝的数据共享和电子邮件跟踪，并提供了以下好处：
+Adobe [!DNL Analytics]与Adobe [!DNL Campaign]的集成实现了无缝的数据共享和电子邮件跟踪，并提供了以下优势：
 
-+ 将Adobe[!DNL Campaign]中的KPI数据&#x200B;**共享到Adobe[!DNL Analytics]。**
-+ **使用Adobe[!DNL Analytics]参数扩充跟踪公式**。
++ 将KPI数据&#x200B;**从Adobe [!DNL Campaign]共享到Adobe [!DNL Analytics]。**
++ **使用Adobe [!DNL Analytics]参数扩充跟踪公式**。
 + 使用触发器根据特定跟踪行为&#x200B;**发送个性化电子邮件**。
 
 ## 常见集成
@@ -33,10 +33,10 @@ Adobe[!DNL Analytics]与Adobe[!DNL Campaign]的集成实现了无缝的数据共
     <tbody>
         <tr>
             <td rowspan="2">[!DNL Campaign] 标准with [!DNL Analytics]</td>
-            <td><a href="https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/integrations/track-the-success-of-your-deliveries-in-analytics.html?lang=zh-Hans" target="_blank" rel="noreferrer">外部[!DNL Campaign]帐户链接到Adobe[!DNL Analytics]和中的管理员配置 [!DNL Analytics]</a></td>
+            <td><a href="https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/integrations/track-the-success-of-your-deliveries-in-analytics.html?lang=zh-Hans" target="_blank" rel="noreferrer">链接到Adobe [!DNL Analytics]的外部[!DNL Campaign]帐户以及中的管理员配置 [!DNL Analytics]</a></td>
             <td>
                 <ul style="margin-top: 0;">
-                    <li>希望直接在Adobe[!DNL Analytics]中跟踪从[!DNL Campaign]发送的电子邮件是否成功。</li>
+                    <li>当您要直接在Adobe [!DNL Analytics]中跟踪从[!DNL Campaign]发送的电子邮件是否成功时。</li>
                 </ul>
             </td>
             <td>
@@ -47,7 +47,7 @@ Adobe[!DNL Analytics]与Adobe[!DNL Campaign]的集成实现了无缝的数据共
             </td>
         </tr>
         <tr>
-            <td><a href="../../integrations/tutorials/campaign-analytics/campaign-analytics-trigger.md" target="_blank" rel="noreferrer">触发因素</a></li>
+            <td><a href="../../integrations/tutorials/campaign-analytics/campaign-analytics-trigger.md" target="_blank" rel="noreferrer">触发器</a></li>
             <td>
                 <ul style="margin-top: 0;">
                     <li>使用实时事件数据触发事务性消息。</li>
