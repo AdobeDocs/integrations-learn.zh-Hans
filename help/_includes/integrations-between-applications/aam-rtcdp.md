@@ -1,8 +1,8 @@
 ---
 source-git-commit: 838a4dc4cc89da5d9b3798dc62d518dac22e1d3a
 workflow-type: tm+mt
-source-wordcount: '147'
-ht-degree: 2%
+source-wordcount: '168'
+ht-degree: 1%
 
 ---
 
@@ -35,7 +35,7 @@ ht-degree: 2%
     <tbody>
         <tr>
             <td>
-                <a href="https://experienceleague.adobe.com/docs/platform-learn/tutorials/sources/ingest-data-from-aam.html?lang=zh-Hans" target="_blank" rel="noreferrer">Audience Manager和Real-Time CDP</a>
+                <a href="https://experienceleague.adobe.com/docs/platform-learn/tutorials/sources/ingest-data-from-aam.html" target="_blank" rel="noreferrer">Audience Manager和Real-Time CDP</a>
             </td>
             <td>Adobe Audience Manager数据连接器</td>
             <td>
