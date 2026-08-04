@@ -48,29 +48,29 @@ ht-degree: 0%
 
 获取集成的概述和演示。
 
->[!VIDEO](https://video.tv.adobe.com/v/340091?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/342975?captions=chi_hans&quality=12&learn=on)
 
 
 ## 在实时客户数据[!DNL Platform]中配置Adobe [!DNL Target]目标
 
 了解如何在实时客户数据[!DNL Platform]中配置Adobe [!DNL Target]目标。
 
->[!VIDEO](https://video.tv.adobe.com/v/3418799/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3449803/?captions=chi_hans&learn=on)
 
 ## 将区段和配置文件属性激活到Adobe [!DNL Target]
 
 了解如何从Adobe Real-Time Customer Data [!DNL Platform]向Adobe [!DNL Target]激活区段和配置文件属性。
 
->[!VIDEO](https://video.tv.adobe.com/v/3419036/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3447365/?captions=chi_hans&learn=on)
 
 ## 在Adobe [!DNL Target]中使用Real-Time CDP区段
 
 了解如何在Adobe [!DNL Target]中使用实时客户数据[!DNL Platform]区段。
 
->[!VIDEO](https://video.tv.adobe.com/v/3419149/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3446837/?captions=chi_hans&learn=on)
 
 ## 在Adobe [!DNL Target]中使用Real-Time CDP配置文件属性
 
 了解如何在Adobe [!DNL Target]中使用Adobe Real-Time Customer Data [!DNL Platform]配置文件属性。
 
->[!VIDEO](https://video.tv.adobe.com/v/3419318/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3451903/?captions=chi_hans&learn=on)
