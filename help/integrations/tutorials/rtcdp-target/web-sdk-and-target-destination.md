@@ -44,7 +44,7 @@ ht-degree: 0%
 
 获取集成的概述和演示。
 
->[!VIDEO](https://video.tv.adobe.com/v/340091?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/342975?captions=chi_hans&quality=12&learn=on)
 
 
 ## 在实时客户数据[!DNL Platform]中配置Adobe [!DNL Target]目标

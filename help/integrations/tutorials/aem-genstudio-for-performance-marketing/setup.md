@@ -26,8 +26,8 @@ level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
 source-git-commit: 2a324011b3d235db3d4642c2797c4fa107267e6a
 workflow-type: tm+mt
-source-wordcount: 372
-ht-degree: 16%
+source-wordcount: 495
+ht-degree: 37%
 
 ---
 
@@ -79,7 +79,7 @@ CARDS
                     <p class="is-size-6">通过精选的视频播放列表，了解如何在Assets视图中导航AEM Assets as a Cloud Service，以增强您的产品知识。</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/zh-hans/docs/experience-manager-learn/assets/video-playlists/assets-view" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">了解详情</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">了解详情</span>
                 </a>
             </div>
         </div>
@@ -89,7 +89,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/zh-hans/docs/experience-manager-learn/assets/content-hub/set-up" title="启用AEM Assets Content Hub" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3433513/?format=jpeg&nocache=1733417775065" alt="启用AEM Assets Content Hub"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3450292/?captions=chi_hans&format=jpeg&nocache=1733417775065" alt="启用AEM Assets Content Hub"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -125,7 +125,7 @@ CARDS
                     <p class="is-size-6">了解如何使用 GenStudio for Performance Marketing 来生成新的与品牌一致的营销内容。</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/zh-hans/docs/genstudio-for-performance-marketing/user-guide/get-started" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">了解详情</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">了解详情</span>
                 </a>
             </div>
         </div>
