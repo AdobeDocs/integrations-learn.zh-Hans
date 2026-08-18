@@ -1,7 +1,7 @@
 ---
 source-git-commit: 94b074c17e976e4f4acbb1ff41aacfc9bf74744c
 workflow-type: tm+mt
-source-wordcount: '367'
+source-wordcount: '390'
 ht-degree: 0%
 
 ---
@@ -13,14 +13,14 @@ ht-degree: 0%
 
 {{audience-manager-description}}
 
-启用此集成(通过将Adobe[!DNL Analytics]数据服务器端转发到Audience Manager)，可为Audience Manager提供其主要数据源之一，即在线客户行为数据。 然后，此数据可以与其他数据（如第一方CRM数据或第三方合作伙伴数据）相结合，以创建丰富的客户区段。 此外，Audience Manager区段随后在响应中发送回网页，以供进一步访客分析。 这两个有价值的用例如下所述。
+通过将Adobe [!DNL Analytics]数据服务器端转发到Audience Manager来启用此集成，可使Audience Manager成为其主要数据源之一，即在线客户行为数据。 然后，此数据可以与其他数据（如第一方CRM数据或第三方合作伙伴数据）相结合，以创建丰富的客户区段。 此外，Audience Manager区段随后在响应中发送回网页，以供进一步访客分析。 这两个有价值的用例如下所述。
 
-集成Adobe[!DNL Analytics]和Audience Manager的主要好处是：
+集成Adobe [!DNL Analytics]和Audience Manager的主要优势包括：
 
-+ **增强的分段**：将Adobe[!DNL Analytics]与Audience Manager数据相结合，在营销活动中形成精确、个性化的受众区段。
++ **增强的分段**：将Adobe [!DNL Analytics]与Audience Manager数据相结合，在营销活动中形成精确、个性化的受众区段。
 + **统一客户配置文件**：集成数据源以了解交互和行为，创建全面的客户配置文件。
-+ **广告效果提高**：通过Adobe[!DNL Analytics]中的数据驱动定位与Audience Manager集成，优化广告。
-+ **数据驱动决策**：通过详细的分析、合并Adobe[!DNL Analytics]和Audience Manager数据告知选择。
++ **广告效果改进**：通过Adobe [!DNL Analytics]与Audience Manager集成中的数据驱动定位优化广告。
++ **数据驱动型决策**：通过详细的分析信息告知选择，合并Adobe [!DNL Analytics]和Audience Manager数据。
 + **个性化体验**：定制您的内容和选件，使用两个平台丰富客户在接触点之间的交互。
 
 总体而言，此集成汇集了宝贵的数据和受众见解。 它使企业能够创建更有针对性和更相关的营销活动，同时加深对其客户偏好和行为的了解。
@@ -41,10 +41,10 @@ ht-degree: 0%
             <td>
                 <a href="/docs/analytics-learn/tutorials/integrations/audience-manager/enable-server-side-forwarding-in-adobe-launch.html" target="_blank" rel="noreferrer">[!DNL Analytics]将数据发送到Audience Manager</a>
             </td>
-            <td>Adobe[!DNL Analytics]标记扩展或启用了服务器端转发的AppMeasurement.js</td>
+            <td>Adobe [!DNL Analytics]标记扩展或启用了服务器端转发的AppMeasurement.js</td>
             <td>
                 <ul style="margin-top: 0;">
-                    <li>当您想要将Adobe[!DNL Analytics]数据发送到Audience Manager以创建区段时，这些区段可以与其他Adobe Experience Cloud目标、基于人员的目标或Audience Manager支持的其他基于设备和自定义目标共享。</li>
+                    <li>当您要将Adobe [!DNL Analytics]数据发送到Audience Manager以创建区段时，这些区段可以与其他Adobe Experience Cloud目标、基于人员的目标或Audience Manager支持的其他基于设备和自定义目标共享。</li>
                 </ul>
             </td>
             <td>
@@ -59,7 +59,7 @@ ht-degree: 0%
             <td>
                 <a href="https://experienceleague.adobe.com/docs/analytics/integration/audience-analytics/mc-audiences-aam.html?lang=zh-Hans" target="_blank" rel="noreferrer">Audience Manager将数据发送回[!DNL Analytics]</a>
             </td>
-            <td>Adobe[!DNL Analytics]标记扩展或启用了服务器端转发的AppMeasurement.js</td>
+            <td>Adobe [!DNL Analytics]标记扩展或启用了服务器端转发的AppMeasurement.js</td>
             <td>
                 <ul style="margin-top: 0;">
                     <li>当您想要将区段从Audience Manager共享到[!DNL Analytics]以告知受众发现、分段和优化时。</li>
@@ -68,8 +68,8 @@ ht-degree: 0%
             <td>
                 <ul style="margin-top: 0;">
                     <li>在[!DNL Analytics]报表中使用包含来自第三方提供商的人口统计数据的Audience Manager区段。</li>
-                    <li>在[!DNL Analytics]报表中使用包含来自广告服务器的促销活动数据的Audience Manager区段。</li>
-                    <li>在[!DNL Analytics]报表中使用包含已载入CRM数据的Audience Manager区段。</li>
+                    <li>在[!DNL Analytics]报表中使用包含来自广告服务器的营销活动数据的Audience Manager区段。</li>
+                    <li>使用在[!DNL Analytics]报表中包含已载入CRM数据的Audience Manager区段。</li>
                 </ul>
             </td>
         </tr>
