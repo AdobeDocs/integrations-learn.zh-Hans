@@ -1,19 +1,19 @@
 ---
 source-git-commit: 94b074c17e976e4f4acbb1ff41aacfc9bf74744c
 workflow-type: tm+mt
-source-wordcount: '219'
+source-wordcount: '228'
 ht-degree: 1%
 
 ---
 
 
-# 将Adobe[!DNL Analytics]与客户历程[!DNL Analytics]集成
+# 将Adobe [!DNL Analytics]与客户历程[!DNL Analytics]集成
 
 {{analytics-description}}
 
 {{customer-journey-analytics-description}}
 
-将Adobe[!DNL Analytics]与客户历程[!DNL Analytics]集成提供了以下主要优点：
+将Adobe [!DNL Analytics]与客户历程[!DNL Analytics]集成提供了以下主要优势：
 
 + **对客户行为和偏好的全面洞察**。
 + **无缝跨渠道跟踪**&#x200B;以实现整体视图。
@@ -38,7 +38,7 @@ ht-degree: 1%
             <td><a href="../../integrations/tutorials/analytics-cja/experience-platform-source-connector.md" target="_blank" rel="noreferrer">体验[!DNL Platform]源连接器</a></td>
             <td>
                 <ul style="margin-top: 0;">
-                    <li>推荐的方法适用于已实施Adobe[!DNL Analytics]，并希望以最快的方式将此数据摄取到Experience [!DNL Platform]以在客户历程[!DNL Analytics]中使用的客户。</li>
+                    <li>推荐的方法适用于已实施Adobe [!DNL Analytics]，并希望以最快的方式将此数据摄取到体验[!DNL Platform]中以用于客户历程[!DNL Analytics]的客户。</li>
                     <li>当数据收集开始后，客户配置文件的数据可用性可能介于2-30分钟之间，并且数据湖的可用性长达90分钟。</li>
                 </ul>
             </td>
