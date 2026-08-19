@@ -1,8 +1,8 @@
 ---
 source-git-commit: 94b074c17e976e4f4acbb1ff41aacfc9bf74744c
 workflow-type: tm+mt
-source-wordcount: '227'
-ht-degree: 1%
+source-wordcount: '258'
+ht-degree: 6%
 
 ---
 
@@ -40,9 +40,9 @@ ht-degree: 1%
             <td>Adobe体验 [!DNL Platform]</td>
             <td>
                 <ul style="margin-top: 0;">
-                    <li>当您想要将客户历程[!DNL Analytics] (CJA)受众用于Adobe Journey Optimizer中的历程时。</li>
-                    <li>当您想要通过Experience [!DNL Platform]目标将CJA受众导出到第三方时。</li>
-                    <li>当您希望使用从CJA中基于事件的数据派生出的有用属性扩充实时客户个人资料时。</li>
+                    <li>当您要在Adobe Journey Optimizer中将客户历程[!DNL Analytics] (CJA)受众用于历程时。</li>
+                    <li>当您要通过Experience [!DNL Platform]目标将CJA受众导出到第三方时。</li>
+                    <li>当您希望使用从CJA中基于事件的数据派生出的有用属性扩充实时客户配置文件时。</li>
                     <li>将受众发布到Real-Time CDP后，以最小的延迟完成所有这些操作。</li>
                     <li>当您要发布一次性受众或定期受众时。</li>
                 </ul>
