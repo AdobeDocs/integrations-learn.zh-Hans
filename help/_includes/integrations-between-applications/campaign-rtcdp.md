@@ -1,11 +1,9 @@
 ---
 source-git-commit: 94b074c17e976e4f4acbb1ff41aacfc9bf74744c
 workflow-type: tm+mt
-source-wordcount: '122'
+source-wordcount: '124'
 ht-degree: 2%
-
 ---
-
 
 # [!DNL Campaign]和实时客户数据[!DNL Platform]
 
@@ -13,9 +11,9 @@ ht-degree: 2%
 
 {{real-time-cdp-description}}
 
-Adobe[!DNL Campaign]托管Cloud Service目标和Source连接器允许Adobe[!DNL Campaign]与Adobe体验[!DNL Platform]之间的无缝集成。 此集成的主要优势包括：
+Adobe [!DNL Campaign]托管Cloud Service目标和Source连接器允许Adobe [!DNL Campaign]与Adobe Experience [!DNL Platform]之间的无缝集成。 此集成的主要优势包括：
 
-+ **利用AdobeExperience [!DNL Platform]支持的受众来增强[!DNL Campaign]的分段功能**，并在[!DNL Campaign]中激活该数据。
++ **利用Adobe Experience [!DNL Platform]支持的受众，增强[!DNL Campaign]的分段功能**，并在[!DNL Campaign]中激活该数据。
 
 ## 常见集成
 
@@ -31,10 +29,10 @@ Adobe[!DNL Campaign]托管Cloud Service目标和Source连接器允许Adobe[!DNL 
     <tbody>
         <tr>
             <td><a href="../../integrations/tutorials/campaign-rtcdp/campaign-v8-real-time-cdp.md" target="_blank" rel="noreferrer">[!DNL Campaign] 使用Real-Time CDP的v8</a></td>
-            <td>[!DNL Campaign] 托管Cloud Service目标</td>
+            <td>[!DNL Campaign] 托管云服务目标</td>
             <td>
                 <ul style="margin-top: 0;">
-                    <li>利用AdobeExperience [!DNL Platform]支持的智能区段，并使用Adobe[!DNL Campaign]激活它们，以便通过Adobe[!DNL Campaign]支持的各种渠道联系其客户群。</li>
+                    <li>利用Adobe Experience [!DNL Platform]支持的智能区段，并使用Adobe [!DNL Campaign]激活它们，以便通过Adobe [!DNL Campaign]支持的不同渠道联系其客户群。</li>
                 </ul>
             </td>
             <td>
