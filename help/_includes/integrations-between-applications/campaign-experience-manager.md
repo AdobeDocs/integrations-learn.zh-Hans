@@ -1,11 +1,9 @@
 ---
 source-git-commit: 94b074c17e976e4f4acbb1ff41aacfc9bf74744c
 workflow-type: tm+mt
-source-wordcount: '126'
+source-wordcount: '146'
 ht-degree: 2%
-
 ---
-
 
 # [!DNL Campaign]与Experience Manager集成
 
@@ -13,10 +11,10 @@ ht-degree: 2%
 
 {{experience-manager-description}}
 
-集成Adobe[!DNL Campaign]和AEMExperience Manager的主要优势包括：
+集成Adobe [!DNL Campaign]和AEM Experience Manager的主要优势包括：
 
 + **直接在Adobe Experience Manager中管理电子邮件投放的内容**&#x200B;和表单。
-+ 从Adobe Experience Manager Assets编辑Adobe[!DNL Campaign]中的电子邮件或登录页&#x200B;**时**&#x200B;使用Brand Assets。
++ 在Adobe [!DNL Campaign]中，从Adobe Experience Manager Assets编辑电子邮件或登陆页&#x200B;**时**&#x200B;使用Brand Assets。
 
 ## 常见集成
 
@@ -35,7 +33,7 @@ ht-degree: 2%
             <td>AEM集成包</td>
             <td>
                 <ul style="margin-top: 0;">
-                    <li>当您要使用WYSIWYG创作创建电子邮件模板或登陆页面时。</li>
+                    <li>使用WYSIWYG创作创建电子邮件模板或登陆页面时。</li>
                 </ul>
             </td>
             <td>
@@ -47,7 +45,7 @@ ht-degree: 2%
             </td>
         </tr>      
         <tr>
-            <td><a href="https://experienceleague.adobe.com/docs/experience-manager-learn/forms/aem-forms-with-adobe-campaign/aem-forms-with-campaign-standard-getting-started-tutorial.html?lang=zh-Hans" target="_blank" rel="noreferrer">[!DNL Campaign] AEM Forms的标准</a></td>
+            <td><a href="https://experienceleague.adobe.com/docs/experience-manager-learn/forms/aem-forms-with-adobe-campaign/aem-forms-with-campaign-standard-getting-started-tutorial.html" target="_blank" rel="noreferrer">[!DNL Campaign] AEM Forms的标准</a></td>
             <td>Adobe IMS访问令牌</td>
             <td>
                 <ul style="margin-top: 0;">
