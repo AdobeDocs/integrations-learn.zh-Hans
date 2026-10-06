@@ -1,32 +1,32 @@
 ---
 title: 应用程序集成
-description: 了解集成Experience Cloud应用程序的常见配置。 了解Adobe提供的同类最佳企业产品如何帮助您应对业务挑战。
+description: 了解用于集成Experience Cloud应用程序的常见配置。 了解Adobe提供的同类最佳企业产品如何帮助您应对业务挑战。
 exl-id: 3c0a75ec-2b4c-4984-bd42-0b5ddeb7c004
 TQID: https://experienceleague.adobe.com/TQeDwtLluKJYg-j7LUqXGkb6aluY4UqYAfpyzWZ5sKQ
 product_v2:
   - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+    internal-label: CX Enterprise
 feature_v2:
   - id: fc7979f3-56c3-43ca-9784-f1ea3dc69c4b
-source-git-commit: 2a324011b3d235db3d4642c2797c4fa107267e6a
+    internal-label: Integrations
+source-git-commit: 4c51eef6f89060dc633dede5ea23e0f3ab445d0b
 workflow-type: tm+mt
-source-wordcount: 164
+source-wordcount: '164'
 ht-degree: 0%
-
 ---
-
 # Experience Cloud应用程序的集成配置
 
 您是否熟悉Experience Cloud产品，但不确定如何最好地集成它们？ 您是否了解您的业务目标，但不确定要使用哪些应用程序？ 那你就来对地方了！
 
-这些Experience Cloud集成教程介绍了一些最常见的产品集成。 由于您的配置选项取决于您的环境，因此我们已按业务解决方案和产品组织了集成。 使用这些教程和视频作为按原样部署的指导，或者您可以修改它们以满足您的环境需求。
+这些Experience Cloud集成教程介绍了一些最常用的产品集成。 由于您的配置选项取决于您的环境，因此我们已按业务解决方案和产品组织了集成。 使用这些教程和视频作为按原样部署的指导，或者您可以修改它们以满足您的环境需求。
 
 <table>
 <tr>
    <td style="vertical-align: middle; text-align: center;">
-      <a  href="./integrations-between-applications/overview.md"><img alt="按产品" src="https://cdn.experienceleague.adobe.com/thumb/by-product.png?lang=zh-Hans"/></a>
+      <a  href="./integrations-between-applications/overview.md"><img alt="按产品" src="https://cdn.experienceleague.adobe.com/thumb/by-product.png"/></a>
    </td>
    <td>
-      <a  href="./solution-categories/overview.md"><img alt="按业务解决方案" src="https://cdn.experienceleague.adobe.com/thumb/by-solution.png?lang=zh-Hans"/></a>
+      <a  href="./solution-categories/overview.md"><img alt="按业务解决方案" src="https://cdn.experienceleague.adobe.com/thumb/by-solution.png"/></a>
    </td>  
 </tr>
 <tr>
