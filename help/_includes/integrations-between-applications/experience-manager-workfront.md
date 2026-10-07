@@ -1,11 +1,9 @@
 ---
 source-git-commit: 838a4dc4cc89da5d9b3798dc62d518dac22e1d3a
 workflow-type: tm+mt
-source-wordcount: '206'
-ht-degree: 1%
-
+source-wordcount: '237'
+ht-degree: 2%
 ---
-
 
 # Experience Manager与Workfront集成
 
@@ -13,12 +11,12 @@ ht-degree: 1%
 
 {{workfront-description}}
 
-AEM和Workfront可简化内容制作，允许将托管内容从Workfront无缝导入到AEM中，以实现高效的组织和访问，确保及时和高质量的数字资产交付。 主要优势包括：
+AEM和Workfront可简化内容制作，允许将托管内容从Workfront无缝导入到AEM，以实现高效的组织和访问，确保及时和高质量的数字资产交付。 主要优势包括：
 
 + **简化的内容生产**： AEM和Adobe Workfront集成优化了端到端内容创建过程。
 + **增强的协作**：团队可以在内容项目上无缝协作，从而促进更好的通信和效率。
 + **已改进资源管理**： Workfront的项目跟踪功能可实现更好的资源分配和利用率。
-+ **高效的审批和审核**： AEM和Workfront集成可简化内容审核和审核工作流。
++ **高效的审批和审核**：AEM和Workfront集成可简化内容审核和审核工作流。
 + **加快上市时间**：组合解决方案加快了内容交付，缩短了营销活动和资产的上市时间。
 
 ## 常见集成
@@ -34,7 +32,7 @@ AEM和Workfront可简化内容制作，允许将托管内容从Workfront无缝�
     </thead>
     <tbody>
         <tr>
-            <td><a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/configure.html?lang=zh-Hans" target="_blank" rel="noreferrer">Workfront和AEM Assets Essentials</a></td>
+            <td><a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/configure.html" target="_blank" rel="noreferrer">Workfront和AEM Assets Essentials</a></td>
             <td>本机连接器</td>
             <td>
               <ul style="margin-top: 0;">
@@ -50,7 +48,7 @@ AEM和Workfront可简化内容制作，允许将托管内容从Workfront无缝�
             </td>
         </tr>
         <tr>
-            <td><a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets/workfront/enhanced-connector/aem-experts-series/overview.html?lang=zh-Hans" target="_blank" rel="noreferrer">Workfront和AEM Assets</a></td>
+            <td><a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets/workfront/enhanced-connector/aem-experts-series/overview.html" target="_blank" rel="noreferrer">Workfront和AEM Assets</a></td>
             <td>增强型连接器</td>
             <td>
                 <ul style="margin-top: 0;">
