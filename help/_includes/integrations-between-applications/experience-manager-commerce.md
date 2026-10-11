@@ -1,19 +1,17 @@
 ---
 source-git-commit: 94b074c17e976e4f4acbb1ff41aacfc9bf74744c
 workflow-type: tm+mt
-source-wordcount: '175'
-ht-degree: 2%
-
+source-wordcount: '226'
+ht-degree: 8%
 ---
 
-
-# Experience Manager和Adobe[!DNL Commerce]
+# Experience Manager和Adobe [!DNL Commerce]
 
 {{experience-manager-description}}
 
 {{commerce-description}}
 
-使用[!DNL Commerce] Integration Framework (CIF)集成AEM和Adobe[!DNL Commerce]提供了几个好处，包括：
+使用[!DNL Commerce] Integration Framework (CIF)集成AEM和Adobe [!DNL Commerce]可提供多种好处，包括：
 
 + **使用开箱即用的商务组件加快创新**，降低自定义代码要求。
 + **使用Adobe的客户端数据层通过个性化体验推动转化**。
@@ -33,11 +31,11 @@ ht-degree: 2%
     </thead>
     <tbody>
         <tr>
-            <td rowspan="3">AEM Sites作为Cloud Service和 [!DNL Commerce]</td>
+            <td rowspan="3">AEM Sites as Cloud Service和 [!DNL Commerce]</td>
             <td><a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/content-and-commerce/storefront/getting-started.html?lang=zh-Hans" target="_blank" rel="noreferrer">使用[!DNL Commerce] Integration Framework (CIF)创建单个店面</a></td>
             <td>
                 <ul style="margin-top: 0;">
-                    <li>当你想要一个店面在AEM的时候。</li>
+                    <li>只要AEM有一个店面就行。</li>
                     <li>当您要使用AEM CIF核心组件构建店面时。</li>
                 </ul>
             </td>
@@ -64,7 +62,7 @@ ht-degree: 2%
             </td>
         </tr>
         <tr>
-            <td><a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/content-and-commerce/storefront/administering/multiple-commerce-systems-setup.html?lang=zh-Hans" target="_blank" rel="noreferrer">使用[!DNL Commerce]集成框架(CIF)的多个商务系统</a></td>
+            <td><a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/content-and-commerce/storefront/administering/multiple-commerce-systems-setup.html?lang=zh-Hans" target="_blank" rel="noreferrer">使用[!DNL Commerce] Integration Framework (CIF)的多个商务系统</a></td>
             <td>
                 <ul style="margin-top: 0;"><li>当您希望使用许多商务系统的多区域或多品牌店面时。</li></ul>
             </td>
