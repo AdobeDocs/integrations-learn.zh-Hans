@@ -1,11 +1,9 @@
 ---
 source-git-commit: 94b074c17e976e4f4acbb1ff41aacfc9bf74744c
 workflow-type: tm+mt
-source-wordcount: '126'
-ht-degree: 6%
-
+source-wordcount: '134'
+ht-degree: 5%
 ---
-
 
 # [!DNL Analytics]和[!DNL Target]集成
 
@@ -13,9 +11,9 @@ ht-degree: 6%
 
 {{target-description}}
 
-集成Adobe[!DNL Analytics]和Adobe[!DNL Target] (A4T)的主要好处是：
+集成Adobe [!DNL Analytics]和Adobe [!DNL Target] (A4T)的主要优势包括：
 
-+ **数据驱动个性化**：将[!DNL Analytics]用于Adobe[!DNL Target]中的目标活动，以增强个性化策略。
++ **数据驱动个性化**：将[!DNL Analytics]用于Adobe [!DNL Target]中的目标活动，以增强个性化策略。
 + **统一报告**： A4T集成结合了[!DNL Target]和[!DNL Analytics]报告以进行综合分析。
 + **已优化定位**：根据[!DNL Analytics]数据做出决策以实现准确的受众分段和内容优化。
 + **共享受众**：使用[!DNL Analytics]创建详细的区段，并将其共享给[!DNL Target]用作测试受众。
@@ -39,7 +37,7 @@ ht-degree: 6%
             </td>
             <td>
                 <ul style="margin-top: 0;">
-                    <li>您要使用Adobe[!DNL Analytics]丰富报表功能来显示和分析[!DNL Target]活动结果。</li>
+                    <li>您要使用Adobe [!DNL Analytics]丰富报表功能来显示和分析[!DNL Target]活动结果。</li>
                 </ul>
             </td>
             <td>
@@ -52,7 +50,7 @@ ht-degree: 6%
         <tr>
             <td>
                 <ul style="margin-top: 0;">
-                    <li><a href="https://experienceleague.adobe.com/docs/target/using/integrate/mmp.html?lang=zh-Hans" target="_blank" rel="noreferrer">Experience Cloud 核心服务</a></li>
+                    <li><a href="https://experienceleague.adobe.com/docs/target/using/integrate/mmp.html" target="_blank" rel="noreferrer">Experience Cloud 核心服务</a></li>
                 </ul>
             </td>
             <td>
