@@ -1,11 +1,9 @@
 ---
 source-git-commit: 838a4dc4cc89da5d9b3798dc62d518dac22e1d3a
 workflow-type: tm+mt
-source-wordcount: '118'
+source-wordcount: '131'
 ht-degree: 2%
-
 ---
-
 
 # Experience Manager和Marketo Engage
 
@@ -13,7 +11,7 @@ ht-degree: 2%
 
 {{marketo-description}}
 
-将Experience Manager与Marketo Engage集成提供了多种好处，包括：
+将Experience Manager与Marketo Engage集成具有以下优势：
 
 + **表单创建和管理**： AEM Forms允许轻松创建交互式表单，并与Marketo Engage集成以生成潜在客户。
 + **数据同步**： AEM Forms将表单提交同步到Marketo Engage，确保高效的潜在客户捕获和管理。
@@ -31,7 +29,7 @@ ht-degree: 2%
     </thead>
     <tbody>
         <tr>
-            <td><a href="https://experienceleague.adobe.com/docs/experience-manager-learn/forms/aem-forms-with-marketo/part1.html?lang=zh-Hans" target="_blank" rel="noreferrer">Experience Manager Forms和Marketo Engage</a></td>
+            <td><a href="https://experienceleague.adobe.com/docs/experience-manager-learn/forms/aem-forms-with-marketo/part1.html" target="_blank" rel="noreferrer">Experience Manager Forms和Marketo Engage</a></td>
             <td>
                 <ul style="margin-top: 0;">
                     <li>适用于要根据用户的数字表单提交生成潜在客户的情况。</li>
