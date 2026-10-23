@@ -1,11 +1,9 @@
 ---
 source-git-commit: 838a4dc4cc89da5d9b3798dc62d518dac22e1d3a
 workflow-type: tm+mt
-source-wordcount: '135'
+source-wordcount: '137'
 ht-degree: 2%
-
 ---
-
 
 # Acrobat Sign与Experience Manager集成
 
