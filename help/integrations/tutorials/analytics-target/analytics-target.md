@@ -106,7 +106,7 @@ ht-degree: 9%
 * 解释如何使用SDID绑定[!DNL Analytics]和[!DNL Target]请求
 * 描述带有Adobe [!DNL Target] (A4T)的Adobe [!DNL Analytics]的实施要求
 
->[!VIDEO](https://video.tv.adobe.com/v/35146/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3507696/?captions=chi_hans&quality=12&learn=on)
 
 ### 使用[!DNL Analytics]作为[!DNL Target]的数据Source
 
